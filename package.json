@@ -11,8 +11,10 @@
         "dev": "tsc && node dist/app.js"
     },
     "dependencies": {
+        "@types/node": "^17.0.24",
         "axios": "^0.26.1",
         "cheerio": "^1.0.0-rc.10",
-        "express": "^4.17.3"
+        "express": "^4.17.3",
+        "fs": "^0.0.1-security"
     }
 }
