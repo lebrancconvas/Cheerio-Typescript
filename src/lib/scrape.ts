@@ -5,7 +5,8 @@ import fs from 'fs';
 
 export const getHTML = async(url: string) => {
 	const {data} = await axios.get(url);
-	return data;
+	const $ = cheerio.load(data);
+	return $.root().html() as string;
 }
 
 export const writeHTML = async(url: string, filename: string) => {
