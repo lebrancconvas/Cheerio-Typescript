@@ -1,0 +1,901 @@
+
+
+Nihon Falcom - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Nihon Falcom
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Japanese video game company
+
+
+Nihon FalcomA variant of the Nihon Falcom logoNative name日本ファルコム株式会社Romanized nameNihon farukomu kabushiki kaishaTypePublicTraded asTYO: 3723IndustryVideo gamesFoundedMarch 1981; 41 years ago (1981-03)FounderMasayuki KatoHeadquartersTachikawa, JapanKey peopleToshihiro Kondo (President)ProductsYsDragon SlayerThe Legend of HeroesTrailsNumber of employees62 (2019[1])Websitefalcom.co.jp
+Nihon Falcom Corporation (日本ファルコム株式会社) is a Japanese video game developer of role-playing video games, most notably the Ys, The Legend of Heroes, and Trails series. The company was founded in March 1981, making them one of the oldest active video game companies.[2] They are credited with pioneering the action role-playing game genre, the Japanese role-playing game industry, and the popularization of personal computers in Japan.[2][3][4]
+
+Contents
+
+1 History
+2 List of games
+3 References
+4 External links
+
+
+
+History[edit]
+  Company president Toshihiro Kondo in 2014
+Nihon Falcom was founded by Masayuki Kato in 1981,[1] and quickly became one of the most prominent and influential Japanese role-playing video game developers, alongside Enix and Square.[5][4][6] They are credited with laying the foundations for the Japanese role-playing game industry.[4]
+Falcom's first role-playing game was Panorama Toh (Panorama Island), released for the PC-8801 in 1983 and created by Yoshio Kiya, who would go on to create the Dragon Slayer and Brandish franchises. While its RPG elements were limited, lacking traditional statistical or leveling systems, the game featured real-time combat with a gun, bringing it close to the action RPG formula that Falcom would later be known for. Set on a desert island, the game's overworld is presented as a hex grid and featured a day-night cycle. There were also indigenous non-player characters (NPCs) who the player could choose to attack, have a conversation with, or give money for items, though NPCs could choose to run away with the money. In order to survive on the island, the player needs to find and consume rations, as every normal action consumes hit points. The island also has traps, which require calling for help and waiting for NPCs to help. The player could also be bit by snakes that poison and paralyze the player, requiring medicine to heal or calling for help from NPCs.[7]
+Falcom eventually went on to create their flagship franchises, including the Dragon Slayer, The Legend of Heroes and Ys series. The original Dragon Slayer was responsible for setting the template for the action role-playing game genre.[3] Dragon Slayer II: Xanadu (1985) had more than 400,000 copies sold,[8] making it the best-selling PC game up until that time.[9]
+While most of Falcom's games have been ported to various video game consoles of all generations, they have only developed a few non-PC video games themselves.[10] The company's decision to develop mainly for PCs rather than consoles set them apart from their main rivals, Enix and Square, but limited the company's popularity in the Western world, thus limiting their growth potential in the 1990s.[4][2] By the early 2010s, the Ys series was second only to the Final Fantasy series as the largest Japanese role-playing game franchise in terms of the overall number of game releases.[11]
+Falcom was also a pioneer in video game music, with their early soundtracks mostly composed by chiptune musicians Yuzo Koshiro and Mieko Ishikawa.[11][12][13] They were one of the first game companies to have their own named sound team dedicated to writing scores for their games, known as the Falcom Sound Team jdk.[11] Falcom's Ys soundtracks in particular are considered some of the most influential role-playing game scores of all time.[14]
+
+List of games[edit]
+
+
+
+Year
+
+Game
+
+Platform(s)
+
+
+1982
+
+Galactic Wars
+
+PC-8801
+
+
+1983
+
+Super Mahjong
+
+X1
+
+
+Bird Land
+
+PC-8801
+
+
+Computer the Golf
+
+
+Horror House
+
+
+Cosmo Fighter II
+
+X1
+
+
+Super Horoscope Kanji Version
+
+PC-8801
+
+
+Private Stripper
+
+PC-8801, FM-7, PC-9801
+
+
+SSGN Covert Cruise Special Attack Strategy
+
+FM-8
+
+
+Panorama Island
+
+PC-8801
+
+
+Horror House Part-II
+
+
+1984
+
+Monster House
+
+Sharp MZ
+
+
+Demon's Ring
+
+PC-8801, FM-7, PC-9801
+
+
+Asteka
+
+PC-8801, FM-7, PC-9801
+
+
+The Threat of North
+
+PC-6001
+
+
+Escape from Twilight Zone
+
+FM-7
+
+
+Dragon Slayer
+
+PC-8801, FM-7, X1, MSX
+
+
+1985
+
+Dragon Slayer II: Xanadu
+
+X1, PC-8801, FM-7, PC-9800, MSX, MSX2
+
+
+1986
+
+Xanadu Scenario II
+
+PC-8801, FM-7, PC-9801
+
+
+Dragon Slayer Jr: Romancia
+
+X1, PC-8801, PC-9801, MSX, MSX2
+
+
+Tombs & Treasure
+
+X1, PC-8801, PC-9801, FM-7, MSX2
+
+
+1987
+
+Ys I: Ancient Ys Vanished
+
+PC-8801, X1, PC-9801, FM-7, MSX2, Master System
+
+
+Dragon Slayer IV - Drasle Family
+
+MSX2
+
+
+Legacy of the Wizard
+
+Famicom
+
+
+Sorcerian
+
+PC-8801, PC-9801, X1, MSX2
+
+
+1988
+
+Ys II: Ancient Ys Vanished - The Final Chapter
+
+PC-8801, PC-9801, FM7, X1, MSX2
+
+
+1989
+
+Star Trader
+
+PC-8801, PC-9801
+
+
+Ys III: Wanderers from Ys
+
+PC-8801, PC-9801, MSX2
+
+
+Dragon Slayer: The Legend of Heroes
+
+PC-9801, FM TOWNS, MSX2
+
+
+1990
+
+Dinosaur
+
+PC-8801, PC-9801, FM TOWNS
+
+
+1991
+
+Lord Monarch
+
+PC-9801, FM TOWNS
+
+
+Brandish
+
+PC-9801, FM TOWNS
+
+
+Popful Mail
+
+PC-8801, PC-9801, Super Famicom, Sega CD
+
+
+1992
+
+Dragon Slayer: The Legend of Heroes II
+
+PC-8801, PC-9801
+
+
+1993
+
+Brandish 2: The Planet Buster
+
+PC-9801
+
+
+1994
+
+The Legend of Xanadu
+
+TurboGrafx-16
+
+
+The Legend of Heroes II: Prophecy of the Moonlight Witch
+
+PC-9801
+
+
+Brandish 3: Spirit of Balcan
+
+
+Revival Xanadu
+
+
+1995
+
+The Legend of Xanadu II
+
+PC Engine CD
+
+
+Revival Xanadu II Remix
+
+PC-9801
+
+
+Ys V: Lost Kefin, Kingdom of Sand
+
+Super Famicom
+
+
+1996
+
+The Legend of Heroes: A Tear of Vermillion
+
+PC-9801
+
+
+Brandish VT
+
+
+Lord Monarch Original
+
+Windows
+
+
+1997
+
+Lord Monarch First
+
+
+Lord Monarch Pro
+
+
+Sorcerian Forever
+
+
+Vantage Master
+
+
+1998
+
+Ys I Eternal
+
+
+Vantage Master V2
+
+
+Monarch Monarch
+
+
+Brandish 4
+
+
+1999
+
+The Legend of Heroes III: Song of the Ocean
+
+
+2000
+
+Ys II Eternal
+
+
+Sorcerian Original
+
+
+2001
+
+Ys I & II Complete
+
+
+Zwei: The Arges Adventure
+
+Windows, PlayStation Portable
+
+
+2002
+
+VM Japan
+
+Windows
+
+
+Dinosaur Resurrection
+
+
+2003
+
+Ys VI: The Ark of Napishtim
+
+
+2004
+
+The Legend of Heroes: Trails in the Sky
+
+Windows, PlayStation Portable, PlayStation 3, Playstation Vita
+
+
+Gurumin: A Monstrous Adventure
+
+Windows, PlayStation Portable, Nintendo 3DS
+
+
+2005
+
+Rinne
+
+Windows
+
+
+Ys: The Oath in Felghana
+
+Windows, PlayStation Portable
+
+
+Xanadu Next
+
+N-Gage, Windows
+
+
+2006
+
+The Legend of Heroes: Trails in the Sky SC
+
+Windows, PlayStation Portable, PlayStation 3, Playstation Vita
+
+
+Ys Origin
+
+Windows, PlayStation 4, PlayStation Vita, Nintendo Switch, Xbox One
+
+
+2007
+
+The Legend of Heroes: Trails in the Sky the 3rd
+
+Windows, PlayStation Portable, PlayStation 3, Playstation Vita
+
+
+2008
+
+Vantage Master Portable
+
+PlayStation Portable
+
+
+Zwei: The Ilvard Insurrection
+
+Windows
+
+
+2009
+
+Brandish: The Dark Revenant
+
+PlayStation Portable, Windows
+
+
+Ys I & II Chronicles
+
+
+Ys Seven
+
+PlayStation Portable, Windows
+
+
+2010
+
+Ys vs. Sora no Kiseki: Alternative Saga
+
+PlayStation Portable
+
+
+The Legend of Heroes: Trails from Zero
+
+PlayStation Portable, PlayStation Vita, PlayStation 4, Nintendo Switch, Windows
+
+
+2011
+
+The Legend of Heroes: Trails to Azure
+
+
+2012
+
+The Legend of Nayuta: Boundless Trails
+
+PlayStation Portable, PlayStation 4, Nintendo Switch, Windows
+
+
+Ys: Memories of Celceta
+
+PlayStation Vita, PlayStation 4, Windows
+
+
+2013
+
+The Legend of Heroes: Trails of Cold Steel
+
+PlayStation 3, PlayStation Vita, PlayStation 4, Nintendo Switch, Windows
+
+
+2014
+
+The Legend of Heroes: Trails of Cold Steel II
+
+
+2015
+
+Tokyo Xanadu
+
+PlayStation Vita, PlayStation 4, Windows
+
+
+2016
+
+Ys VIII: Lacrimosa of Dana
+
+PlayStation Vita, PlayStation 4, Nintendo Switch, Windows, Stadia, PlayStation 5, Android, iOS
+
+
+2017
+
+The Legend of Heroes: Trails of Cold Steel III
+
+PlayStation 4, Nintendo Switch, Windows, Stadia
+
+
+2018
+
+The Legend of Heroes: Trails of Cold Steel IV
+
+
+2019
+
+Ys IX: Monstrum Nox[15]
+
+
+2020
+
+The Legend of Heroes: Trails into Reverie
+
+PlayStation 4, Nintendo Switch, Windows
+
+
+2021
+
+The Legend of Heroes: Kuro no Kiseki[16]
+
+PlayStation 4
+
+
+2022
+
+The Legend of Heroes: Kuro no Kiseki II - Crimson Sin
+
+PlayStation 4, PlayStation 5
+
+References[edit]
+
+
+^ a b Wen, Alan. "Hot on the Trails of Falcom, Japan's longest-running RPG developer". Eurogamer. Retrieved October 7, 2019.
+
+^ a b c Gifford, Kevin (September 7, 2011). "The Trail of Nihon Falcom: The president of Japan's oldest existing RPG maker speaks". 1UP.com. Archived from the original on July 29, 2012. Retrieved September 13, 2011.
+
+^ a b Bailey, Kat (May 18, 2010). "Hack and Slash: What Makes a Good Action RPG?". 1UP.com. Retrieved July 11, 2011.
+
+^ a b c d Szczepaniak, John (July 7, 2011). "Falcom: Legacy of Ys". GamesTM (111): 152–159 [153]. Retrieved September 7, 2011. (cf. Szczepaniak, John (July 8, 2011). "History of Ys interviews". Hardcore Gaming 101. Retrieved September 6, 2011.)
+
+^ Massey, Tom. "Chronicles of Ys: A Series Retrospective". eurogamer.net. Gamer Network.
+
+^ John Harris (July 2, 2009). "Game Design Essentials: 20 RPGs - Dragon Slayer". Gamasutra. p. 13. Archived from the original on August 5, 2011. Retrieved March 2, 2011.
+
+^ Derboo, Sam (June 2, 2013). "Dark Age of JRPGs (7): Panorama Toh ぱのらま島 - PC-88 (1983)". Hardcore Gaming 101. Retrieved November 10, 2019.
+
+^ "Xanadu Next home page" (in Japanese). Retrieved September 8, 2008. (Translation)
+
+^ Hendricks, Fayyaad (December 22, 2011). "A complete history of role-playing videogames: Part 2". EL33TONLINE. Retrieved December 25, 2011.
+
+^ Massey, Tom. "Inside Ys: Nihon Falcom Interview". eurogamer.net. Gamer Network.
+
+^ a b c Szczepaniak, John (July 7, 2011). "Falcom: Legacy of Ys". GamesTM (111): 152–159 [154]. Retrieved September 8, 2011. (cf. Szczepaniak, John (July 8, 2011). "History of Ys interviews". Hardcore Gaming 101. Retrieved September 8, 2011.)
+
+^ Kalata, Kurt (February 2014). "Ys". Hardcore Gaming 101. Retrieved September 3, 2011.
+
+^ Ryan Mattich. "Falcom Classics II". RPGFan. Retrieved September 3, 2011.
+
+^ Chris Greening & Don Kotowski (February 2011). "Interview with Yuzo Koshiro". Square Enix Music Online. Retrieved August 27, 2015.
+
+^ Romano, Sal (December 19, 2018). "Ys IX: Monstrum Nox announced for PS4". Gematsu. Retrieved December 19, 2018.
+
+^ Romano, Sal (December 16, 2020). "The Legend of Heroes: Kuro no Kiseki announced". Gematsu. Retrieved December 16, 2020.
+
+
+External links[edit]
+Official website (in Japanese)
+vteDragon SlayerMain series
+Dragon Slayer
+Xanadu
+Romancia
+Legacy of the Wizard
+Sorcerian
+The Legend of Heroes
+Lord Monarch
+The Legend of Heroes II
+Spin-offs
+Xanadu
+Faxanadu
+Xanadu Next
+Tokyo Xanadu
+The Legend of Heroes
+Trails
+Related
+Nihon Falcom
+Hudson Soft
+Ys
+
+vteThe Legend of HeroesDragon Slayer
+Dragon Slayer: The Legend of Heroes
+Dragon Slayer: The Legend of Heroes II
+Gagharv trilogy
+Prophecy of the Moonlight Witch
+A Tear of Vermillion
+Song of the Ocean
+Trails in the Sky trilogy
+Trails in the Sky
+Trails in the Sky SC
+Trails in the Sky the 3rd
+Related
+Trails
+Nihon Falcom
+Tokyo Xanadu
+Ys
+
+vteTrailsMain seriesTrails in the Sky arc
+Trails in the Sky
+SC
+the 3rd
+Crossbell arc
+Trails from Zero
+Trails to Azure
+Trails of Cold Steel arc
+Trails of Cold Steel
+II
+III
+IV
+Trails into Reverie
+Calvard arc
+Kuro no Kiseki
+Spin-offs
+Ys vs. Sora no Kiseki: Alternative Saga
+The Legend of Nayuta: Boundless Trails
+Akatsuki no Kiseki
+Related
+Nihon Falcom
+The Legend of Heroes
+Tokyo Xanadu
+
+vteYsList of mediaMain seriesCore games
+I: Ancient Ys Vanished
+II: Ancient Ys Vanished – The Final Chapter
+III: Wanderers from Ys
+IV: Mask of the Sun
+V: Lost Kefin, Kingdom of Sand
+VI: The Ark of Napishtim
+Origin
+Seven
+VIII: Lacrimosa of Dana
+IX: Monstrum Nox
+Remakes
+I & II
+The Oath in Felghana
+Memories of Celceta
+Spin-offs
+IV: The Dawn of Ys
+Strategy
+Ys vs. Sora no Kiseki: Alternative Saga
+Anime
+Book One
+Book Two
+Castle in the Heavens
+Developers
+Nihon Falcom
+Hudson Soft
+Tonkin House
+
+ Category
+
+Authority control General
+VIAF
+1
+WorldCat
+National libraries
+France (data)
+United States
+Japan
+
+
+
+
+
+<img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" />
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Nihon_Falcom&oldid=1080334904"
+		Categories: Video game companies established in 1981Video game companies of JapanVideo game development companiesCompanies listed on the Tokyo Stock ExchangeSoftware companies based in TokyoAmusement companies of JapanJapanese companies established in 1981Hidden categories: CS1 Japanese-language sources (ja)Articles with short descriptionShort description is different from WikidataUse mdy dates from July 2018Articles containing Japanese-language textOfficial website different in Wikidata and WikipediaArticles with Japanese-language sources (ja)Articles with VIAF identifiersArticles with WORLDCATID identifiersArticles with BNF identifiersArticles with LCCN identifiersArticles with NDL identifiers
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+
+	
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+
+	
+		Namespaces
+	
+	
+		
+		ArticleTalk
+		
+	
+
+
+			
+
+	
+	
+		English
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+
+	
+		Views
+	
+	
+		
+		ReadEditView history
+		
+	
+
+
+			
+
+	
+	
+		More
+	
+	
+		
+		
+		
+	
+
+
+			
+
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+
+	
+		
+	
+	
+
+	
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+
+	
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+
+	
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+		
+	
+
+
+
+	
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+
+	
+		In other projects
+	
+	
+		
+		Wikimedia Commons
+		
+	
+
+
+	
+
+	
+		Languages
+	
+	
+		
+		CatalàDeutschEspañolفارسیFrançais한국어ItalianoNederlands日本語РусскийSuomiSvenskaTürkçe吴语粵語中文
+		Edit links
+	
+
+
+
+
+
+
+
+	
+	 This page was last edited on 31 March 2022, at 16:57 (UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License 3.0;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+
+

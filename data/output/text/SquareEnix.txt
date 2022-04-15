@@ -1,0 +1,2064 @@
+
+
+Square Enix - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Square Enix
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Japanese video game company
+
+
+Square Enix Holdings Co., Ltd.Headquarters at Shinjuku Eastside Square, TokyoNative name株式会社スクウェア・エニックス・ホールディングスRomanized nameKabushiki gaisha Sukuwea Enikkusu HōrudingusuFormerlySquare Enix Co., Ltd.TypePublicTraded asTYO: 9684IndustryVideo gamesEntertainmentPublishingMotion picturesPredecessorsEnix CorporationSquare Co., Ltd.FoundedSeptember 22, 1975; 46 years ago (1975-09-22)[1]HeadquartersShinjuku, Tokyo, JapanKey peopleYasuhiro Fukushima(Honorary Chairman)Yosuke Matsuda(President)ProductsVideo game franchisesArcade gamesAmusement facilitiesMerchandiseMangaRevenue ¥332 billion[2] (2021)Operating income32,759,000,000 Japanese yen (2020) Net income ¥26.94 billion[2] (2021)Total assets302,634,000,000 Japanese yen (2020) OwnerYasuhiro Fukushima (19.80%)Number of employees5,550[1] (2021)DivisionsCreative Business Unit I–IVSubsidiaries§ SubsidiariesWebsitesquare-enix.com
+Square Enix Holdings Co., Ltd.[a] is a Japanese entertainment conglomerate and video game company best known for its Final Fantasy, Dragon Quest and Kingdom Hearts role-playing video game franchises, among numerous others. Outside of video game publishing and development, it is also in the business of merchandise, arcade/amusement facilities and manga publication under its Gangan Comics brand.
+The original Square Enix Co., Ltd. was formed in April 2003 from a merger between Square and Enix, with the latter as the surviving company. Each share of Square's common stock was exchanged for 0.85 shares of Enix's common stock. At the time, 80% of Square Enix staff were made up of former Square employees. As part of the merger, former Square president Yoichi Wada was appointed the president of the new corporation, while former Enix president Keiji Honda was named vice president. Yasuhiro Fukushima, the largest shareholder of the combined corporation and founder of Enix, became chairman. In October 2008, Square Enix conducted a company split between its corporate business and video game operations, reorganizing itself as the holding company Square Enix Holdings Co., Ltd., while its internally domestic video game operations were formed under the subsidiary Square Enix Co., Ltd.
+Several of Square Enix's franchises have sold over 10 million copies worldwide, with Final Fantasy selling 144 million, Dragon Quest selling 78 million, and Kingdom Hearts selling 30 million.[3] In 2005, Square Enix acquired arcade corporation Taito, known for games such as Space Invaders, Bubble Bobble and Darius. In 2009, Square Enix acquired British game publisher Eidos Interactive, which was absorbed into Square Enix Europe to publish titles such as Tomb Raider, Deus Ex and Just Cause. Square Enix is headquartered at the Shinjuku Eastside Square Building in Shinjuku, Tokyo, and has over 5,000 employees worldwide through its base operations and subsidiaries.
+
+Contents
+
+1 Corporate history
+
+1.1 Origins and pre-merger (1975–2003)
+
+1.1.1 Enix (1975–2003)
+1.1.2 Square (1983–2003)
+
+
+1.2 Merger (2003)
+1.3 Post-merger and acquisitions (2004–2012)
+1.4 Restructuring (2013)
+1.5 Post-restructuring (2013–present)
+
+
+2 Corporate structure
+
+2.1 Development organization
+2.2 Business model
+
+
+3 Business
+
+3.1 Video games
+3.2 Game engines
+3.3 Online gaming
+3.4 Cloud gaming
+3.5 Arcade/Amusement
+3.6 Film
+3.7 Manga
+3.8 Merchandise
+
+
+4 Subsidiaries
+
+4.1 Current subsidiaries
+4.2 Former subsidiaries
+
+
+5 Notes
+6 References
+7 External links
+
+
+
+Corporate history[edit]
+Origins and pre-merger (1975–2003)[edit]
+Enix (1975–2003)[edit]
+Main article: Enix § History
+Enix was founded on September 22, 1975, as Eidansha Boshu Service Center by Japanese architect-turned-entrepreneur Yasuhiro Fukushima.[4][5] Enix focused on publishing games, often by companies who exclusively partnered with the company, and is perhaps most famous for publishing the Dragon Quest series of console games developed by Chunsoft. Key members of the developer's staff consisted of director Koichi Nakamura, writer Yuji Horii, artist Akira Toriyama, and composer Koichi Sugiyama, among others.[6] The first game, Dragon Warrior, in the Famicom-based RPG series, was released in 1986 and would eventually sell 1.5 million copies in Japan, establishing Dragon Quest as the company's most profitable franchise.[7][8] Despite the announcement that Enix's long-time competitor Square would develop exclusively for PlayStation, Enix announced in January 1997 that it would release games for both Nintendo and Sony consoles.[9] This caused a significant rise in stock for both Enix and Sony.[10] By November 1999, Enix was listed in the Tokyo Stock Exchange's 1st section, indicating it as a "large company".[4][11]
+
+Square (1983–2003)[edit]
+Main article: Square (video game company) § History
+Square was started in October 1983 by Masafumi Miyamoto as a computer game software division of Den-Yu-Sha, a power line construction company owned by his father. While at the time, game development was usually conducted —by only one programmer, Miyamoto believed that it would be more efficient to have graphic designers, programmers and professional story writers working together.[6]
+In September 1986, the division was spun off into an independent company led by Miyamoto, officially named Square Co., Ltd.[12] After releasing several unsuccessful games for the Famicom, Square relocated to Ueno, Tokyo in 1987 and developed a role-playing video game titled Final Fantasy, which was inspired by Enix's success in the genre with the 1986 Dragon Quest.[13] Final Fantasy was a success with over 400,000 copies sold, and it became Square's leading franchise, spawning dozens of games in a series that continues to the present.[6]
+Buoyed by the success of their Final Fantasy franchise, Square developed many other widely known games such as Chrono Trigger, Chrono Cross, Secret of Mana, Legend of Mana, Xenogears, Brave Fencer Musashi, Parasite Eve, Saga Frontier, Romancing Saga, Vagrant Story, Kingdom Hearts (done in collaboration with Disney Interactive), and Super Mario RPG (done under the guidance of Super Mario creator Shigeru Miyamoto).[13] By late 1994 they had developed a reputation as a producer of high-quality role-playing video games.[14] Square was one of the many companies that had planned to develop and publish their games for the Nintendo 64, but with the cheaper costs associated with developing games on CD-based consoles such as the Sega Saturn and the Sony PlayStation, Square decided to develop titles for the latter system.[15] Final Fantasy VII was one of these games, and it sold 9.8 million copies, making it the second-best-selling game for the PlayStation.[13]
+
+Merger (2003)[edit]
+A merger between Square and Enix was considered since at least 2000; the financial failure in 2001 of Square's first movie, Final Fantasy: The Spirits Within, made Enix reluctant to proceed while Square was losing money.[16][17] With the company facing its second year of financial losses, Square approached Sony for a capital injection, and on October 8, 2001, Sony Corp purchased an 18.6% stake in Square.[18] Following the success of both Final Fantasy X and Kingdom Hearts, the company's finances stabilized, and it recorded the highest operating margin in its history in the fiscal year 2002.[19][20] It was announced on November 25, 2002, that Square and Enix's previous plans to merge were to officially proceed, intending to decrease development costs and to compete with foreign developers.[21] As described by Square's president and CEO Yoichi Wada: "Square has also fully recovered, meaning this merger is occurring at a time when both companies are at their height."[22]
+Some shareholders expressed concerns about the merger, notably Miyamoto (the founder and largest shareholder of Square), who would find himself holding a significantly smaller percentage of the combined companies.[23] Other criticism came from Takashi Oya of Deutsche Securities, who expressed doubts about the benefits of such a merger: "Enix outsources game development and has few in-house creators, while Square does everything by itself. The combination of the two provides no negative factors but would bring little in the way of operational synergies."[24] Miyamoto's concerns were eventually resolved by altering the exchange ratio of the merger so that each Square share would be exchanged for 0.85 Enix shares rather than 0.81 shares, and the merger was greenlit.[25][26] The merger was set for April 1, 2003, on which date the newly merged entity Square Enix came into being.[13][27] At the time of the merger, 80% of Square Enix staff were made up of former Square employees.[28] As part of the merger, former Square president Yoichi Wada was appointed the president of the new corporation, while former Enix president Keiji Honda became its vice president.[29] The founder of Enix and the largest shareholder of the newly combined corporation, Yasuhiro Fukushima, was made its honorary chairman.[30]
+As a result of the merger, Enix was the surviving company and Square Co., Ltd. was dissolved.[31][1] In July of that year, the Square Enix headquarters were moved to Yoyogi, Shibuya, Tokyo, to help combine the two companies.[12]
+
+Post-merger and acquisitions (2004–2012)[edit]
+Since the merger in 2003, Square Enix has acquired several companies and created several subsidiary companies. To strengthen its wireless market, Square Enix acquired mobile application developer UIEvolution in March 2004, though it was sold in December 2007, and the company instead founded its own Square Enix MobileStudio in January 2008 to focus on mobile products.[32][33] In January 2005, Square Enix founded Square Enix China, expanding their interests in the People's Republic of China.[12]
+In September 2005, Square Enix bought the gaming developer and publisher Taito, renowned for their arcade hits such as Space Invaders and the Bubble Bobble series; Taito's home and portable console games divisions were merged into Square Enix itself by March 2010.[34] In August 2008, Square Enix made plans for a similar expansion by way of a friendly takeover of video game developer Tecmo by purchasing shares at a 30 percent premium, but Tecmo rejected the proposed takeover.[35][36] In April 2007, Square Enix Ltd. CEO John Yamamoto also became CEO of Square Enix, Inc.[37]
+In 2008-2009, Square Enix was reportedly working with Grin on a Final Fantasy spin-off codenamed Fortress.[38] The project was allegedly canceled by Square Enix after introducing seemingly impossible milestones and without payments made, resulting in Grin declaring bankruptcy and its co-founders blaming Square Enix for being "betrayed".[39]
+In February 2009, Square Enix announced a takeover deal for Eidos plc, the holding company for Eidos Interactive, the UK-based publisher of the Tomb Raider, Hitman, Deus Ex, Thief and Legacy of Kain franchises, along with its multiple subsidiary development studios that developed the games[40] The acquisition of Eidos was completed in April 2009, and in November the publisher was merged with Square Enix's European publishing organization to form Square Enix Europe.[41][42] In April 2010, a new Japanese label for Western games bearing CERO restrictions called Square Enix Extreme Edges was announced.[43] In July 2010, Mike Fischer was appointed CEO of Square Enix, Inc.[44][45]
+In March 2011, Square Enix founded mobile development studio Hippos Lab[46] and Square Enix Montréal in 2012.[47] In July 2011, it was reported that Square Enix closed their Los Angeles Studio.[48]
+
+Restructuring (2013)[edit]
+On March 26, 2013, citing sluggish sales of major Western games, Square Enix announced major restructuring, expected loss of ¥10 billion and resignation of President Yoichi Wada, whom Yosuke Matsuda replaced.[49][50] Phil Rogers was elected as a new Director, among others.[49][51]
+With the restructuring, Square Enix of America CEO Mike Fischer left the company in May, with former Square Enix Europe CEO Phil Rogers becoming CEO of Americas and Europe.[52] Further executive changes at Square Enix Western studios were mentioned in a statement.[53] With the consolidation of Square Enix Western divisions around 2015,[54] Square Enix Ltd. and Square Enix Inc. are collectively referred to as Square Enix West.[55]
+It said with the fiscal year report in March 2013, sales of Tomb Raider (2013) and Hitman: Absolution were weak, despite critical acclaim. The North American sales force was said to be ineffective as the game sold two-thirds the number of units it did in Europe. Price pressure was intense, which forced spending additional channel costs such as price protection.[56]
+Matsuda noted the long development time of their important games and said they need to shift to a business model with frequent customer interactions, noting Kickstarter as an example, and finally, make sure games meet customer expectations.[57]
+
+Post-restructuring (2013–present)[edit]
+In March 2013, Square Enix India opened in Mumbai; however the studio was closed in April 2014.[58] As well as Square Enix Latin America in Mexico,[59] which was closed in 2015.[60] A mobile studio called Smileworks was founded in Indonesia in June 2013; however it was closed in January 2015.[61]
+In 2014, Square Enix signed a strategic alliance with French video game company Ubisoft; it has served as the Japanese publisher of video games since 2009. In March 2014, following the success of Bravely Default, Square Enix said it will "go back to their roots" and focus on creating content that will appeal to their core audience.[62] In 2015, Square created a new studio known as Tokyo RPG Factory to develop what was then dubbed Project Setsuna.[63][64]
+On February 21, 2017, the formation of a new studio Studio Istolia was announced. The studio, headed by Hideo Baba, would be working on the new RPG Project Prelude Rune.[65] Baba departed the studio in early 2019, and shortly after this, Studio Istolia was closed, and Project Prelude Rune cancelled following an assessment of the project, with its staff being reassigned to different projects within the company.[66]
+In 2019, Square Enix opened an Indian office again, now in Bangalore,[67] which expanded into publishing mobile games for the Indian market in 2021.[68]
+In March 2021, Forever Entertainment, a Polish studio, was reported to be working to bring several of Square Enix's properties to modern systems.[69]
+
+Corporate structure[edit]
+On October 1, 2008, Square Enix transformed into a holding company and was renamed Square Enix Holdings. At the same time, the gaming and publishing businesses were transferred to a spin-off named Square Enix, sharing the same corporate leadership and offices with the holding company.[12][70][71] The primary offices for Square Enix and Square Enix Holdings are in the Shinjuku Eastside Square Building in Shinjuku, Tokyo.[70][72]
+
+Development organization[edit]
+After the merger in 2003, Square Enix's development department was organized into eight Square and two Enix Product Development Divisions (開発事業部, kaihatsu jigyōbu), each focused on different groupings of games.[73][74][75] The divisions were spread around different offices; for example, Product Development Division 5 had offices both in Osaka and Tokyo.[73]
+According to Yoichi Wada, the development department was reorganized away from the Product Development Division System by March 2007 into a project-based system.[76][77] Until 2013, the teams in charge of the Final Fantasy and Kingdom Hearts series were still collectively referred to as the 1st Production Department (第1制作部, dai-ichi seisakubu).[78][79][80] The 1st Production Department was formed from the fall 2010 combination of Square Enix's Tokyo and Osaka development studios, with Shinji Hashimoto as its corporate executive.[81]
+In December 2013, Square Enix's development was restructured into 12 Business Divisions. In 2017, Business Division 9 was merged into Business Division 8, while Business Divisions 11 and 12 merged to become the new Business Division 9, while a new Business Division 11 was created with some staff from Business Division 6.[82][83][84]
+In 2019, Square Enix announced that their eleven Business Divisions would be consolidated into four units by 2020 with a new title, Creative Business Unit.[85] Naoki Yoshida, who was previously the head of Business Division 5, became the head of Creative Business Unit III.[86]
+The current structure for the development and production division called Creative Business Unit is as follows:[87][88]
+
+Creative Business Unit I is led by Yoshinori Kitase, who was the head of Business Division 1 and focuses on Final Fantasy single-player titles, spin-offs, and Kingdom Hearts. The department comprises the former Business Division 1 (Mainline single-player Final Fantasy such as Final Fantasy XIII and Final Fantasy VII Remake), Business Division 3 (Kingdom Hearts, Final Fantasy spin-offs, The World Ends with You,  SaGa series), and Business Division 4 (Final Fantasy spin-offs produced with external companies, e.g., Dissidia Final Fantasy NT, Theatrhythm Final Fantasy, Final Fantasy Record Keeper).
+Creative Business Unit II is led by Yuu Miyake, who was the head of Business Division 6 and focuses on the Dragon Quest, Nier and Bravely series, as well as arcade games. The department comprises the former Business Division 6 (Dragon Quest series, Nier series), Business Division 7 (Lord of Vermilion, Gunslinger Stratos) and Business Division 11 (Bravely series, Octopath Traveler).
+Creative Business Unit III is led by Naoki Yoshida, who was the head of Business Division 5 and focused primarily on MMORPGs, transitioning in 2020 to the single-player Final Fantasy XVI. It mainly comprises the former Business Division 5 (Final Fantasy XI, Final Fantasy XIV, Dragon Quest Builders series).
+Creative Business Unit IV is led by Hirokazu Nishikado and focuses on the Mana series, along with co-development and production of remasters and ports. It comprises the former Business Division 8 (Mana series, along  with remasters and ports of different franchises), Business Division 9 (Schoolgirl Strikers, Grimms Notes), and Business Division 10 (Million Arthur series, Chaos Rings series).
+Business model[edit]
+See also: Localization of Square Enix video games
+The business model of post-merger Square Enix is centered on the idea of "polymorphic content", which consists of developing franchises on multiple potential media rather than being restricted by a single gaming platform.[89][90] An early example of this strategy is Enix's Fullmetal Alchemist manga series, which has been adapted into two anime television series, two movies, and several novels and video games.[91] Other polymorphic projects include the Compilation of Final Fantasy VII, Code Age, World of Mana, Ivalice Alliance and Fabula Nova Crystallis Final Fantasy subseries.[92] According to Yoichi Wada, "It's very difficult to hit the jackpot, as it were. Once we've hit it, we have to get all the juice possible out of it".[93] Similar to Sony's Greatest Hits program, Square Enix also re-releases their best selling games at a reduced price under a label designated "Ultimate Hits".[94]
+The standard game design model Square Enix employs is to establish the plot, characters, and art of the game first.[95] Battle systems, field maps, and cutscenes are created next.[95] According to Taku Murata, this process became the company's model for development after the success of Square's Final Fantasy VII in 1997.[95] The team size for Final Fantasy XIII peaked at 180 artists, 30 programmers, and 36 game designers, but analysis and restructuring were done to outsource large-scale development in the future.[96]
+
+Business[edit]
+Video games[edit]
+Main articles: List of Square Enix video games, List of Square Enix mobile games, List of Square Enix video game franchises, List of Taito games, and List of Square Enix Europe games
+Square Enix's primary concentration is on video gaming, and it is primarily known for its role-playing video game franchises.[97] Of its properties, the Final Fantasy franchise, begun in 1987, is the best-selling, with a total worldwide sales of over 110 million units as of June 2014.[98] The Dragon Quest franchise, begun in 1986, is also high-selling; it is considered one of the most popular game series in Japan and new installments regularly outsell other games at the times of their release, with a total worldwide sales of over 71 million units.[98] More recently, the Kingdom Hearts series (developed in collaboration with Disney's Interactive Studios beginning in 2002) has become popular, with over 20 million units sold as of March 2014.[99] Other popular series developed by Square Enix include the SaGa series with nearly 10 million copies sold since 1989, the Mana series with over 6 million sales since 1991, and the Chrono series with over 5 million sold since 1995.[100] In addition to their sales numbers, many Square Enix games have been highly reviewed; 27 Square Enix games were included in Famitsu magazine's 2006 "Top 100 Games Ever", with 7 in the top 10 and Final Fantasy X claiming the number 1 position.[101] The company also won IGN's award for Best Developer of 2006 for the PlayStation 2.[102]
+Square and Enix initially targeted Nintendo home consoles with their games, but Square Enix currently develops games for a wide variety of systems.[103][104] In the seventh generation of video game consoles, Square Enix released new installments from its major series across all three major systems, including Final Fantasy XIII on both the PlayStation 3 and Xbox 360 and Dragon Quest X on the Wii.[105][106][107] Square Enix has also developed titles for handheld game consoles, including the Game Boy Advance, Nintendo DS, PlayStation Portable, Nintendo 3DS, and PlayStation Vita.[103] Also, they have published games for Microsoft Windows-based personal computers and various models of mobile phones and modern smartphones.[108] Square Enix mobile phone games became available in 2004 on the Vodafone network in some European countries, including Germany, the United Kingdom, Spain, and Italy.[109]
+Before its launch, Michihiro Sasaki, senior vice president of Square Enix, spoke about the PlayStation 3, saying, "We don't want the PlayStation 3 to be the overwhelming loser, so we want to support them, but we don't want them to be the overwhelming winner either, so we can't support them too much."[110] Square Enix continued to reiterate their devotion to multi-platform publishing in 2007, promising more support for the North American and European gaming markets where console pluralism is generally more prevalent than in Japan.[111] Their interest in multi-platform development was made evident in 2008 when the previously PlayStation 3-exclusive game Final Fantasy XIII was announced for release on the Xbox 360.[112]
+In 2008, Square Enix released their first game for the iPod, Song Summoner: The Unsung Heroes.[113] Square Enix made a new brand for younger children gaming that same year, known as Pure Dreams.[114] Pure Dreams' first two games, Snoopy DS: Let's Go Meet Snoopy and His Friends! and Pingu's Wonderful Carnival, were released that year.[114] After acquiring Eidos in 2009, Square Enix combined it with its European publishing wing to create Square Enix Europe, which continues to publish Eidos franchises such as Tomb Raider (63 million sales), Deus Ex (4 million), Thief (2.5 million) and Legacy of Kain (3.5 million).[108][115][116][117] As of 2017, Square Enix no longer publishes games for the Hitman franchise. Its rights were sold to the game developer, IO Interactive.[118] Square Enix has also served as the Japanese publisher for Activision Blizzard and Ubisoft games since 2009.[119]
+Square Enix owned franchises and games include:
+
+former Square franchises, such as Seiken Densetsu (Mana);
+former Enix franchises, such as Star Ocean;
+Square Enix created franchises, such as Drakengard;
+pre-acquisition Taito franchises, such as Space Invaders;
+post-acqusition Taito created franchises as a subsidiary, such as Groove Coaster;
+Square Enix America created games, such as Quantum Conundrum, Motley Blocks;
+former Eidos franchises, such as Gex, Legacy of Kain;
+Square Enix Europe created franchises, such as Life Is Strange.
+Game engines[edit]
+Square Enix has developed two notable in-house game engines. In 2004, Square Enix began to work on a "common 3D format" that would allow the entire company to develop titles without being restricted to a specific platform: this led to the creation of a game engine named Crystal Tools, which is compatible with the PlayStation 3, the Xbox 360, Windows-based PCs and to some extent the Wii.[120][121] It was first shown off at a tech demo shown off at E3 2005 and was later used for Final Fantasy XIII based on the demo's reception.[122][123] Crystal Tools was also used for Final Fantasy Versus XIII before its re-branding as Final Fantasy XV and its shift onto next-gen platforms.[124] Refinement of the engine continued through the development of Final Fantasy XIII-2, and it underwent a major overhaul for Lightning Returns: Final Fantasy XIII.[125][126] Since that release, no new titles have been announced using Crystal Tools, and it is believed that the development of the engine has halted permanently.[127]
+The second major in-house engine is Luminous Engine, intended for eighth-generation consoles, which was originally unveiled at E3 2012 through a tech demo titled Agni's Philosophy.[128][129][130] The first major console title to be developed with Luminous Engine was Final Fantasy XV;[124] the engine's development was done in tandem with the game, and the game's development helped the programming team optimize the engine.[131]
+In addition to Luminous Engine and custom engines made for individual games and platforms before and since Square Enix often uses other companies' engines and programming languages for their video game properties. Epic Games' Unreal Engine 3 was used for games such as The Last Remnant, and more recently, Unreal Engine 4 has been used for projects including Dragon Quest XI, Kingdom Hearts III and the most recent Final Fantasy VII Remake. Unity has also been used internally for titles including I Am Setsuna, Lost Sphear and SaGa: Scarlet Grace. The Squirrel language had also been used for the WiiWare title Final Fantasy Crystal Chronicles: My Life as a King.[132][133]
+
+Online gaming[edit]
+Before the merger, Enix published its first online game Cross Gate in Japan, mainland China, and Taiwan in 2001, and Square released Final Fantasy XI in Japan in 2002 for the PlayStation 2 and later the personal computer.[134][135] With the huge success of Final Fantasy XI, the game was ported to the Xbox 360 two years later and was the first MMORPG on the console.[135][136] All versions of the game used PlayOnline, a cross-platform internet gaming platform and internet service developed by Square Enix.[137] The platform was used as the online service for many games Square Enix developed and published throughout the decade.[138] Due to the success of their MMORPG, Square Enix began a new project called Fantasy Earth: The Ring of Dominion.[139] GamePot, a Japanese game portal, received the license to publish Fantasy Earth in Japan, and it was released in Japan as "Fantasy Earth ZERO."[140] In 2006, however, Square Enix dropped the Fantasy Earth Zero project and sold it to GamePot.[140] Square Enix released Concerto Gate, the sequel to Cross Gate, in 2007.[141]
+A next-gen MMORPG code named Rapture was developed by the Final Fantasy XI team using the company's Crystal Tools engine.[142] It was unveiled at E3 2009 as Final Fantasy XIV for PlayStation 3 and Microsoft Windows and would be released on September 30, 2010.[143] Dragon Quest X was announced in September 2011 as an MMORPG being developed for Nintendo's Wii and Wii U consoles, which released on August 2, 2012, and March 30, 2013, respectively.[144] Like XIV, it used Crystal Tools.[145]
+Square Enix also made browser games and Facebook games, like Legend World, Chocobo's Crystal Tower and Knights of the Crystals, and online games for Yahoo! Japan, such as Monster x Dragon, Sengoku Ixa, Bravely Default: Praying Brage, Star Galaxy, and Crystal Conquest.[146][147][148][149]
+
+Cloud gaming[edit]
+In 2013, Dragon Quest X was brought to iOS and Android in Japan using NTT DoCoMo as the release platform and Ubitus for the streaming technology.[150] In 2014, it was also brought to 3DS in Japan using Ubitus.[151]
+On May 8, 2012, Square Enix announced a collaboration with Bigpoint Games to create a free-to-play Cloud gaming platform that "throws players into 'limitless game worlds' directly through their web browser".[152] The service was launched under the name CoreOnline in August 2012.[153][154] Stating "limited commercial take-up", the service was cancelled on November 29, 2013.[155]
+In September 2014, a cloud gaming company called Shinra Technologies (previously Project Flare[156]) was created; however, it was closed in January 2016.[157][158] On October 9, 2014, Square Enix launched another online game service in Japan called Dive In, which allowed players to stream console games to their iOS or Android devices.[159] The service was monetized by the amount of time the players spent playing, with each game offered for free for thirty minutes.[160] The service was cancelled on September 13, 2015.[160] Some Square Enix games are available in Japan on the G-cluster streaming service.[161][162]
+
+Arcade/Amusement[edit]
+With the merger of Taito businesses into Square Enix, the company gained possession of Taito's arcade infrastructure and facilities and entered the arcade market in 2005.[163] In 2010 Taito revealed NESiCAxLive, a cloud-based system of storing games and changing them through the internet instead of acquiring physical copies.[164] This system was added to its many arcade gaming locations.[164] The company continues to cater to the arcade audience in Japan with arcade-only titles, with game producers in 2015 stating that Square Enix has a loyal fan base that values the arcade gaming experience.[165]
+In November 2019, Square Enix announced a "Ninja Tower Tokyo" theme park by its newly established Live Interactive Works division.[166][167][168]
+
+Film[edit]
+The company has made three forays into the film industry. The first, Final Fantasy: The Spirits Within (2001), was produced by Square subsidiary Square Pictures before the Enix merger; Square Pictures is now a consolidated subsidiary of Square Enix.[169] Its box-office failure caused Enix to delay the merger, which was already under consideration before the creation of the film until Square became profitable once again.[170] In 2005, Square Enix released Final Fantasy VII Advent Children, a CGI-animation film based on the PlayStation game Final Fantasy VII, set two years after the events of the game.[171] A Deus Ex film was in pre-production in 2012 and, as of 2014, was undergoing rewrites.[172][173] In 2016 Square Enix revealed a film called Kingsglaive: Final Fantasy XV based in the world of Final Fantasy XV and a new web series released on YouTube and Crunchyroll entitled Brotherhood: Final Fantasy XV.[174]
+
+Manga[edit]
+Main articles: List of Gangan Comics manga franchises and List of Square Enix companion books
+The company has a manga publishing division in Japan (originally from Enix) called Gangan Comics, which publishes content for the Japanese market only.[169] In 2010, however, Square Enix launched a digital manga store for North American audiences via its Members services, which contains several notable series published in Gangan anthologies.[175] Titles published by Gangan Comics include Fullmetal Alchemist, Soul Eater, and many others.[175] Other titles include manga adaptations of various Square Enix games, like Dragon Quest, Kingdom Hearts and Star Ocean.[176][177][178] Some of these titles have also been adapted into anime series.[179] Fullmetal Alchemist is the most successful title of Square Enix's manga branch, with more than 64 million volumes sold worldwide.[180] It is licensed in North America by Viz Media, while its two anime adaptations were licensed by Funimation Entertainment in the United States.[181][182]
+
+Merchandise[edit]
+Square Enix has created merchandise for virtually all of their video game franchises, though many items are available only in Japan. Square Enix's former online gaming portal PlayOnline sold merchandise from game franchises including Parasite Eve, Vagrant Story, Chocobo Racing, Front Mission, Chrono Cross, and Final Fantasy.[183] Mascots from game franchises are a popular focus for merchandise, such as the Chocobo from Final Fantasy, which has been seen as a rubber duck,[184][185] a plush baby Chocobo,[186] and on coffee mugs.[187] Square Enix also designed a Chocobo character costume for the release of Chocobo Tales.[188] The Slime character from Dragon Quest has also been frequently used in Square Enix merchandise, especially in Japan.[189] On the Japanese Square Enix shopping website, there is also a Slime-focused section called "Smile Slime".[190][191] Slime merchandise includes plush toys, pencil cases, keychains, game controllers, a stylus, and several board games, including one titled Dragon Quest Slime Racing.[190][191][192][193][194][195] In Japan, pork-filled steam buns shaped like slimes have been sold.[196] For Dragon Quest's 25th anniversary, special items were sold, including business cards, tote bags, and crystal figurines.[190] Rabites from the Mana series have appeared in several pieces of Square Enix merchandise, including plush dolls, cushions, lighters, mousepads, straps, telephone cards, and T-shirts.[197] Square Enix has also made merchandise for series they do not own, including figures Mass Effect and Halo.[198] It has shops called "Square Enix Cafe" in Tokyo, Osaka and Shanghai, which display and sell merchandise, as well as serve café food.[199][200][201]
+
+Subsidiaries[edit]
+London companiesSquare Enix ChinaCrystal DynamicsSquare Enix NAMontreal companiesJapan companies‡ London companiesSquare Enix EuropeSquare Enix London Mobile‡ Montreal companiesEidos MontréalSquare Enix Montréal‡ Japan companiesSquare EnixSquare Enix Image Studio DivisionSquare Enix AI & Arts AlchemyTaitoHippos LabTokyo RPG FactoryLuminous ProductionsBalan Companyclass=notpageimage| Currently active Square Enix companies
+Current subsidiaries[edit]
+
+
+
+Name
+
+Became subsidiary
+
+Location
+
+Purpose
+
+Ref.
+
+
+
+Square Enix, Inc. (originally Square Soft Inc.)
+
+March 1989
+
+El Segundo, California, United States
+
+American publishing and Japanese Intellectual Property localization. Formerly published titles like Quantum Conundrum, Motley Blocks. Founded as Square Soft, Inc. and merged in 2003 with sister subsidiaries Square USA and Square Electronic Arts to become Square Enix USA. It was renamed Square Enix, Inc in July 2004 and is also referred to as Square Enix America.
+
+[202][42][203][204]
+
+
+Gangan Comics
+
+March 12, 1991
+
+Tokyo, Japan
+
+Manga and Magazine imprint in its publishing business.
+
+[205]
+
+
+
+Square Enix Ltd. (originally Square Europe Ltd.)
+
+December 1998
+
+Blackfriars, London, United Kingdom
+
+Flagship western subsidiary, European publishing, Tomb Raider series, Deus Ex series, Just Cause series, Life Is Strange series. Founded as Square Europe Ltd. and absorbed Eidos Interactive in 2009. It is also referred to as Square Enix Europe.
+
+[206][42]
+
+
+
+Square Enix AI & Arts Alchemy Co., Ltd.
+
+March 2, 2020
+
+Tokyo, Japan
+
+R&D and business involving entertainment AI
+
+[207]
+
+
+
+Square Enix Business Support, Co., Ltd.
+
+April 1, 2010
+
+Tokyo, Japan
+
+Operational support of group company businesses including office services, information-processing and development of arcade game machines
+
+[208]
+
+
+
+PlayOnline
+
+January 28, 2000
+
+Tokyo, Japan
+
+Online gaming services division.
+
+[209]
+
+
+
+Square Enix (China) Co., Ltd.
+
+February 28, 2005
+
+Haidian District, Beijing, China
+
+Chinese publishing. The successor to Square Enix Webstar Network Technology (Beijing) Co., Ltd.
+
+[210]
+
+
+
+Taito Corporation
+
+September 28, 2005
+
+Shinjuku, Tokyo, Japan
+
+Square Enix Holdings arcade gaming subsidiary, Space Invaders series, Bubble Bobble series, Groove Coaster series.
+
+[211]
+
+
+
+Square Enix Co., Ltd.
+
+October 1, 2008
+
+Shinjuku, Tokyo, JapanOsaka, Japan
+
+Flagship game development with Creative Business Unit I through Creative Business Unit IV, and publishing company, Final Fantasy series, Dragon Quest series, Kingdom Hearts series. Also referred to as Square Enix Japan.
+
+[12][71][204]
+
+
+
+Crystal Dynamics
+
+April 22, 2009
+
+Redwood City, California, United States
+
+Square Enix Europe game development subsidiary.
+
+[41]
+
+
+
+Eidos Montréal
+
+April 22, 2009
+
+Montréal, Quebec, Canada
+
+Square Enix Europe game development subsidiary.
+
+[41]
+
+
+
+Hippos Lab
+
+March 7, 2011
+
+Tokyo, Japan
+
+Square Enix Co., Ltd. Smartphone gaming subsidiary.
+
+[46]
+
+
+
+Square Enix Montréal
+
+2012
+
+Montréal, Quebec, Canada
+
+Square Enix Europe Mobile game development subsidiary.
+
+[47]
+
+
+
+Tokyo RPG Factory
+
+2015
+
+Shinjuku, Tokyo, Japan
+
+Square Enix Co., Ltd. game development subsidiary.
+
+[212]
+
+
+
+Balan Company
+
+2018
+
+Shinjuku, Tokyo, Japan
+
+Square Enix Co., Ltd. game development subsidiary.
+
+
+
+
+
+Luminous Productions
+
+March 27, 2018
+
+Shinjuku, Tokyo, Japan
+
+Square Enix Co., Ltd. game development subsidiary.
+
+[213]
+
+
+
+Square Enix Pvt. Ltd.
+
+2019
+
+Bengaluru, Karnataka, India
+
+Mobile games publishing subsidiary for the Indian market. Also referred to as Square Enix India.
+
+[67][68]
+
+
+Square Enix London Mobile
+
+October, 2021
+
+London, United Kingdom
+
+Square Enix Europe Mobile game development subsidiary.
+
+
+
+
+Square Enix Image Studio Division
+
+April 1, 2021
+
+Tokyo, Japan
+
+CGI animation company focused on cutscenes and movie production
+
+[214]
+
+
+Former subsidiaries[edit]
+
+
+
+Name
+
+Became subsidiary
+
+Closed or sold
+
+Location
+
+Purpose
+
+Ref.
+
+
+
+
+Enix America Corporation Inc.
+
+1990
+
+November 1995
+
+Redmond, Washington, United States
+
+Enix's first American subsidiary.
+
+[215][216]
+
+
+
+Square USA, Inc (previously Square L.A., Inc.)
+
+August 1995
+
+April 1, 2003
+
+Costa Mesa, California, United States
+
+Square Co. Ltd's American research and development studio.
+
+[217]
+
+
+
+DigiCube
+
+February 6, 1996
+
+November 26, 2003
+
+Tokyo, Japan
+
+Square Co. Ltd. marketing and distribution subsidiary in Japan.
+
+[218]
+
+
+
+Square Electronic Arts
+
+April 27, 1998
+
+April 1, 2003
+
+Costa Mesa, California, United States
+
+Joint venture with Electronic Arts for American publishing.
+
+[219]
+
+
+Visual Works (previously Square Visual Works)
+
+June 1999
+
+April 1, 2021
+
+Tokyo, Japan
+
+CGI animation company focused on cutscenes and movie production. Merged with Image Arts Division to form Square Enix Image Studio Division
+
+[214]
+
+
+Taito Soft Corporation (originally The Game Designers Studio)
+
+June 22, 1999
+
+March 11, 2010
+
+Hirakawa-cho, 2-chome, Chiyoda-ku, Tokyo, Japan
+
+Square Enix Co., Ltd. game development brand.
+
+[220][221]
+
+
+
+
+Enix America Inc.
+
+1999
+
+April 1, 2003
+
+Seattle, King County, Washington, United States
+
+A joint venture between Enix and Eidos Interactive to publish Enix games for Western markets.
+
+[222][223]
+
+
+
+
+Square Enix Webstar Network Technology (Beijing) Co., Ltd. (previously Enix Webstar Network Technology (Beijing) Co., Ltd.)
+
+2001
+
+February 28, 2005
+
+Beijing, China
+
+Enix Chinese publishing division.
+
+[210]
+
+
+
+UIEvolution
+
+March 2004
+
+December 17, 2007
+
+Bellevue, Washington, United States
+
+Square Enix mobile software development division.
+
+[32]
+
+
+
+Taito Art Corporation
+
+September 28, 2005
+
+July 28, 2008
+
+Tokyo, Japan
+
+Taito travel and insurance agency subsidiary.
+
+[224]
+
+
+
+Taito Tech Co., Ltd.
+
+September 28, 2005
+
+July 28, 2008
+
+Tokyo, Japan
+
+Taito subsidiary for maintenance and transportation of amusement equipment.
+
+[224]
+
+
+
+Square Enix of Europe Holdings
+
+December 4, 2008
+
+April 26, 2016
+
+London, England
+
+Holding company for the group's operations in Europe.
+
+[225][226]
+
+
+
+Beautiful Game Studios
+
+April 22, 2009
+
+2013
+
+London, England UK
+
+Square Enix Europe game development subsidiary, Championship Manager series.
+
+[41]
+
+
+
+Eidos Hungary
+
+April 22, 2009
+
+April 19, 2010
+
+Budapest, Hungary
+
+Square Enix Europe game development subsidiary.
+
+[227]
+
+
+
+Eidos Interactive (originally SCi Games)
+
+April 22, 2009
+
+November 10, 2009
+
+Wimbledon, London, United Kingdom
+
+Western intellectual properties publishing subsidiary.
+
+[41]
+
+
+
+IO Interactive
+
+April 22, 2009
+
+June 16, 2017
+
+Copenhagen, Denmark
+
+Square Enix Europe game development subsidiary.
+
+[228]
+
+
+
+SPC‐NO.1 Co., Ltd
+
+June 1, 2009
+
+February 1, 2010
+
+Tokyo, Japan
+
+The parent shell company of ES1 Corporation that merged with Taito Corporation.
+
+[221]
+
+
+
+Smileworks
+
+June 17, 2013
+
+January 14, 2015
+
+Jakarta, Indonesia
+
+iOS, Android, Windows Phone and Nokia smartphones.
+
+[229][230]
+
+
+
+Shinra Technologies
+
+September 18, 2014
+
+January 2016
+
+New York City, United States
+
+Cloud services.
+
+[157][158]
+
+
+
+Studio Istolia
+
+February 21, 2017
+
+May 15, 2019
+
+Shinjuku, Tokyo, Japan
+
+Square Enix Co., Ltd. game development subsidiary.
+
+[231][66]
+
+
+Notes[edit]
+
+
+^ Japanese: 株式会社スクウェア・エニックス・ホールディングス, Hepburn: Kabushiki gaisha Sukuwea Enikkusu Hōrudingusu
+
+
+References[edit]
+
+
+^ a b c "Corporate Profile – Corporate Information – SQUARE ENIX HOLDINGS CO., LTD". Hd.square-enix.com. Archived from the original on July 25, 2019. Retrieved September 3, 2017.
+
+^ a b "Financial Highlights". Square Enix. May 13, 2020. Archived from the original on August 8, 2018. Retrieved January 22, 2021.
+
+^ Adler, Matthew (April 6, 2020). "Why Final Fantasy is the Biggest RPG Series of All Time - IGN". IGN.
+
+^ a b Square Enix. "Square Enix History (timeline)". Square Enix. Archived from the original on May 30, 2007. Retrieved August 20, 2007.
+
+^ Gotemba, Goro and Iwamoto, Yoshiyuki (April 2, 2006). Japan on the Upswing: Why the Bubble Burst and Japan's Economic Renewal. Algora Publishing. p. 199. ISBN 978-0-87586-461-7.{{cite book}}:  CS1 maint: uses authors parameter (link)
+
+^ a b c Fujii, Daiji (January 2006). Entrepreneurial choices of strategic options in Japan's RPG development (PDF) (Report). Faculty of Economics, Okayama University. Archived from the original (PDF) on October 8, 2006. Retrieved April 26, 2008.
+
+^ Rusel DeMaria, Johnny L. Wilson (2004). "Across the Pacific". High Score!: The Illustrated History of Electronic Games (2nd ed.). McGraw-Hill Professional. p. 374. ISBN 0-07-223172-6.
+
+^ "Square Enix: February 2, 2004 – February 4, 2004" (PDF). Square Enix. February 4, 2004. p. 27. Archived from the original (PDF) on February 13, 2012. Retrieved July 31, 2008.
+
+^ "Enix To Develop Titles for the PlayStation". IGN. January 9, 1997. Archived from the original on March 13, 2016. Retrieved July 19, 2008.
+
+^ "Enix/Sony Update". IGN. January 16, 1997. Archived from the original on February 18, 2012. Retrieved July 19, 2008.
+
+^ "Transfers to 1st section". Tokyo Stock Exchange. March 1, 2008. Archived from the original on September 28, 2008. Retrieved July 29, 2008.
+
+^ a b c d e "History". Square Enix Holdings. Archived from the original on March 1, 2012. Retrieved December 4, 2009.
+
+^ a b c d "Square Enix Company Timeline". Archived from the original on February 7, 2012. Retrieved March 5, 2009.
+
+^ "Chrono Trigger". Electronic Gaming Monthly. No. 66. Ziff Davis. January 1995. p. 22.
+
+^ "Sony Officially Announces Alignment With Square". IGN. December 11, 1996. Archived from the original on June 6, 2011.
+
+^ Long, Andrew (October 13, 2008). "RPGamer > Square-Enix Gives Chrono Break Trademark Some Playmates". RPGamer. Archived from the original on November 13, 2014. Retrieved May 15, 2016.
+
+^ Long, Andrew (2003). "Square-Enix Gives Chrono Break Trademark Some Playmates". RPGamer. Archived from the original on November 13, 2014. Retrieved June 1, 2008.
+
+^ "Sony buys stake in Square". IGN. October 8, 2001. Archived from the original on December 28, 2013.
+
+^ Winkler, Chris (November 13, 2002). "Square Expects Strong Financial Results". RPG Fan. Archived from the original on December 26, 2013. Retrieved December 25, 2013.
+
+^ "Square Enix Financial data" (PDF). Square Enix. July 30, 2003. Archived (PDF) from the original on November 9, 2013. Retrieved December 28, 2013.
+
+^ Anoop Gantayat (November 25, 2002). "Square and Enix Merge". IGN. Archived from the original on May 17, 2012. Retrieved July 19, 2008.
+
+^ "Square and Enix to merge". IGN.com. November 25, 2002. Archived from the original on November 24, 2013. Retrieved December 25, 2013.
+
+^ Stone, Courtney (January 11, 2003). "Trouble in paradise". RPGamer. Archived from the original on December 22, 2018. Retrieved December 25, 2013.
+
+^ Jim (November 26, 2002). "Japan Game Software Firms Square, Enix to Merge". GameCubicle.com. Archived from the original on February 5, 2006. Retrieved December 28, 2013.
+
+^ Winkler, Chris (January 14, 2003). "Square Enix Merger gets greenlight". RPGFan. Archived from the original on February 13, 2003. Retrieved December 25, 2013.
+
+^ "Square Enix: 2004 Annual Report" (PDF). Square Enix. August 6, 2004. p. 12. Archived from the original (PDF) on March 7, 2012. Retrieved December 3, 2011.
+
+^ "Square Enix: 2004 Annual Report" (PDF). Square Enix. August 6, 2004. p. 15. Archived from the original (PDF) on March 7, 2012. Retrieved December 3, 2011.
+
+^ Winkler, Chris (April 23, 2004). "Square Enix – One Year After the Merger". RPGFan. Archived from the original on June 20, 2004. Retrieved January 25, 2010.
+
+^ "Square and Enix Merge". IGN. November 25, 2002. Archived from the original on January 19, 2008. Retrieved August 10, 2012.
+
+^ "Shareholder Information". Square Enix Holdings. Archived from the original on March 23, 2013. Retrieved February 15, 2010.
+
+^ "Game software firms Enix, Square to merge on April 1". Japan Times. November 27, 2002. Archived from the original on July 13, 2017. Retrieved March 11, 2017.
+
+^ a b Cook, John (December 17, 2007). "Square Enix sells off UIEvolution". Seattle Post-Intelligencer. Archived from the original on July 23, 2012. Retrieved January 13, 2008.
+
+^ "Group Companies". Square Enix. Archived from the original on May 16, 2016. Retrieved May 19, 2016.
+
+^ "Taito Corporation – Notice of Inquiry Change". Taito Corporation. 2006. Archived from the original on February 2, 2018. Retrieved March 11, 2010.
+
+^ Thorsen, Tor (August 29, 2008). "Report: Square Enix makes $200M Tecmo bid". Gamespot. Archived from the original on January 10, 2009. Retrieved August 29, 2008.
+
+^ Ashcraft, Brian (September 4, 2008). "Report: Square Enix Takes "No" For An Answer, Withdraws Takeover Offer". Kotaku. Archived from the original on February 10, 2011. Retrieved September 4, 2008.
+
+^ Martin, Matt (April 17, 2007). "Square Enix promotes Yamamoto to North American CEO". GamesIndustry.biz. Retrieved July 11, 2021.
+
+^ "GRIN's Final Fantasy spin-off still in development". GamesIndustry.biz. Retrieved September 28, 2021.
+
+^ "GRIN founders say Square Enix turned their smiles upside down". Engadget. Retrieved September 28, 2021.
+
+^ Andy Chalk (October 27, 2014). "The $200 Eidos Anthology arrives on Steam". PC Gamer. Archived from the original on May 4, 2016. Retrieved May 14, 2016.
+
+^ a b c d e Corporate Strategy meeting regarding Eidos integration (PDF), Square Enix, April 22, 2009, archived from the original (PDF) on March 7, 2012
+
+^ a b c "Square Enix Annual Report for 2004" (PDF). Square Enix. 2004. p. 67. Archived (PDF) from the original on September 7, 2017. Retrieved September 1, 2018.
+
+^ Fletcher, J. (April 27, 2010). "Square Enix 'Extreme Edges' is new label for publisher's violent games in Japan". Joystiq. Retrieved February 24, 2022.
+
+^ Graft, Kris (July 21, 2010). "New President For Square Enix U.S. Division". Gamasutra. Retrieved July 11, 2021.
+
+^ "INTERVIEW: Square Enix". MCV. October 26, 2010. Retrieved July 11, 2021.
+
+^ a b Rose, Mike (March 23, 2011). "Square Enix Forms New Japanese Mobile Studio Hippos Lab". Gamasutra. Archived from the original on March 3, 2016. Retrieved May 14, 2016.
+
+^ a b "SQUARE ENIX TO EXPAND FURTHER IN MONTRÉAL". Square Enix. November 21, 2011. Archived from the original on July 16, 2018. Retrieved May 19, 2016.
+
+^ "Report: Square Enix Los Angeles Studio Closed". Siliconera. July 1, 2011. Retrieved August 15, 2020.
+
+^ a b "Square Enix CEO Yoichi Wada resigns (update)". Polygon. March 26, 2013.
+
+^ Kubba, Sinan. "Square Enix president Wada to step down, $106M 'restructuring' loss [update]". Engadget.
+
+^ "Notice of Resolutions Adopted at the 33rd Annual Shareholders' Meeting" (PDF).
+
+^ Crecente, Brian (May 23, 2013). "President of Square Enix of America leaves company (update)". Polygon. Retrieved August 16, 2020.
+
+^ Futter, Mike (July 23, 2013). "Eidos Montreal General Manager Stephan D'Astous Resigns". GameInformer. Retrieved July 11, 2021.
+
+^ "Hip to be Square: US and EU boss Phil Rogers on the publisher's huge line-up". MCV. September 4, 2015. Retrieved August 15, 2020. The industry changes and one of the big things over the last couple of the years has been the European team working hand-in-hand with the American team, and since March this year we’ve had them working officially across LA and London
+
+^ "Square Enix West Material Usage Policy". square-enix-games.com. Retrieved August 15, 2020. this Policy applies only to games developed and published by Square Enix’s western division, not to games developed or published by Square Enix’s Japanese affiliates (including Square Enix’s Japanese office, Luminous Productions, and Taito Corporation).
+
+^ Rose, Mike (March 26, 2013). "Square Enix president steps down following terrible year for the company". www.gamasutra.com.
+
+^ Sahev, Ishaan (May 27, 2013). "Square Enix Feel They Have Something To Learn From Kickstarter". Siliconera.
+
+^ Corriea, Alexa Ray (April 14, 2014). "Square Enix India shutters after one year". Polygon. Retrieved August 15, 2020.
+
+^ Pearson, Dan (March 7, 2013). "New offices in Mexico, India for Square Enix". GamesIndustry.biz.
+
+^ Garst, Aron (October 30, 2018). "The Story Behind Square Enix's Failed Latin America Video Game Division". Kotaku.
+
+^ "Square Enix shutters Indonesian mobile studio". GamesIndustry.biz. Retrieved August 15, 2020.
+
+^ Corriea, Alexa Ray (March 31, 2014). "Square Enix to renew focus on core gamers, 'heavy JRPGs' thanks to Bravely Default". Polygon.
+
+^ Brian Shea (June 15, 2015). "New Studio Tokyo RPG Factory Announces Project Setsuna". Game Informer. Archived from the original on April 25, 2016. Retrieved June 21, 2016.
+
+^ Own S. Good (June 16, 2015). "Square Enix creates new studio to handle new RPG: Project Setsuna". Polygon. Archived from the original on September 29, 2015. Retrieved June 21, 2016.
+
+^ WESLEY COPELAND (February 21, 2017). "SQUARE ENIX LAUNCHES NEW STUDIO, ANNOUNCES NEW RPG". IGN. Archived from the original on February 22, 2017. Retrieved February 21, 2017.
+
+^ a b "Square Enix closes Studio Istolia, cancels Project Prelude Rune". Gematsu. May 14, 2019. Archived from the original on December 16, 2019. Retrieved May 12, 2020.
+
+^ a b Desai, Sameer (December 4, 2019). "Square Enix takes second crack at India". Mumbai Mirror.
+
+^ a b Alwani, Rishi (February 3, 2021). "This Is Square Enix India's First Game". IGN India.
+
+^ Peppiatt, Dom (March 1, 2021). "Looks like many more Square Enix remakes are on the way". VG247. Retrieved March 1, 2021.
+
+^ a b "Corporate Profile". Square Enix Holdings. Archived from the original on April 10, 2016. Retrieved September 8, 2016.
+
+^ a b 会社概要 (in Japanese). Square Enix. Archived from the original on May 14, 2012. Retrieved May 10, 2011.
+
+^ "Map". Square Enix Corporation. Archived from the original on March 7, 2012. Retrieved September 3, 2013.
+
+^ a b "スクウェアエニックス、合併後の事業部の様子と開発中ソフト". V Jump. Shueisha Inc. September 20, 2003. Archived from the original on December 27, 2003.
+
+^ Winkler, Chris (2003). "Square Enix Talks Current Status". RPGFan. Archived from the original on October 9, 2003. Retrieved August 1, 2007.
+
+^ "(TGS)スクエニ第1開発事業部新規タイトル発表会、詳細レポート！". Dengeki Online (in Japanese). ASCII Media Works Inc. September 26, 2003. Archived from the original on September 4, 2010. Retrieved January 20, 2011.
+
+^ "29 May 2003 開催スクウェア・エニックス戦略説明会概要" (PDF). Square Enix. June 5, 2003. Archived (PDF) from the original on December 12, 2013. Retrieved April 15, 2013.
+
+^ "PS3向けタイトル開発に向けた準備も万全（スクウェア・エニックス 代表取締役社長 和田洋一氏）". Nikkei Trendy. March 20, 2007. Archived from the original on May 7, 2013. Retrieved April 15, 2013.
+
+^ Gantayat, Anoop (December 4, 2011). "Square Enix 1st Production Dept. Developing Action RPG For PS3 and Vita". Andraisang. Archived from the original on June 10, 2016. Retrieved May 22, 2016.
+
+^ 4Gamer.net (January 18, 2011). 「Final Fantasy XIII-2」が2011年発売予定，「Agito」は「Final Fantasy 零式」と名称変更して2011年夏発売。「Square Enix 1st Production Department Premiere」をTwitterで実況 (in Japanese). Archived from the original on January 20, 2011. Retrieved January 19, 2011.
+
+^ Yin-Poole, Wesley (February 19, 2014). "Square Enix 'definitely interested' in bringing future Final Fantasy games to PC". Eurogamer. Archived from the original on February 19, 2014. Retrieved May 23, 2016.
+
+^ "「Final Fantasy XIII-2」が2011年発売予定，「Agito」は「Final Fantasy 零式」と名称変更して2011年夏発売。「Square Enix 1st Production Department Premiere」をTwitterで実況". 4Gamer.net (in Japanese). Aetas, Inc. January 18, 2011. Archived from the original on January 20, 2011. Retrieved January 19, 2011.
+
+^ "Is Square Enix teasing Bravely Default 3?". August 6, 2018. Archived from the original on April 6, 2020. Retrieved April 6, 2020.
+
+^ "『ライトニング リターンズ ファイナルファンタジーXIII』開発者・宣伝担当インタビュー". Famitsu.com. December 28, 2013. Archived from the original on June 22, 2014. Retrieved June 2, 2016.
+
+^ "第8–12ビジネス・ディビジョン". Square Enix. December 2016. Archived from the original on December 20, 2016. Retrieved December 14, 2016.
+
+^ "Square Enix consolidating its business divisions". GamesIndustry.biz. Archived from the original on August 24, 2019. Retrieved April 6, 2020.
+
+^ Romano, Sal (April 2019). "Final Fantasy VII Remake project lead now co-director; Naoki Yoshida division developing large-scale next-gen project". Gematsu. Archived from the original on April 1, 2019. Retrieved April 1, 2019.
+
+^ "Square Enix's development restructure sees Yoshinori Kitase overseeing majority of FF series". Final Fantasy Union. April 7, 2019. Archived from the original on April 6, 2020. Retrieved April 6, 2020.
+
+^ "Executive Biographies: Board of Directors". Square Enix. Retrieved June 9, 2020.{{cite web}}:  CS1 maint: url-status (link)
+
+^ Fahey, Rob (July 16, 2004). "Square Peg, European Hole". Eurogamer. Archived from the original on June 5, 2016. Retrieved May 13, 2016.
+
+^ Tochen, Dan (May 17, 2005). "Square Enix sticks to its strengths". GameSpot. Retrieved August 29, 2021.{{cite web}}:  CS1 maint: url-status (link)
+
+^ Fullmetal Alchemist adaptation information:
+TV Series ending: "FMA's Irie Confirms Animating Manga's End in 2 Months". Anime News Network. May 6, 2010. Archived from the original on May 9, 2010. Retrieved May 7, 2010.
+TV Series announced: "New Fullmetal Alchemist TV Anime Series Confirmed". Anime News Network. August 20, 2008. Archived from the original on August 21, 2008. Retrieved August 20, 2008.
+Manga UK: "Manga UK Adds New Fullmetal Alchemist, Sengoku Basara". Anime News Network. February 9, 2010. Archived from the original on February 10, 2010. Retrieved February 10, 2010.
+Japanese Box Office: "Japanese Box Office". Anime News Network. July 27, 2005. Archived from the original on April 11, 2009. Retrieved April 2, 2009.
+Brotherhood Movie: "Fullmetal Alchemist: Brotherhood Movie Teaser Streamed". Anime News Network. November 14, 2010. Archived from the original on November 16, 2010. Retrieved November 15, 2010.
+Japanese novels: 原作/荒川 弘 著者/井上 真 (in Japanese). Square Enix. Archived from the original on March 5, 2008. Retrieved April 11, 2008.
+DS: "Fullmetal Alchemist DS-bound". GameSpot. Archived from the original on September 30, 2007. Retrieved September 5, 2008.
+Video games: "Fullmetal Alchemist video games" (in Japanese). Sony. Archived from the original on April 24, 2013. Retrieved August 5, 2006.
+
+^ "2007 Profile" (PDF). Square Enix. March 1, 2007. Archived (PDF) from the original on October 9, 2014. Retrieved May 19, 2016.
+
+^ Welsh, Oli (January 15, 2008). "Square Dance". GamesIndustry.biz. Archived from the original on March 4, 2016. Retrieved May 13, 2016.
+
+^ Gantayat, Anoop (July 1, 2005). "SQUARE ENIX ANNOUNCES ULTIMATE HITS COLLECTION". IGN. Archived from the original on June 10, 2016. Retrieved May 12, 2016.
+
+^ a b c Kohler, Chris (February 21, 2008). "How WiiWare Changed Square Enix". Wired. Archived from the original on June 29, 2011.
+
+^ Sheffield, Brandon (June 27, 2012). "Square Enix to avoid large-scale internal development after Final Fantasy XIII-2". Gamasutra. Archived from the original on April 16, 2016. Retrieved May 21, 2016.
+
+^ Bertschy, Zac (August 3, 2008). "Interview: Square Enix's National Manager of Merchandise, Kanji Tashiro". Anime News Network. Archived from the original on August 5, 2008. Retrieved May 15, 2016.
+
+^ a b "Square Enix Press Center – CRYSTAL DYNAMICS UNVEILS RISE OF THE TOMB RAIDER". Square Enix. June 9, 2014. Archived from the original on June 10, 2014. Retrieved June 10, 2014.
+
+^ "Digital Entertainment and Amusement Businesses Related IPs". Square Enix. March 31, 2014. Archived from the original on May 16, 2012. Retrieved August 18, 2014.
+
+^ "Square Enix franchises and businesses". Square Enix. Archived from the original on June 29, 2015. Retrieved September 22, 2015.
+
+^ Wollenschlaeger, Alex (March 6, 2006). "Japan Picks the Best Games Ever". Kikizo. Archived from the original on October 9, 2011. Retrieved August 1, 2007.
+
+^ "IGN presents Best of 2006". IGN. 2006. Archived from the original on June 18, 2013. Retrieved August 1, 2007.
+
+^ a b "Square Enix Game List". IGN. Archived from the original on September 5, 2015. Retrieved May 22, 2016.
+
+^ "Corporate History – 1975 – 2002". Square Enix. Archived from the original on February 13, 2012.
+
+^ Shreier, Jason (September 18, 2014). "Final Fantasy XIII Is Coming To PC". Kotaku. Archived from the original on September 18, 2014. Retrieved September 18, 2014.
+
+^ Agnello, Anthony John (April 26, 2012). "Dragon Quest X begins the unusual transition from Wii to Wii U in Japan this August". Digital Trends. Archived from the original on November 20, 2012. Retrieved September 12, 2012.
+
+^ Gann, Patrick (December 12, 2009). "Sayuri Sugawara – Because You're Here". RPGFan. Archived from the original on December 30, 2009. Retrieved May 31, 2010.
+
+^ a b "2015 Annual Report" (PDF). Square Enix. January 8, 2009. Archived (PDF) from the original on November 30, 2015. Retrieved April 1, 2015.
+
+^ Jenkins, David (July 8, 2004). "Square Enix Sign Euro Mobile Deal". Gamasutra. Archived from the original on September 21, 2016. Retrieved May 20, 2016.
+
+^ Sinclair, Brian (2006). "Square Enix wants a three-way race". GameSpot. Archived from the original on January 22, 2007. Retrieved August 1, 2007.
+
+^ Berti, Matt (2007). "Square Enix to devote more attention to U.S., European markets". SquareHaven. Archived from the original on October 11, 2007. Retrieved September 25, 2007.
+
+^ Leadbetter, Richard (March 5, 2010). "Digital Foundry: Face-Off: Final Fantasy XIII". Eurogamer. Archived from the original on May 8, 2011. Retrieved March 5, 2010.
+
+^ Bailey, Kat (July 7, 2008). "Square's First iPod Game Uses Music to Fight". 1UP.com. Archived from the original on June 16, 2016. Retrieved May 19, 2016.
+
+^ a b JC Fletcher (August 1, 2008). "Square Enix launches new label casual, family-oriented games". joystiq. Archived from the original on January 28, 2015. Retrieved January 24, 2013.
+
+^ Burnes, Andrew (April 23, 2009). "Eidos & Square Enix Sales Figures Revealed". Voodoo Extreme. IGN. Archived from the original on April 27, 2009. Retrieved September 7, 2011.
+
+^ "Deus Ex: Human Revolution sells 2.18 million". Eurogamer. November 4, 2011. Archived from the original on September 23, 2015. Retrieved November 7, 2011.
+
+^ "Thief – SteamSpy". Steam Spy. Archived from the original on September 23, 2015. Retrieved September 18, 2015.
+
+^ "Square Enix Explains Why It Sold Hitman's Franchise Rights Back To Io Interactive". GAMING.
+
+^ Fahey, Mike (January 8, 2009). "Square Enix To Deliver Ubisoft Games To Japan". Kotaku. Archived from the original on March 3, 2016. Retrieved May 15, 2016.
+
+^ Nakamura, Seiji (February 25, 2008). "スクエニ村田琢氏、「ホワイトエンジン」改め「Crystal Tools」を正式発表 「The Technology of FINAL FANTASY」、質疑応答も全文収録!!". Game Watch. Archived from the original on May 24, 2017. Retrieved December 7, 2013.
+
+^ "GDC08: Square Enix unveils Crystal Tools engine". Engadget. Archived from the original on January 28, 2015.
+
+^ Cook, Dave (October 3, 2012). "Final Fantasy anniversary interview: Toriyama speaks". VG247. Archived from the original on April 10, 2014. Retrieved October 3, 2012.
+
+^ Gantayat, Anoop (November 8, 2006). "Final Fantasy XIII Update". IGN. Archived from the original on December 27, 2007. Retrieved November 10, 2006.
+
+^ a b Gantayat, Anoop (September 21, 2011). "Why is Final Fantasy Versus XIII Using the Luminous Engine?". Andriasang. Archived from the original on July 13, 2012.
+
+^ Leo, Jon (June 14, 2011). "Final Fantasy XIII-2 Q&A: Yoshinori Kitase and Motomu Toriyama". GameSpot. Archived from the original on March 21, 2014. Retrieved December 7, 2013.
+
+^ "【E3 2013】2013年はいろいろな形で「FF」を盛り上げたい―「ファイナルファンタジー」シリーズを手がける北瀬佳範氏、鳥山求氏にインタビュー". Gamer. June 13, 2013. Archived from the original on July 19, 2013. Retrieved December 7, 2013.
+
+^ Heemsbergen, Derek (November 2, 2014). "Review – Lightning Returns: Final Fantasy XIII". RPGFan. Archived from the original on February 23, 2014. Retrieved May 14, 2016.
+
+^ Chan, Leo (August 26, 2011). "Square Enix shines light on new in-house HD game engine". Neoseeker. Archived from the original on May 2, 2020. Retrieved May 14, 2016.
+
+^ "Agni's Philosophy – FINAL FANTASY REALTIME TECH DEMO". January 1, 2013. Archived from the original on June 7, 2012. Retrieved June 6, 2012.
+
+^ "Square Enix Releases AGNI'S PHILOSOPHY, A Real Time Tech Demo [VIDEO]". Zoknowsgaming. June 20, 2012. Archived from the original on June 8, 2012. Retrieved May 15, 2016.
+
+^ "今週のスクープ ファイナルファンタジーXV". Weekly Famitsu. No. 1281. Enterbrain. June 20, 2013. pp. 11ff.
+
+^ Boyer, Brandon. "Gamasutra – GDC 2008 Event Coverage". Gamasutra. Archived from the original on February 27, 2008.
+
+^ Tomer (2007). "Square Enix Acquires Unreal Engine 3 License". Forever Fantasy. Archived from the original on September 27, 2007. Retrieved January 25, 2007.
+
+^ "Gamers Meet Square Enix for Free in Concerto Gate". IGN. July 1, 2008. Archived from the original on November 9, 2012. Retrieved August 18, 2011.
+
+^ a b Thorsen, Tor (April 17, 2006). "Shippin' Out 4/17-4/21: Final Fantasy XI Online, Brain Age". GameSpot. Archived from the original on November 6, 2012. Retrieved December 20, 2006.
+
+^ "The Most Profitable Final Fantasy of All-Time is..." IGN. June 24, 2012. Archived from the original on January 14, 2016. Retrieved October 5, 2012.
+
+^ Gabe Wollenburg. "Square Announces Pay-Online Play Online". RPGamer. Archived from the original on February 2, 2013. Retrieved March 3, 2013.
+
+^ "'Final Fantasy XI' under attack". CNET. April 18, 2005. Archived from the original on December 11, 2013. Retrieved March 1, 2013.
+
+^ "Square Enix developing new MMORPG". GameSpot. September 15, 2004. Archived from the original on May 25, 2016. Retrieved May 20, 2016.
+
+^ a b Lefebvre, Eliot (January 14, 2010). "Gamepot Partners with Square-Enix for Fantasy Earth Zero". Engadget. Archived from the original on June 9, 2016. Retrieved May 21, 2016.
+
+^ Spencer (January 24, 2007). "Introducing Square-Enix's new online game: Concerto Gate". Siliconera. Archived from the original on May 25, 2016. Retrieved March 28, 2013.
+
+^ Juba, Joe (March 10, 2010). "The Making of Final Fantasy XIII". Game Informer. Archived from the original on December 24, 2013. Retrieved December 7, 2013.
+
+^ Tong, Sophia (June 3, 2009). "Square Enix 'considering' FFXIV Online for 'Microsoft hardware'". GameSpot. Archived from the original on October 2, 2012. Retrieved March 1, 2013.
+
+^ Brown, Nathan. "Square Enix to launch Dragon Quest X for Wii U". EDGE Online. Archived from the original on May 27, 2012. Retrieved September 5, 2011.
+
+^ Ould Braham, Idir Alexander (July 14, 2012). "Notre interview vidéo exclusive de Julien Merceron". FFDream.com. Archived from the original on December 14, 2013. Retrieved December 7, 2013.
+
+^ "Chocobo's Crystal Tower". IGN. Archived from the original on August 17, 2011. Retrieved August 4, 2011.
+
+^ "Knights of the Crystals". GameSpot. Archived from the original on August 17, 2011. Retrieved August 4, 2011.
+
+^ Ashcraft, Brian (October 6, 2011). "It's Square Enix x Yahoo! Monster x Dragon". Kotaku. Archived from the original on June 3, 2016. Retrieved May 13, 2016.
+
+^ Spencer (March 30, 2012). "Crystal Conquest Is A Massively Multiplayer Strategy Game… With Summon Monsters". Siliconera. Archived from the original on May 13, 2016. Retrieved May 14, 2016.
+
+^ North, Dale (September 30, 2013). "Dragon Quest X is coming to iOS and Android". Destructoid. Retrieved October 6, 2021.{{cite web}}:  CS1 maint: url-status (link)
+
+^ Pereira, Chris (July 8, 2014). "Dragon Quest X Uses Streaming Tech to Come to 3DS in Japan". GameSpot. Retrieved October 6, 2021.{{cite web}}:  CS1 maint: url-status (link)
+
+^ Rose, Mike (May 8, 2012). "Square Enix, Bigpoint partner for player-powered Gameglobe". Gamasutra. Archived from the original on March 3, 2016. Retrieved May 15, 2016.
+
+^ Lee, Dave (August 29, 2012). "Square Enix's CoreOnline makes console games 'free' online". BBC. Archived from the original on March 10, 2016. Retrieved May 14, 2016.
+
+^ Takahashi, Dean (August 29, 2012). "Goodbye, OnLive. Hello, Square Enix. Core Online service brings high-def games to browsers". VentureBeat. Retrieved September 20, 2020.
+
+^ Handrahan, Matthew (January 17, 2014). "Square Enix shutters CoreOnline". Gamesindustry.biz. Archived from the original on September 21, 2016. Retrieved May 19, 2016.
+
+^ Takahashi, Dean (September 19, 2014). "Final Fantasy creator Square Enix unveils Shinra Technologies to make 'revolutionary' cloud game tech". VentureBeat. Retrieved September 20, 2020.
+
+^ a b Romano, Sal (September 18, 2014). "Square Enix announces Shinra cloud gaming service". Gematsu. Archived from the original on April 16, 2016. Retrieved May 14, 2016.
+
+^ a b Purchese, Robert (January 6, 2016). "Square Enix closes cloud gaming company Shinra Technologies". Eurogamer. Gamer Network. Archived from the original on January 8, 2016. Retrieved January 6, 2016.
+
+^ Eisenbeis, Richard (September 19, 2014). "Hands On with Square Enix's New Streaming Service". Kotaku. Archived from the original on June 2, 2016. Retrieved May 11, 2016.
+
+^ a b Alvarez, Edgar (August 14, 2015). "Square Enix is killing its game-streaming service in Japan". Engadget. Archived from the original on June 2, 2016. Retrieved May 11, 2016.
+
+^ "Final Fantasy VII Streaming On Cloud Gaming Services In Japan". Siliconera. December 24, 2013. Retrieved September 20, 2020.
+
+^ "SQUARE ENIX in G-cluster App". gcluster.jp. Retrieved September 20, 2020.
+
+^ Jenkins, David (December 12, 2005). "Square Enix To Complete Taito Takeover". Gamasutra. Archived from the original on September 21, 2016. Retrieved May 20, 2016.
+
+^ a b "Taito Announces Digital Download System For Arcades". Gamasutra. Gamasutra. September 13, 2010. Archived from the original on August 11, 2014. Retrieved July 28, 2014.
+
+^ Sato (May 7, 2015). "Square Enix Developers On Why They Make Arcade Games". Siliconera. Archived from the original on May 13, 2016. Retrieved May 11, 2016.
+
+^ Ashcraft, Brian (December 5, 2019). "Square Enix Announces Ninja Theme Park, Reveals New Innovative Digital Attractions". Kotaku.
+
+^ "「ゲームのような世界を現実に」をコンセプトとするスクウェア・エニックス・LIVE INTERACTIVE WORKS，第5回テーマパークEXPOに出展へ". www.4gamer.net (in Japanese). November 28, 2019.
+
+^ "CONTENTS / EVENT一覧｜『ゲームの世界を現実に』LIVE INTERACTIVE WORKS｜SQUARE ENIX". www.liveinteractiveworks.com (in Japanese). Retrieved May 1, 2021.
+
+^ a b "Annual Report 2007" (PDF). Square Enix. p. 31. Archived from the original (PDF) on March 25, 2009. Retrieved May 11, 2016.
+
+^ Long, Andrew. "Square-Enix Gives Chrono Break Trademark Some Playmates". RPGamer. Archived from the original on November 13, 2014.
+
+^ "Final Fantasy VII Advent Children Review". IGN. April 17, 2006. Archived from the original on April 18, 2016. Retrieved May 20, 2016.
+
+^ Tilly, Chris (July 10, 2012). "Deus Ex Movie in the Works". IGN. Archived from the original on July 13, 2012. Retrieved September 21, 2012.
+
+^ Farokhmanesh, Megan (March 21, 2014). "Deus Ex film 'still alive,' undergoing rewrites". Polygon. Archived from the original on May 30, 2016. Retrieved May 13, 2016.
+
+^ Sato (March 30, 2016). "Kingsglaive: Final Fantasy XV Revealed As An Advent Children-Style CGI Film". Siliconera. Archived from the original on March 31, 2016. Retrieved March 31, 2016.
+
+^ a b "Square Enix to Launch Digital Manga Store in North America and France". Anime News Network.
+
+^  週刊少年ジャンプ [Weekly Shōnen Jump] (in Japanese). Vol. 45. Japan: Shueisha. 1989. p. 72.
+
+^ "USA Today Best-Selling Books Database – Top 150 best sellers". USA Today. Archived from the original on April 5, 2012. Retrieved May 17, 2007.
+
+^ Clements, Jonathan; Helen McCarthy (September 1, 2001). The Anime Encyclopedia: A Guide to Japanese animation since 1917. Berkeley, California: Stone Bridge Press. p. 375. ISBN 1-880656-64-7. OCLC 47255331.
+
+^ Ashcraft, Brian (April 1, 2011). "Manga From Square Enix Coming To TV And Film". Kotaku. Archived from the original on June 4, 2016. Retrieved May 19, 2016.
+
+^ "Businesses". Square Enix. May 18, 2015. Archived from the original on September 22, 2014. Retrieved November 26, 2015.
+
+^ "Fullmetal Alchemist, Volume 1". Archived from the original on March 14, 2016. Retrieved September 5, 2013.
+
+^ "Fullmetal Alchemist, Volume 1: The Curse (Episodes 1–4) (2004)". Amazon. Archived from the original on September 16, 2009. Retrieved October 10, 2008.
+
+^ "PlayOnline Displays Cool Square Stuff". IGN. August 18, 2000. Archived from the original on October 6, 2012. Retrieved March 4, 2013.
+
+^ Michael McWhertor (January 22, 2008). "Final Fantasy's Chocobo Goes Rubbery, Ducky". Kotaku. Archived from the original on January 23, 2008. Retrieved April 1, 2008.
+
+^ SQUARE ENIX MEMBERS (April 24, 2008). "NY Comic Con Event Diary: Day 2". Square Enix. Archived from the original on June 30, 2013. Retrieved May 18, 2008.
+
+^ "PlayStation: The Official Magazine Holiday Gift Guide '08," PlayStation: The Official Magazine 13 (Holiday 2008): 37.
+
+^ McWhertor, Michael (May 16, 2007). "Chocobo Coffee Mugs". Kotaku. Archived from the original on April 26, 2009. Retrieved February 17, 2009.
+
+^ Fahey, Mike (December 14, 2006). "Chocobos in the Wild". Kotaku. Archived from the original on October 12, 2012. Retrieved February 18, 2009.
+
+^ Henry Gilbert (July 11, 2010). "Everything you need to know about Dragon Quest". GamesRadar. Archived from the original on October 13, 2012. Retrieved March 1, 2013.
+
+^ a b c Mike Schramm (June 19, 2011). "Dragon Quest 25th anniversary merch features plushie slimes, business card cases". Joystiq. AOL. Archived from the original on March 8, 2016. Retrieved April 8, 2012.
+
+^ a b "Slime Plush Toys". Slimeshrine. Archived from the original on September 4, 2009. Retrieved January 28, 2009.
+
+^ Joshua Fruhlinger (October 28, 2004). "Dragon Quest Slime PS2 controller from Hori". Engadget. AOL. Archived from the original on December 5, 2012. Retrieved April 8, 2013.
+
+^ "Smile Slime". Square Enix Shop. Square Enix JP Shopping Site. Archived from the original on December 23, 2006. Retrieved January 28, 2009.
+
+^ Candace Savino (November 26, 2007). "Dragon Quest board game out in Japan, looks like good times". Joystiq. AOL. Archived from the original on May 25, 2016. Retrieved April 8, 2013.
+
+^ Jasmine Maleficent Rea (July 29, 2012). "Dragon Quest slime racing is now a board game". Games Beat. Venture Beat.
+
+^ Chris Kohler (April 27, 2010). "Eating Slime Buns at Tokyo's Dragon QuestBar". Wired. Archived from the original on March 24, 2014. Retrieved March 1, 2013.
+
+^ "Legend of Mana Products". RPGFan. Archived from the original on July 29, 2012. Retrieved June 13, 2007.
+
+^ Ashcraft, Brian (September 22, 2012). "From Mass Effect to Metal Gear, This is a Symphony in Plastic". Kotaku. Archived from the original on January 28, 2013.
+
+^ Ashcraft, Brian (December 20, 2012). "A Look Inside The Brand New Square Enix Cafe". Kotaku Australia.
+
+^ "Square Enix Cafe Osaka Will Have A Grand Opening Event On October 13 With Kingdom Hearts Art". Siliconera. October 4, 2017.
+
+^ "Square Enix Cafe Expands To Shanghai, China". Siliconera. October 31, 2017.
+
+^ "Square Enix Inc - Company Profile and News - Bloomberg Markets". Bloomberg L.P. Archived from the original on September 7, 2018. Retrieved February 20, 2019.
+
+^ Golze, Benjamin (July 1, 2004). "Square Enix reorganizes US subsidiary". GameSpot. Retrieved July 11, 2021.
+
+^ a b "Square Enix | Jobs & Career Opportunities". square-enix-games.com. Retrieved March 15, 2021.
+
+^ "Square Enix Comic Magazines" (in Japanese). Archived from the original on May 9, 2008. Retrieved January 31, 2008.
+
+^ "SQUARE ENIX (2009) LIMITED – Overview (free company information from Companies House)". Companies House, Government of the United Kingdom. Archived from the original on September 2, 2018. Retrieved February 20, 2019.
+
+^ LTD, SQUARE ENIX CO. "SQUARE ENIX AI & ARTS Alchemy Co., Ltd". SQUARE ENIX AI & ARTS Alchemy Co., Ltd.
+
+^ "Group Companies｜About Square Enix Group｜SQUARE ENIX HOLDINGS CO., LTD". www.hd.square-enix.com.
+
+^ Yukiyoshi Ike Sato (January 28, 2000). "Breaking News: Square Millennium". GameSpot. Archived from the original on July 13, 2017. Retrieved March 4, 2013.
+
+^ a b "Square Enix enhanced a presence in the Chinese online and mobile game market with a 100% Square Enix subsidiary based in Beijing" (PDF). Square Enix staff. February 28, 2005. Archived (PDF) from the original on May 6, 2006. Retrieved July 27, 2008.
+
+^ "Notice on Results of Square Enix's Tender Offer and Change in Consolidated Subsidiary" (PDF). Square Enix Co., Ltd. September 22, 2005. Archived from the original (PDF) on April 2, 2015. Retrieved June 27, 2017.
+
+^ "About Us". Tokyo RPG Factory. Archived from the original on June 27, 2016. Retrieved June 21, 2016.
+
+^ "Final Fantasy 15 director heading up new Square Enix studio". Polygon. March 27, 2018. Archived from the original on March 27, 2018. Retrieved March 27, 2018.
+
+^ a b McLaughlin, Rus (April 30, 2008). "IGN Presents: The History of Final Fantasy VII". IGN. Ziff Davis. Archived from the original on November 9, 2012. Retrieved September 14, 2008.
+
+^ "Gamasutra – Selecting Save on the Games We Make, Part 1". gamasutra.com. February 23, 2012. Archived from the original on September 23, 2017. Retrieved September 6, 2018.
+
+^ "Enix on a Quest". Nintendo Power. Epic Center. No. 80. Nintendo of America. January 1996. p. 58.
+
+^ "History – Corporate Information – SQUARE ENIX HOLDINGS CO., LTD". Hd.square-enix.com. Archived from the original on March 1, 2012. Retrieved September 3, 2017.
+
+^ "Square Enix Holds Strong". IGN. February 4, 2004. Archived from the original on April 13, 2014. Retrieved April 12, 2014.
+
+^ "Square Electronic Arts". IGN U.K. Archived from the original on July 2, 2015. Retrieved November 13, 2016.
+
+^ "Square Enix To Make Taito A Wholly-Owned Subsidiary" (PDF). Square Enix Co., Ltd. December 12, 2005. Archived (PDF) from the original on March 29, 2016. Retrieved November 1, 2016.
+
+^ a b "Notice of an Absorption-type Company Split Between Taito Corporation and ES1 Corporation" (PDF). Square Enix Holdings. November 27, 2009. Archived (PDF) from the original on March 4, 2016. Retrieved November 1, 2016.
+
+^ Tidwell, Mike (August 3, 1999). "News from Enix". RPGamer. Archived from the original on March 10, 2005. Retrieved July 29, 2008.
+
+^ Stone, Cortney (2003). "Enix America Shuts Down". RPGamer. Archived from the original on November 6, 2006. Retrieved September 11, 2007.
+
+^ a b "Notice regarding Dissolution and Liquidation of Subsidiaries" (PDF). Square Enix Co., Ltd. September 28, 2008. Archived (PDF) from the original on March 29, 2012. Retrieved September 28, 2008.
+
+^ "Square Enix News Center (English)" (PDF). Archived (PDF) from the original on December 28, 2018. Retrieved December 28, 2018.
+
+^ "SQUARE ENIX OF EUROPE HOLDINGS LIMITED – Overview (free company information from Companies House)". Companies House, Government of the United Kingdom. Archived from the original on December 28, 2018. Retrieved February 20, 2019.
+
+^ Crossley, Rob (April 19, 2010). "Square Enix comes clean on cuts and closure". Develop. Archived from the original on March 10, 2012. Retrieved November 25, 2014.
+
+^ "The Future of IOI". IO Interactive. June 16, 2017. Archived from the original on June 24, 2017. Retrieved June 16, 2017.
+
+^ Gera, Emily (June 17, 2013). "Square Enix opens mobile studio in Indonesia". Polygon. Archived from the original on December 3, 2013. Retrieved June 25, 2014.
+
+^ Anne-Lee, Mary (January 14, 2015). "Square Enix shuts down Indonesia spin-off studio, Smileworks". Tech in Asia. Archived from the original on August 11, 2015. Retrieved August 10, 2015.
+
+^ "About Us". Studio Istolia. Archived from the original on January 3, 2018. Retrieved February 21, 2017.
+
+
+External links[edit]
+Official website 
+Square Enix Holdings
+vteSquare EnixVideo game development
+Square Enix Europe
+Crystal Dynamics
+Eidos-Montréal
+Square Enix Montreal
+Luminous Productions
+Taito
+Tokyo RPG Factory
+Other industries
+Gangan Comics
+PlayOnline
+Image Studio Division
+Lists of video games
+List of franchises
+Square Enix
+mobile
+Enix
+home computer
+Square
+Square Enix Europe
+Crystal Dynamics
+Eidos
+Taito
+Key people
+Tomoya Asano
+Shinji Hashimoto
+Hiroyuki Ito
+Akitoshi Kawazu
+Yoshinori Kitase
+Tetsuya Nomura
+Takashi Tokita
+Motomu Toriyama
+Naoki Yoshida
+Former
+Koichi Ishii
+Yasumi Matsuno
+Hironobu Sakaguchi
+Hajime Tabata
+Tetsuya Takahashi
+Hiromichi Tanaka
+Toshiro Tsuchida
+Yoichi Wada
+
+Defunct
+Beautiful Game Studios
+DigiCube
+Eidos Hungary
+The Game Designers Studio
+Ion Storm
+Quest Corporation
+Square
+Enix
+Related articles
+Compilation albums
+Companion books
+DS:Style
+IO Interactive
+Localization of Square Enix video games
+Luminous Engine
+Crystal Tools
+NESiCAxLive
+NESYS
+Taito Type X
+Zuntata
+ Category
+vteSquare Enix video game franchisesSquare Enix
+ActRaiser
+All Star Pro-Wrestling
+Bravely
+Bushido Blade
+Bust a Groove
+Chaos Rings
+Chocobo
+Code Age
+Chrono
+Dragon Quest
+Drakengard (Nier)
+Final Fantasy
+Front Mission
+Hanjuku Hero
+Itadaki Street
+Kingdom Hearts
+Lord of Vermilion
+Mana
+Million Arthur
+Musashi
+Ogre
+Parasite Eve
+SaGa
+Schoolgirl Strikers
+Star Ocean
+Tobal
+Valkyrie Profile
+Square Enix Europe
+Backyard Wrestling
+Battlestations
+Championship Manager
+Conflict
+Deus Ex
+Dungeon Siege
+Eclipse
+Fear Effect
+Fighting Force
+Gangsters
+Gex
+Just Cause
+Kane & Lynch
+Legacy of Kain
+Life Is Strange
+Mini Ninjas
+Supreme Commander
+SWIV
+Thief
+Thunderhawk
+Tomb Raider
+Urban Chaos
+Taito
+Arkanoid
+Battle Gear
+Bubble Bobble
+Chase
+Darius
+Densha de Go!
+Don Doko Don
+Elevator Action
+Groove Coaster
+Gunslinger Stratos
+The Legend of Kage
+Pocky & Rocky
+Lufia
+Operation Wolf
+Psychic Force
+Qix
+Rastan
+Ray
+Sonic Blast Man
+Space Invaders
+Speed Race
+
+vteFinal Fantasyby Square Enix (formerly Square)Main gamesFinal FantasyFinal Fantasy IIFinal Fantasy IIIFinal Fantasy IV
+Music
+Stranger of Paradise
+
+Music
+
+Music
+Remake
+
+Characters
+Rydia
+Music
+Chronicles
+Remake
+The After Years
+Complete
+
+ Final Fantasy VFinal Fantasy VIFinal Fantasy VIIFinal Fantasy VIII
+Faris Scherwiz
+Music
+
+Characters
+Terra
+Celes
+Shadow
+Kefka
+Music
+
+Characters
+Cloud
+Barret
+Tifa
+Aerith
+Yuffie
+Vincent
+Sephiroth
+Zack
+Music
+Compilation
+Remake
+
+Characters
+Squall
+Rinoa
+Selphie
+Edea
+Music
+
+Final Fantasy IXFinal Fantasy XFinal Fantasy XIFinal Fantasy XII
+Characters
+Zidane
+Vivi
+Garnet
+Freya
+Beatrix
+Music
+
+Characters
+Tidus
+Yuna
+Rikku
+Music
+X-2
+Music
+HD Remaster
+
+Music
+
+Characters
+Vaan
+Balthier
+Fran
+Music
+Revenant Wings
+
+Final Fantasy XIIIFinal Fantasy XIVFinal Fantasy XVFinal Fantasy XVI
+Characters
+Lightning
+Music
+XIII-2
+Music
+Lightning Returns
+Music
+
+Music
+Original version
+Heavensward
+Stormblood
+Shadowbringers
+Endwalker
+
+Characters
+Noctis
+Ignis
+Prompto
+Lunafreya
+Ardyn
+Development
+DLC
+Music
+Pocket Edition
+The Dawn of the Future
+
+ 
+
+Subseries
+Brave Exvius
+War of the Visions 
+Chocobo
+Dimensions
+II 
+Crystal Chronicles
+Dissidia
+Fabula Nova Crystallis
+Ivalice
+Theatrhythm
+Curtain Call 
+Other games
+Airborne Brigade
+All the Bravest
+Artniks
+Explorers
+Mario Hoops 3-on-3
+Mobius
+Mystic Quest
+Record Keeper
+The 4 Heroes of Light
+Type-0
+HD 
+World
+Related series
+Bravely Default
+Itadaki Street
+Kingdom Hearts
+Mana
+SaGa
+Super Smash Bros.
+Films and animation
+Legend of the Crystals
+The Spirits Within
+Unlimited
+Advent Children
+Last Order
+Brotherhood
+Kingsglaive
+Dad of Light
+Brave Father Online: Our Story of Final Fantasy XIV
+
+Media
+video games
+Recurring elements
+Cactuar
+Chocobo
+Moogle
+Music
+concerts
+
+vteDragon Quest
+Square Enix (formerly Enix)
+Armor Project (Yuji Horii)
+Bird Studio (Akira Toriyama)
+Sugiyama Kobo (Koichi Sugiyama)
+Video gamesMain series
+Dragon Quest
+II
+III
+IV
+V
+VI
+VII
+VIII
+IX
+X
+XI
+Dragon Quest Monsters
+Dragon Warrior Monsters
+Dragon Warrior Monsters 2
+Caravan Heart
+Joker
+Joker 2
+Joker 3
+Mystery Dungeon
+Torneko no Daibōken
+The Last Hope
+Torneko 3
+Shōnen Yangus to Fushigi no Dungeon
+Slime series
+Slime Mori Mori Dragon Quest
+Rocket Slime
+Slime Mori Mori Dragon Quest 3
+Other games
+Kenshin
+Swords
+Monster Battle Road
+Wars
+Heroes
+Theatrhythm
+Builders
+Heroes II
+Builders 2
+Walk
+Other media
+The Adventure of Dai
+Manga volumes
+1991 episodes
+2020 episodes
+Yuusha yo Isoge!!
+Your Story
+Yume wo Shinjite
+Universe
+The Adventure of Dai characters
+Slime
+Sylvando
+Related companies
+ArtePiazza
+Chunsoft
+Enix
+Heartbeat
+Level-5
+Shueisha
+Other
+Itadaki Street
+Jump Force
+Kazuhiko Torishima
+Koichi Nakamura
+Mario Sports Mix
+Super Smash Bros. Ultimate
+
+ Category
+
+vteKingdom HeartsGames
+Kingdom Hearts
+Chain of Memories
+II
+Coded
+358/2 Days
+Birth by Sleep
+Dream Drop Distance
+χ
+III
+Melody of Memory
+HD Collections
+HD 1.5 Remix
+HD 2.5 Remix
+HD 2.8 Final Chapter Prologue
+Universe
+Characters
+Sora
+Riku
+Xehanort
+Organization XIII
+Roxas
+Terra
+Ventus
+Aqua
+Music
+"Hikari"
+"Passion"
+"Face My Fears"
+"Chikai"
+People
+Daisuke Watanabe
+Jun Akiyama
+Kazushige Nojima
+Shinji Hashimoto
+Tetsuya Nomura
+Hikaru Utada
+Yoko Shimomura
+Yoshinori Kitase
+Other
+Mobile
+Final Fantasy
+World of Final Fantasy
+The World Ends with You
+Einhänder
+Super Smash Bros. Ultimate
+List of media
+Square Enix
+The Walt Disney Company
+
+ Category
+
+vteGangan Comics
+List of Gangan Comics manga franchises
+Square Enix
+Enix
+
+vteVisual WorksFeature films
+Final Fantasy VII: Advent Children
+Kingsglaive: Final Fantasy XV
+Video game franchises
+Deus Ex
+Dragon Quest
+Drakengard
+Final Fantasy
+Gunslinger Stratos
+Hitman
+Kingdom Hearts
+Parasite Eve
+Tomb Raider
+Standalone video games
+The Bouncer
+Chrono Cross
+Densha de Go!
+Namu Amida Butsu!
+Thief
+Vagrant Story
+Xenogears
+
+vteElectronics industry in JapanCompaniesCurrent
+Aiwa
+Alaxala Networks
+Alinco
+Alps
+Alpine
+Anritsu
+AOR
+Audio-Technica
+Bandai Namco
+Brother
+Canon
+Casio
+CatEye
+Citizen Watch
+Cosina
+D&M Holdings
+Denon
+Marantz
+Daikin
+Denso
+DNP
+Eiki
+Eizo
+Elecom
+Elpida
+ESP Guitars
+FANUC
+Fostex
+Fuji Electric
+Fujifilm
+Fuji Xerox
+Fujitsu
+Fujitsu Ten
+Funai
+Furuno
+Futaba
+Hamamatsu Photonics
+Hirose Electric
+Hitachi
+Clarion
+Hitachi Maxell
+Hoya
+Ibanez
+Ibiden
+Icom
+Ikegami Tsushinki
+Iwatsu
+Japan Display
+JEOL
+JRC
+JR Propo
+JVCKenwood
+JVC
+Kenwood
+Kawai
+Keyence
+Kioxia
+Kiramek
+Konami
+Konica Minolta
+KO PROPO
+Korg
+Kyocera
+Luxman
+Mabuchi Motor
+Mamiya
+Maspro
+Melco
+Minebea
+Mitsubishi Electric
+Mitsumi Electric
+Murata Manufacturing
+Mutoh
+Nakamichi
+NEC
+NEC Casio Mobile Communications
+Nichia
+Nichicon
+Nidec
+Nidec Copal Corporation
+Nihon Dempa Kogyo
+Nikon
+Nintendo
+Nippon Chemi-Con
+Nitto Denko
+NKK Switches
+OKI
+Olympus
+Omron
+Onkyo
+Integra Home Theater
+Orion Electric
+Panasonic
+Sanyo
+Pioneer
+Pixela
+Plextor
+Renesas Electronics
+Ricoh
+Pentax
+Riso Kagaku
+Rohm
+Roland
+Rubycon
+Sansui
+Sanwa Electronic
+SCREEN
+Sega Sammy
+Sega
+Seiko Group
+Pulsar
+Seiko
+Epson
+Orient Watch
+Seiko Instruments
+Sharp
+Shimadzu
+Shindengen Electric Manufacturing
+Sigma
+Sony
+SNK
+Square Enix
+Taito
+Stanley Electric
+Star Micronics
+Stax
+Sumitomo Electric
+Taiyo Yuden
+Tamron
+TDK
+TEAC
+Tiger
+TOA Corporation
+Tokyo Electron
+Topcon
+Toshiba
+Uniden
+Ushio
+Wacom
+Yaesu
+Yamaha
+Yaskawa
+Zojirushi
+Zoom
+Zuken
+Defunct
+Akai
+Bronica
+Chinon
+Contax
+Konica
+Minolta
+National
+Norita
+Okaya Optical
+Other
+Electronic Industries Association of Japan
+INCJ
+Japan Electronic Industries Development Association
+Japan Electronics and Information Technology Industries Association
+Yagi–Uda antenna
+
+ Category
+
+Portals:JapanTokyoCompaniesVideo games
+Authority control General
+VIAF
+1
+WorldCat
+National libraries
+United States
+Other
+MusicBrainz label
+2
+
+
+
+
+
+<img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" />
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Square_Enix&oldid=1082487477"
+		Categories: Square EnixBook publishing companies in TokyoComic book publishing companies in TokyoCompanies listed on the Tokyo Stock ExchangeConglomerate companies based in TokyoConglomerate companies established in 1975Conglomerate companies of JapanEntertainment companies established in 1975Holding companies based in TokyoHolding companies established in 1975Japanese brandsJapanese companies established in 1975Magazine publishing companies in TokyoManufacturing companies based in TokyoMass media companies based in TokyoMass media companies established in 1975Mass media companies of JapanMultinational companies headquartered in JapanMultinational publishing companiesSoftware companies based in TokyoTrading card companiesVideo game companies established in 1975Video game companies of JapanVideo game development companiesVideo game publishersHidden categories: Pages with non-numeric formatnum argumentsArticles containing Japanese-language textCS1 maint: uses authors parameterCS1 uses Japanese-language script (ja)CS1 Japanese-language sources (ja)CS1 maint: url-statusArticles with short descriptionShort description is different from WikidataUse mdy dates from May 2021Articles with VIAF identifiersArticles with WORLDCATID identifiersArticles with LCCN identifiersArticles with MusicBrainz label identifiersArticles with multiple identifiers
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+
+	
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+
+	
+		Namespaces
+	
+	
+		
+		ArticleTalk
+		
+	
+
+
+			
+
+	
+	
+		English
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+
+	
+		Views
+	
+	
+		
+		ReadEditView history
+		
+	
+
+
+			
+
+	
+	
+		More
+	
+	
+		
+		
+		
+	
+
+
+			
+
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+
+	
+		
+	
+	
+
+	
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+
+	
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+
+	
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+		
+	
+
+
+
+	
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+
+	
+		In other projects
+	
+	
+		
+		Wikimedia Commons
+		
+	
+
+
+	
+
+	
+		Languages
+	
+	
+		
+		العربيةAsturianuAzərbaycancaتۆرکجهBrezhonegCatalàČeštinaDanskDeutschEestiΕλληνικάEspañolفارسیFrançais한국어हिन्दीBahasa IndonesiaItalianoעבריתJawaLatinaLietuviųMagyarمصرىBahasa MelayuNederlands日本語Norsk bokmålNorsk nynorskPolskiPortuguêsRomânăРусскийScotsShqipSimple EnglishSuomiSvenskaไทยTürkçeУкраїнськаTiếng Việt粵語中文
+		Edit links
+	
+
+
+
+
+
+
+
+	
+	 This page was last edited on 13 April 2022, at 12:45 (UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License 3.0;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+
+
