@@ -1,0 +1,1052 @@
+
+
+Dragon Quest - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	Dragon Quest
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		Japanese video game series
+This article is about the video game franchise. For the first game in the series, see Dragon Quest (video game). For other uses, see Dragon Quest (disambiguation).
+"Dragon Warrior" redirects here. For other uses, see Dragon Warrior (disambiguation).
+Not to be confused with DragonQuest.
+
+
+
+Video game seriesDragon QuestGenre(s)Role-playingDeveloper(s)ArtePiazza, Chunsoft, Heartbeat, Level-5, Square EnixPublisher(s)Square Enix (formerly Enix)Creator(s)Yuji HoriiArtist(s)Akira ToriyamaComposer(s)Koichi SugiyamaPlatform(s)MSXNESSuper NESGame Boy ColorGame Boy AdvanceNintendo DSmobile phoneAndroidarcadePlayStationPlayStation 2WiiNintendo 3DSWii UNintendo SwitchMicrosoft WindowsiOSPlayStation 3PlayStation 4PlayStation VitaXbox OneStadiaFirst releaseDragon QuestMay 27, 1986Latest releaseDragon Quest Dai: A Hero's BondSeptember 28, 2021Spin-offsMystery DungeonDragon Quest MonstersSlime
+Dragon Quest,[a] previously published as Dragon Warrior in North America until 2005,[b] is a franchise of Japanese role-playing video games created by Yuji Horii. The games are published by Square Enix (formerly Enix), with localized remakes and ports of later installments for the Nintendo DS, Nintendo 3DS, and Nintendo Switch being published by Nintendo outside of Japan. With its first game published in 1986, there are eleven main-series games, along with numerous spin-off games. In addition, there have been numerous manga, anime and novels published under the franchise, with nearly every game in the main series having a related adaptation.
+The series has had a significant impact on the development of console role-playing games, and introduced a number of features to the genre. Installments of the series have appeared on various computers, consoles, handheld devices, and mobile phones. Early in the series, the Dragon Quest games were released under the title Dragon Warrior in North America to avoid trademark conflict with the unrelated tabletop role-playing game DragonQuest. Square Enix did not register the Dragon Quest trademark for use in the United States until 2002.
+The basic premise of most Dragon Quest games is to play a hero (actually named "Hero" in spinoff fiction) who is out to save the land from peril at the hands of a powerful evil enemy, with the hero usually accompanied by a group of party members. Common elements persist throughout the series and its spinoff games: turn-based combat; recurring monsters, including the Slime, which became the series' mascot; a text-based menu system; and random encounters in most of the main series.
+While over the decades many different development companies worked on Dragon Quest, the series has had its creators since its inception, as scenario writer and game designer Yuji Horii, character designer Akira Toriyama, and music composer Koichi Sugiyama have handled their respective roles on most games in the series. The original concepts, used since the first game, took elements from the Western role-playing games Wizardry and Ultima. A core philosophy of the series is to make the gameplay intuitive so that players can easily start playing the games. The series features a number of religious overtones which were heavily censored in the NES versions outside of Japan.
+
+Contents
+
+1 Games
+
+1.1 Main series
+1.2 Spinoffs
+
+
+2 Other media
+
+2.1 Novels
+2.2 Manga
+2.3 Anime
+
+
+3 Common elements
+
+3.1 Gameplay
+3.2 Monsters
+3.3 Erdrick
+3.4 Torneko
+3.5 Zenithia
+
+
+4 Development
+
+4.1 History
+4.2 Creation and design
+4.3 Music
+
+
+5 Reception
+
+5.1 Sales
+
+
+6 Legacy
+7 Notes
+8 Footnotes
+9 Further reading
+10 External links
+
+
+
+Games
+See also: List of Dragon Quest media
+Main series
+Release timeline1986Dragon Quest1987Dragon Quest II1988Dragon Quest III19891990Dragon Quest IV19911992Dragon Quest V199319941995Dragon Quest VI19961997199819992000Dragon Quest VII2001200220032004Dragon Quest VIII20052006200720082009Dragon Quest IX201020112012Dragon Quest X20132014201520162017Dragon Quest XI2018201920202021TBADragon Quest XII
+The first four Dragon Quest installments were released for the Famicom and Nintendo Entertainment System in Japan and North America, respectively. The first two installments were released in Japan on the Famicom and ported that same year to the MSX; all four games have been remade for newer systems. Dragon Quest was first released in Japan on May 27, 1986, and in North America as Dragon Warrior in August 1989.[1][2] Dragon Quest II Akuryō no Kamigami was released in Japan in 1987 and in North America in 1990 as Dragon Warrior II. Dragon Quest III Soshite Densetsu e... was released in Japan in 1989 and North America as Dragon Warrior III in 1992. Dragon Quest IV was released in Japan in 1990 and in North America in 1992 as Dragon Warrior IV. A 2001 Japanese PlayStation remake of Dragon Warrior IV scheduled for the North American market was never released.[1][3] The Nintendo DS remake of Dragon Quest IV was released in North America, Europe, and Australia under its original translated title; the European release removed the number from the title.[1]
+Two games were released for the Super Famicom: Dragon Quest V in 1992 and Dragon Quest VI in 1995; both have been re-released on newer systems.[1] Dragon Quest V was originally scheduled for release in North America but was canceled amid rumors that Enix had given up on the American market. No official reason was ever given.[1][4] The Nintendo DS remakes were released in North America with Dragon Quest V also being released in Europe and Australia, the latter without the numbering.[5][6] One game was released for the PS1: Dragon Quest VII: Eden no Senshi-tachi in 2000 in Japan and 2001 in North America under the title Dragon Warrior VII.[1] Dragon Quest VIII: Journey of the Cursed King was released for the PlayStation 2 in 2004 in Japan,[1] 2005 in North America, and 2006 in Europe and Australia,[7] again without the number in the title for Europe. Dragon Quest VIII was the first game in the series to be released in North America under the title of Dragon Quest, and the first European release of a main series game.[8][9] Dragon Quest IX, the only game in the series initially released on the Nintendo DS, was originally released in 2009 in Japan, and in 2010 in North America, Europe, and Australia.[10] Dragon Quest X was announced for the Wii in December 2008.[11] In September 2011, Square Enix announced that Dragon Quest X would also be released on the Wii U, with Nintendo 3DS connectivity.[12] It is the first MMORPG in the series, and the only numbered Dragon Quest game not released outside Japan.[13] Dragon Quest XI was released in Japan on July 29, 2017, and worldwide on September 4, 2018.[14]
+In May 2021, Square Enix announced Dragon Quest XII: The Flames of Fate during the series' 35th Anniversary Special live stream.[15] According to Yuji Horii the game will have a darker tone, will feature more meaningful choices, and will overhaul the traditional Dragon Quest turn-based combat.[16]
+
+Spinoffs
+Main articles: Dragon Quest Monsters, Slime (series), and List of Dragon Quest media
+The franchise includes several spin-off games, including the Dragon Quest Monsters RPG. The series has also inspired arcade games such as the Japanese Dragon Quest: Monster Battle Road, where players compete for real-life cards with monster data that the arcade game issues to the players through a slot on its front. The latter is the only spin-off series to have none of its titles released outside Japan.[17][18][19][20][21][22] The Mystery Dungeon and Itadaki Street series use characters and other elements from Dragon Quest games, and the Mystery Dungeon series has gone on to spawn its own franchise.[23]
+In 1993 Chunsoft developed a SNES game that included Torneko (a.k.a. Torneko Taloon), a character that first appeared in Dragon Quest IV.[24] The roguelike game Torneko no Daibōken: Fushigi no Dungeon continues Torneko's story from Dragon Quest IV as he attempts to make his store famous, venturing into mysterious dungeons to retrieve items to stock his store with. The game was successful in Japan.[25] In 2000 the direct sequel Torneko: The Last Hope was released in Japan and the United States. The gameplay is similar to the first game, though Torneko: The Last Hope is considered easier to play.[26] The game sold enough copies in Japan to allow development of the second direct sequel on the PlayStation 2, Fushigi no Dungeon 3 Torneko no Daibouken.[27] The second and third Torneko games have had remakes for the Game Boy Advance (GBA).[28] A later game featured Yangus, a character who first appeared in Dragon Quest VIII; Dragon Quest: Shōnen Yangus to Fushigi no Dungeon follows Yangus on his adventures before he meets up with Hero in the aforementioned game.[29] The success of Torneko no Daibōken spawned the Mystery Dungeon series that has grown to include franchises beyond Dragon Quest, as well as other clones.[30][31]
+When Enix took over the Monopoly-inspired video game series Itadaki Street, the Dragon Quest franchise became an integral part of the game in its second version, Itadaki Street 2: Neon Sain wa Bara Iro ni.[32][33] The first Itadaki Street, released by ASCII, did not contain elements from the Dragon Quest franchise.[34] The fourth game in the series, Dragon Quest & Final Fantasy in Itadaki Street Special, included characters from the Final Fantasy franchise, and later versions would include characters from Mario.[35][36]
+Like the main series, Dragon Quest Monsters was originally released under the Dragon Warrior name in the US.[37] The next game, Dragon Warrior Monsters 2, is the only game to be split into two versions, Cobi's Journey (Ruka's Journey in Japan) and Tara's Adventure (Iru's Adventure in Japan), named after the main player characters.[38] Each version has slight differences, such as the monster that appear in them.[39] Dragon Quest Monsters: Caravan Heart is a prequel to Dragon Warrior VII, following Keifer who is pulled into Torland and must find the six Orbs of Loto in order to return.[40] The release of Dragon Quest Monsters: Joker is the first spin-off title to be released in English using the Dragon Quest name;[41] its sequel Dragon Quest Monsters: Joker 2 was released in North America on September 19, 2011.[42][43] There is also an Android title, Dragon Quest Monsters: Wanted!.[44]
+Dragon Quest has also produced a number of smaller spin-off titles. In two of them players use their special controllers as a sword, swinging it to slash enemies and objects. Kenshin Dragon Quest: Yomigaerishi Densetsu no Ken is a stand-alone game in which the controller is shaped like a sword, and a toy shield contains the game's hardware.[45] Dragon Quest Swords for the Wii uses the motion sensing Wii Remote as a sword.[46][47] Another spin-off title, Slime MoriMori Dragon Quest, uses the game's popular slime monster as the protagonist,[48] and its sequel, Dragon Quest Heroes: Rocket Slime, has been translated into English.[49] There is also a downloadable DSiWare turn-based strategy game, Dragon Quest Wars[50] and other titles have been released in Japan for cellphones.[51][52] Dragon Quest Heroes: The World Tree's Woe and the Blight Below, a PlayStation 3 and 4 game featuring the gameplay of the Dynasty Warriors series by Koei Tecmo, was released in Japan on February 26, 2015, and in North America and Europe in October 2015 as a PlayStation 4 exclusive.[53][54] Dragon Quest Builders for the PS4 was released in 2016. Theatrhythm Dragon Quest is a rhythm game developed for the Nintendo 3DS. Like the Theatrhythm Final Fantasy games before it, the game allows players to play alongside various songs from the Dragon Quest franchise.[55] In September 2019, Dragon Quest Walk, an augmented reality game, was released for Android and iOS mobile phones.[56]
+
+Other media
+Novels
+Beginning in 1988, the media franchise expanded into other media, with a number of anime, manga, and light novel adaptations. Following the success of a Dragon Quest III light novel, Enix began publishing more volumes starting from the first game in sequential order. Enix published titles from every main series game previously released by March 23, 1995, as well as the first Torenko's Mystery Dungeon game.[57] The titles are written from a second-person perspective; the reader determines the next course of action and the stories have multiple endings.[58]
+Other printed titles released in 1989 include: Dragon Quest Monsters Story; Dragon Quest Item Story; the Dragon Quest Perfect Collection series starting with Dragon Quest Perfect Collection 1990; and the first two Dragon Quest novels by Takayashiki Hideo. All of these works have had additional titles published for different games by different authors: Hideo wrote the first four volumes spanning the first three games; Kumi Saori authored ten volumes comprising the next three games; and Hiroyuki Domon wrote three volumes for Dragon Quest VII. Starting with Shinsho Shousetsu Dragon Quest I in 2000, a new series by all three authors began publication. The authors wrote new stories for their respective series, three stories for Hideo, nine for Saori, and three for Domon; with the latter's works featuring illustrations by Daisuke Torii. Several standalone titles and audiobook titles have also been released.[57]
+
+Manga
+Dragon Quest manga began publication in Weekly Shōnen Jump in 1989.[59] Based on the world of Dragon Quest, Riku Sanjo and Koji Inada's Dragon Quest: The Adventure of Dai (ドラゴンクエスト ダイの大冒険, Doragon Kuesuto: Dai no Daibōken, lit. Dragon Quest: The Great Adventure of Dai) was created as a two-chapter short-story entitled Derupa! Iruiru!. Its success led to the three-chapter sequel, Dai Bakuhatsu!!!, which set the framework for a later serialization spanning 37 volumes.[59][60][61]
+Several manga based on the games have been published. The longest-running of these, Dragon Quest Biography: Emblem of Roto (ドラゴンクエスト列伝 ロトの紋章, Dragon Quest Retsuden: Roto no Monshō), Warriors of Eden, and Maboroshi no Daichi, were published in Monthly Shōnen Gangan. Emblem of Roto, by Chiaki Kawamata and Junji Koyanagi, with art by Kamui Fujiwara, consists of twenty-one volumes published between 1991 and 1997. In 2004 Young Gangan ran a mini-series called Emblem of Roto Returns. It takes place between Dragon Quest III and Dragon Quest I.[62] It was adapted into a comic CD in 1994, and an anime movie based on the manga was released in Japan on April 20, 1996.[63] As of 2019, the series has sold 21 million copies, including 400,000 copies sold overseas.[64] Warriors of Eden consists of eleven volumes, with art by Fujiwara. The series is a retelling of Dragon Quest VII with some minor changes.[65] Maboroshi no Daichi consists of ten volumes. The series is a retelling of Dragon Quest VI with some minor changes.[66] Other shorter manga series have been released including several based on other games, some official 4koma strips, and a manga about the making of the original Dragon Quest game.[67][68] Dragon Quest: Souten no Soura (ドラゴンクエスト 蒼天のソウラ, Doragon Kuesuto Sōten no Soura, lit. "Dragon Quest: Blue Sky Soura"), authored by Yuuki Nakashima and supervised by Yūji Horii, is a sidestory of Dragon Quest X. It has been serialized since February 2013, with 13 volumes released through 2019. Hiro Mashima drew the one-shot Dragon Quest XI S Tōzoku-tachi no Banka (ドラゴンクエストXI S 盗賊たちの挽歌), based on Dragon Quest XI, for the October issue of V Jump, which was released on August 21, 2019.[69]
+The Road to Dragon Quest is a manga about the creators of Dragon Quest, published by Enix. The single-volume manga was released in 1990 and produced by Ishimori Productions. It focuses on the creation of the series and features series creator Yujii Hori, programmer Koichi Nakamura, composer Koichi Sugiyama, artist Akira Toriyama, and producer Yukinobu Chida.[70]
+
+Anime
+There are three major television series that were adapted from the games. Dragon Quest: Legend of the Hero Abel (ドラゴンクエスト ～勇者アベル伝説～, Doragon Kuesuto Yūsha Aberu Densetsu) was produced by Studio Comet and aired from December 2, 1989, to April 5, 1991, 43 episodes were broadcast before the series ended. It was supervised by Horii, with a story loosely based on Dragon Quest III. The first 13 episodes of the series were translated into English by Saban Entertainment under the title Dragon Warrior. Due to its early time slot, and a lawsuit filed by Toriyama for not being credited for his work on character designs, it was not renewed.[71] The series was released on DVD in Japan in October 2006, with its nine volumes selling about 90,000 units by February 2007.[72]
+A second anime series, Dragon Quest: The Adventure of Dai, based on the manga of the same name, was produced by Toei Animation. It ran for 46 episodes from October 17, 1991, to September 24, 1992.[73] A second anime adaptation of the same manga began on October 3, 2020.[74]
+On April 20, 1996, a film titled Dragon Quest Saga – The Crest of Roto was released.[75]
+A 3DCG movie based on Dragon Quest V, Dragon Quest: Your Story, was released in Japan in August 2019.[76]
+
+Common elements
+Gameplay
+Main article: Gameplay of Dragon Quest
+  Combat image from Dragon Quest III that depicts the typical battle layout and menu types that is seen in most Dragon Quest games
+In most Dragon Quest games, players control a character or party of characters that can walk into towns and buy weapons, armor, and items to defeat monsters outside of the towns: on the world map or in a dungeon. However, in the original Dragon Quest, there was only one character walking on the map. In most of the games, battles occur through random monster attacks and improving the characters' levels requires players to grind.[77] The series uses cursed items, difficult dungeons where players need to use their resources wisely to complete them, and difficult boss battles.[78] When the party encounters monsters the view switches perspective and players are presented with several options on a menu; these turn-based menu-driven battles have become a staple of the series.[79] Players use the menus to select weapons, magic, and other items used to attack and defeat the monsters, or can attempt to flee the fight; though characters cannot flee during a boss battle. Once the party defeats the monsters by winning the battle, each party member gains experience points in order to reach new levels. When a character gains a new level, the statistics (stats) of the character are upgraded.[80] Winning battles also rewards players with gold which can be used to purchase items. In addition to the experience points and gold awarded for successfully defeating monsters, occasionally, items will be dropped as well that are added to the player's inventory.
+In most Dragon Quest games, players must visit a church (known as a House of Healing in the NES translations) and talk to a priest or nun to save the games' progress;[81] in Dragon Warrior, players had to talk to a king to save their progress,[80] though the first two Dragon Quest titles for Famicom use a password save system. If the party dies in battle the group loses half of its gold and warps to the nearest save location where the hero is revived;[1] players must then pay a priest or nun to revive their party members.
+Dragon Quest features "puff puff" – a Japanese onomatopoeia for a girl rubbing her breasts in someone's face, which can also be used for the general term of a girl jiggling her own breasts – massage girls that the player can hire with text describing their actions in some of the games;[1] in later games gags were used since breasts could not be displayed. The text descriptions were removed from some North American translations.[c][1][82]
+In Dragon Warrior III, Dragon Quest VI: Realms of Revelation, Dragon Warrior VII, and Dragon Quest IX: Sentinels of the Starry Skies, several character classes can be chosen for the party members.[1] Each game has its particular set of classes with typical options, including the Cleric, Fighter, Jester, Thief, Warrior, and Mage.[d] All the aforementioned games also include advanced classes such as the Sage. In addition, Dragon Quest VI and VII include monster classes.[83]
+In Dragon Quest IV: Chapters of the Chosen, a new collectible item known as mini medals, resembling small gold coins with a five-pointed star in the middle, was introduced; they have nothing to do with winning the game, but they can be traded with a certain character for items. Players collect them throughout the game, primarily by opening chests, breaking pots and barrels, and searching in sacks and drawers. Horii introduced them as he wanted to have something players collected that were similar to the crests and orbs in the previous Dragon Quest games, but did not want to repeat the necessity for players having to collect a certain number of them before they could complete the game.[84]
+
+Monsters
+  An example of a slime.
+The Dragon Quest series features several recurring monsters, including Slimes, Drackies, Skeletons, Shadows, Mummies, Bags o' Laughs, and Dragons.[85][86][87] Many monsters in the series were designed by Akira Toriyama.
+Several Dragon Quest games allow the player to recruit monsters to fight alongside them. In Dragon Quest IV, a Healer monster called "Healie" can be recruited for the first chapter. Dragon Quest V and VI monsters can be selected by the player to join the player's party and fight in battles.[1] In Dragon Quest VIII players can defeat and recruit monsters to fight in an arena.[88]
+The Slime, designed by Toriyama for use in Dragon Quest, has become the official mascot of the Dragon Quest series. Series designer Yuji Horii cited the monster as an example of Toriyama's skills, claiming it took "[artistic] power to take something like a pool of slime and use his imagination to make it a great character."[89] A Slime is a small blue blob, shaped like a water droplet, with a face. It has appeared in every Dragon Quest game and it is usually one of the first monsters the players encounter.[e] The Slime's popularity has netted it the Slime spin-off series on handheld consoles.[90][91]
+
+Erdrick
+Erdrick, known as Loto (ロト, Roto) in Japanese and in the North American remakes of the Game Boy Color versions of the first three games,[1] is the title given to a legendary hero in the Dragon Quest series. The first three Dragon Quest games, all connected to the legend of Erdrick, comprise the Erdrick or Loto trilogy. Also known as Arusu, he is known as the hero who freed the Kingdom of Alefgard from darkness.[92][93][94][95] The chronological order of the first three Dragon Quest games is: Dragon Quest III, Dragon Quest, and Dragon Quest II.[95]
+In the first Dragon Quest game, the hero, the player-character, is a descendant of Erdrick[80] who follows in his footsteps to reach the Dragonlord's Castle and confront him. In Dragon Quest II the heroes are also descendants of Erdrick,[93][94] exploring the expanded world of Torland that includes the continent of Alefgard. Erdrick's legend in the Dragon Quest series was completed in Dragon Quest III when the King of Alefgard bestows the "Order of Erdrick", the country's highest honor, upon the hero at the end of the game. Two of the player-character's three highest-level armaments are named "Erdrick's Sword" and "Erdrick's Armor" in Dragon Quest and Dragon Quest II. Playing Dragon Quest III with the name "Erdrick" is impossible in the original release, as the game prompts the player to choose a different name for the hero. The reason for this is that the status of III in the chronological order as a prequel of the first two titles is presented as a plot twist. The Game Boy Color remakes prevent the use of the name "Loto" for the same reason.
+In Dragon Quest XI, the player-character is a warrior chosen by the world tree Yggdrasil to save the world of Erdrea from a being of pure evil known as "Calasmos". After Calasmos is defeated at the end of the game, Yggdrasil bestows him the title of Erdrick.
+
+Torneko
+Torneko (トルネコ, Toruneko), known as Torneko Taloon in North American English localizations, is a recurring character who first appears in Dragon Quest IV. A traveling merchant, Torneko's usual goal is to expand the inventory of his shop by procuring rare items, often by traversing dungeons and fighting monsters on his own or with his family.[96][97]
+The character's popularity with players led to further appearances or easter egg references in subsequent mainline sequels, as well as a starring role in 1993's Torneko no Daibōken: Fushigi no Dungeon, the inaugural entry of the long-running Mystery Dungeon video game series by Spike Chunsoft.[96] The character's other video game appearances include two direct sequels to Torneko no Daibōken: Fushigi no Dungeon, the 2016 video game Dragon Quest Heroes II, and the Itadaki Street series.
+
+Zenithia
+Zenithia, also called Zenith Castle, Zenith, or Tenkū-jō (天空城, "Heaven Castle") in Japanese, is a floating castle that first appears in Dragon Quest IV; it is used as a descriptor for several elements in Dragon Quest IV, V and VI. Its appearance in all three games has led to the games being described as the Zenithia or Tenkū trilogy, despite different geographical layouts in each of the three games' worlds.[98][99] Horii explained that a trilogy was never the intention: "Each Dragon Quest title represents a fresh start and a new story, so it seems too much of a connection between the games in the series. It could be said that the imagination of players has brought the titles together in a certain fashion."[100]
+In Dragon Quest IV Zenithia can be accessed by climbing the tower above the entrance to the world of darkness. In Dragon Quest V Zenithia has fallen into a lake south of Lofty Peak (Elheaven in the original release), until the Golden Orb is returned leaving the castle able to move freely in the sky. In Dragon Quest VI Zenithia is sealed by Demon Lord Dhuran, and a large hole is left in its place in the "Dream World". When the Dream World returns to its natural state in Dragon Quest VI, Zenithia is the only part that remains, floating above the "real" world. In addition to the trilogy, a castle in the Dragon Quest III remakes is also called Zenith, although the layout differs from the castle in the Tenkū series.[101]
+
+Development
+The series' monsters, characters, and box art were designed by Toriyama.[8] The music for the Dragon Quest series was composed by Koichi Sugiyama.[102] In the past, main Dragon Quest games have been developed by Chunsoft, Heartbeat, ArtePiazza, Level-5 and starting with Dragon Quest X, by Square Enix for the first time.[103] Horii's company, Armor Project, is in charge of the script and design of Dragon Quest games that were published by Enix and Square Enix.
+
+History
+  Yuji Horii, the creator of Dragon Quest series
+In 1982 Enix sponsored a video game programming contest in Japan which brought much of the Dragon Quest team together, including creator Yuji Horii.[102] The prize was a trip to the United States and a visit to AppleFest '83 in San Francisco, where Horii discovered the Wizardry video game series.[1] The contest winners Koichi Nakamura and Yukinobu Chida, together with Horii, released the Enix NES game The Portopia Serial Murder Case. Music composer Sugiyama, known for composing jingles and pop songs, was impressed with the group's work and sent a postcard to Enix praising the game.[104] Enix asked him to compose music for some of its games. The group then decided to make a role-playing video game that combined elements from the western RPGs Wizardry and Ultima.[f][105] Horii wanted to introduce the concept of RPGs to the wider Japanese video game audience. He chose the Famicom because, unlike arcade games, players would not have to worry about spending more money if they got a "game over", and could continue playing from a save point.[106] Horii used the full-screen map of Ultima and the battle and statistics-oriented Wizardry screens to create the gameplay of Dragon Quest.[1] Dragon Ball creator and manga artist Akira Toriyama, who knew of Horii through the manga magazine Weekly Shōnen Jump, was commissioned to illustrate the characters and monsters to separate the game from other role-playing games of the time.[105] The primary game designs were conceived by Horii before being handed to Toriyama to re-draw under Horii's supervision.[107] When Horii first created Dragon Quest many people doubted that a fantasy series with swords and dungeons, instead of science fiction elements, would become popular in Japan; however, the series has become very popular there.[9] Since then Horii has been the games' scenario director. Dragon Quest was Sugiyama's second video game he had composed for, Wingman 2 being his first. He says it took him five minutes to compose the original opening theme. His musical motifs from the first game have remained relatively intact.[108]
+The first six Dragon Quest stories are divided into two trilogies. The first three games of the series tell the story of the legendary hero known as Roto (Erdrick or Loto in some versions). Dragon Quest IV-VI are based around a castle in the sky called Zenithia, referred to as the Tenku in Japan, meaning "heaven". Games in the main series from Dragon Quest VII onwards are stand-alone games.[109]
+The early Dragon Quest games were released under the title Dragon Warrior in North America to avoid trademark conflict with the pen-and-paper role-playing game Dragon Quest, which was published by Simulations Publications in the 1980s until the company's 1982 bankruptcy and acquisition by TSR, Inc. TSR continued publishing the line as an alternative to Dungeons & Dragons (D&D) until 1987.[110] On July 23, 2002, Square Enix registered the Dragon Quest trademark in the United States for use with manuals, video cassette tapes, and other video game software.[111][112] On October 8, 2003, Square Enix filed for a more comprehensive Dragon Quest trademark.[113] Dragon Quest VIII: Journey of the Cursed King became the first Dragon Quest game released outside Japan, all previous games having used the Dragon Warrior title.[8]
+Dragon Quest was not as successful outside Japan, as it was eclipsed by another RPG series, Final Fantasy.[110][114] Because of Enix's closure of its North American branch in the mid-1990s, Dragon Quest V and Dragon Quest VI were not officially released in North America. No games were released in Europe prior to the spin-off Dragon Quest Monsters. With the merger of Square and Enix in 2003, Dragon Quest games were released in numerous markets.[9] In May 2008 Square Enix announced localizations of the Nintendo DS remakes of Dragon Quest IV, V, and VI for North America and the PAL region, commonly referred to as the "Zenithia" or "Tenku trilogy".[98][115] With this announcement, all the main Dragon Quest games at the time had been released outside Japan. The ninth installment was released in Japan for Nintendo DS on July 11, 2009. The North American version was released on July 11, 2010, while the European version came out on July 23, 2010. The tenth installment of the main series was released for the Wii.[116] Nintendo has been a major publisher outside Japan for the main Dragon Quest games, publishing the first Dragon Quest game in North America, and published Dragon Quest IX worldwide outside Japan; the NDS version of Dragon Quest VI is published by Nintendo in North America.[6]
+
+Creation and design
+
+
+At the time I first made Dragon Quest, computer and video game RPGs were still very much in the realm of hardcore fans and not very accessible to other players. So I decided to create a system that was easy to understand and emotionally involving, and then placed my story within that framework.
+
+
+Yuji Horii on the design of the first Dragon Quest[105]
+
+
+When designing Dragon Quest, Horii play-tests the games to make certain the controls feel right. This includes going into meticulous details such as how fast a page opens or the way a door opens. According to Horii, "... little things like here and there the controls not feeling right and such can really grate the players' nerves if the tempo isn't right." He believes players should be able to control the game unconsciously, which is not easy to accomplish.[117] Horii tries to design the games in such a way that players never need to read a manual nor play through a tutorial in order to figure out how to play the game,[118] and tries to create good storylines with short dialogues.[119] Ryutaro Ichimura, who has worked on Dragon Quest titles with Horii since Dragon Quest VIII, has implemented Horii's suggestions even when it is not obvious why his ideas will work. "[A] lot of the time when he [Horii] points these things out, we cannot see them at first, but eventually you get it."[117]
+
+  Akira Toriyama, the character designer.
+Dragon Quest games have an overall upbeat feeling.[78] The typical Dragon Quest plot involves the player controlling a party of heroes to defeat an ultimate evil villain, who usually threatens the world in some way. The plot-line often consists of smaller stories that involve encounters with other characters.[1] This linear plot-line is intentional, to help ease the generally high learning curve RPGs have for those unaccustomed to them.[106] The gameplay is designed to allow players to decide when, and whether, to pursue certain storyline paths.[120] To ensure players continue to enjoy playing the game, no storyline path is made without some kind of reward and, to help ease players who may be apprehensive about whether they are on the right path, the distance the character has to travel to get rewarded is reduced at the beginning of the game. While the player never starts the game in a wholly non-linear way,[117][121] they usually allow players to explore an open world in a non-linear manner following an early linear section of the game.[121] Early character levels start players off with more hit points and a substantially increasing growth at later levels, although the effective bonuses of every additional level decreases.[121]
+While Toriyama would later become more widely known with the success of Dragon Ball Z in North America, when Dragon Quest was released he was an unknown outside Japan. While the Dragon Quest hero was drawn in a super deformed manga style, the Dragon Warrior localization had him drawn in the "West's template of a medieval hero".[122] The trend continued through the first four games, although the artwork for weapons and armor began using more of Toriyama's original artwork for Dragon Warrior III and IV. However, while the booklets' artwork was altered, the setting and poses remained virtually identical.[122]
+The games always feature a number of religious overtones; after the first Dragon Warrior game, saving and reviving characters who have died is performed by clergy in churches. Bishops wander around the over-world of Dragon Quest Monsters and can heal wounded characters. The final enemy in some of the Dragon Quest games is called the Demon Lord; for instance in Dragon Quest VII, the Demon Lord (known as Orgodemir in that particular game) is the final boss, and there is a sidequest to battle against God. The first four Dragon Quest titles were subjected to censorship in their North American localizations, largely in keeping with Nintendo of America's content guidelines at the time that placed severe restrictions on religious iconography and mature content. When these games were remade for the Game Boy Color, most censorship was removed.[123] The translated versions of the games have largely followed the originals since Dragon Quest VII.[124]
+For English releases, games usually include a number of British dialects, such as Polari and Cockney.[125]
+
+Music
+  Classically trained composer Koichi Sugiyama has scored the majority of Dragon Quest games since its inception.
+The majority of Dragon Quest soundtracks were written and orchestrated by the classically trained composer Koichi Sugiyama. In the mid 1980s, Sugiyama, who was already a well-known television and anime composer at the time, sent a feedback questionnaire from an Enix game to the company, and, upon seeing Sugiyama's feedback, Fukushima contacted him to confirm that "he was the Sugiyama from television." Upon confirmation, Fukushima asked Sugiyama to compose a score for Dragon Quest.[126] Sugiyama had previously composed a video game score for Wingman 2.[127] Sugiyama stated it took him five minutes to compose the original opening theme, and noted the difficulty in adding a personal touch to the short jingles, but that his past experience with creating music for television commercials helped. According to Sugiyama, the composer has between three and five seconds to catch the audience's attention through music. The theme and other jingles for Dragon Quest have continued to be used throughout the series.[127] Sugiyama was also composing for Dragon Quest XII prior to his death in 2021.[128]
+The first album of music from the series was released in 1986 and was based on music from the first game,[129] followed by a Symphonic Suite album for each game in the main series. The original soundtrack's "eight melodies" approach set the template for most RPG soundtracks released since then, hundreds of which have been organized in a similar manner.[130] The original game's classical score was considered revolutionary for video game music.[131]
+Other compilations of Dragon Quest music have been released, including Dragon Quest Game Music Super Collection Vol. 1.[132] The London Philharmonic performed many of the soundtracks, including a compilation entitled Symphonic Suite Dragon Quest Complete CD-Box.[133] Some of the soundtracks include a second disc with the original game music, as with the Dragon Quest VI soundtrack.[134] In 2003 SME Visual Works released Symphonic Suite Dragon Quest Complete CD-Box, featuring music from the first seven Dragon Quest games.[133]
+
+Reception
+In 2006, readers of the Japanese gaming magazine Famitsu voted on the hundred best video games of all time. Dragon Quest III was third, Dragon Quest VIII fourth, Dragon Quest VII ninth, Dragon Quest V eleventh, Dragon Quest IV fourteenth, Dragon Quest II seventeenth, Dragon Quest thirtieth, and Dragon Quest VI thirty-fourth.[135] In 2009, Horii received a special award at the Computer Entertainment Supplier's Association Developers Conference for his work on the Dragon Quest franchise.[136]
+According to Satoru Iwata, former President of Nintendo, Dragon Quest's widespread appeal is that it is "made so that anyone can play it...and anyone can enjoy it depending on their different levels and interests." According to him, Dragon Quest is designed for anyone to pick up without needing to read the manual in order to understand it. Ryutaro Ichimura, producer at Square Enix, who has played the game since he was a child, says the Dragon Quest storylines allow players to experience a moving sense of achievement where they take the role of a hero saving the world.[120] Horii believes the ability to appeal to larger audiences of casual gamers, while not alienating the more hardcore gamers, is due to being able to lower the initial hurdle without making it too easy. Iwata and Ichimura believe it is because the games are created in a way that allows both groups to pursue their own goals; casual gamers can enjoy the storyline and battles, but for those who want more there is still content for them to pursue.[117]
+Although the series is extremely popular in Japan, the success in Japan was not transferred to North America until the 2005 release of Dragon Quest VIII.[110] Despite the first four games to be released in America generally receiving good reviews,[1] Nintendo had to give away copies of Dragon Warrior. However, those four games have been among the most sought-after titles for the NES, especially Dragon Warrior III and IV.[1][114] It was not until Dragon Warrior VII was released that Dragon Quest became critically acclaimed in North America,[110] although reception was still mixed.[114] The series gained more universal praise with Dragon Quest VIII, and began to sell better outside Japan and Dragon Quest IX sold over 1 million copies outside Japan.[114][137]
+One of the main aspects of the series that critics point out, either positively or negatively, is that the series "never strays from its classic roots."[138] Unlike other modern, complex RPGs, Dragon Quest on the DS retains the simple gameplay from the first game that many critics find refreshing and nostalgic.[138][139] Points of contention are its battle system, comparatively simplistic storylines, general lack of character development, simplistic primitive-looking graphics (in earlier titles), and the overall difficulty of the game. These arguments are countered by noting its strength in episodic storytelling with the various non-player characters the party meets. The stories avoid melodrama and feature relatively more simplistic characters than Final Fantasy's Squall Leonhart or Tidus, a source of contention. There are exceptions, however, such as Dragon Quest V, which has been praised for its unique, emotional storytelling. Battles are also simple and finish quickly. As for difficulty, Yuji Horii is noted as a gambler. The lack of save points and the general difficulty of the battles were included with the intention of adding a sense of tension. Because of this added difficulty, the punishment for the party's death was toned down compared to other games by simply going back to where you had last saved, with half of your gold on hand.[1] When asked about criticism of Dragon Quest games, Horii says he does not mind, it means the critics played the game and he would rather know their concerns than remain ignorant.[118]
+
+Sales
+As of 2021, the Dragon Quest series has sold over 83 million copies worldwide.[140] Dragon Quest III set sales records in 1988 by selling 1.1 million game cartridges in Japan within a day[141] and 3 million in a week,[142] and it grossed ¥20 billion ($143 million) within a month[143] and $230 million by 1991.[144] Dragon Quest IV in 1990 sold out 1.3 million copies within an hour,[145] and Dragon Quest V sold over 1.3 million cartridges within a day.[146] The series had sold 10 million copies by 1990,[147] and 15 million units by 1993,[148] with the Dragon Quest sequels having grossed several hundred million dollars each.[149] As of 2007, all games in the main series, along with three spin-offs, had sold over a million copies each in Japan, with the highest-selling single release (not including remakes) being Dragon Quest VII which sold over four million copies.[150] The remake of Dragon Quest VI sold 910,000 copies in Japan in the first four days after its release, an exceptional sales figure for a remake.[151]
+
+Legacy
+The original Dragon Quest game is often cited as the first console RPG. GameSpot called it the most influential role-playing game of all time, stating that nearly all Japanese RPGs since then have drawn from its gameplay in some shape or form.[152] Next Generation said it was "probably the first ever 'Japanese style' RPG", and listed the series collectively as number 56 on their "Top 100 Games of All Time". They commented, "While never as ambitious as Square's Final Fantasy series, later installments of Dragon Warrior[g] can't be beaten for sheer size (if you only had enough cash to buy you one game that had to last you a month, you bought a Dragon Warrior title)."[153] In response to a survey, Gamasutra cites Quinton Klabon of Dartmouth College as stating Dragon Warrior translated the D&D experience to video games and set the genre standards.[154] Games such as Mother, Breath of Fire and Lufia & the Fortress of Doom were inspired by various Dragon Quest titles.[155] Dragon Quest III's class-changing system would shape other RPGs, especially the Final Fantasy series,[114] and its day-night cycles was also a "major innovation" for console RPGs according to GameSpot.[156] Dragon Quest IV's "Tactics" system, where the player can set the AI routines for NPCs, is seen as a precursor to Final Fantasy XII's "Gambits" system.[157] Dragon Quest V is cited as having monster recruiting and training mechanics that inspired monster-collecting RPGs such as Pokémon, Digimon, and Dokapon.[1][158] Dragon Quest V was unique in that it made pregnancy, and who the player chose as the mother, a crucial aspect of the plot.[159] The real world and dream world setting of Dragon Quest VI is considered an influence on the later Square RPGs Chrono Cross and Final Fantasy X.[1] The Dragon Quest series was recognized by Guinness World Records, with six world records in the Guinness World Records Gamer's Edition. These records include "Best Selling Role Playing Game on the Super Famicom", "Fastest Selling Game in Japan", and "First Video Game Series to Inspire a Ballet".[160]
+Dragon Quest is a cultural phenomenon in Japan.[161] According to Ryutaro Ichimura and Yuji Horii, Dragon Quest has become popular enough that it is used as a common topic for conversation in Japan,[162] and is considered by the Japanese gaming industry as Japan's national game.[118] William Cassidy of GameSpy claims that "the common wisdom is that if you ask someone from Japan to draw 'Slime,' he'll draw the onion-like shape of the weak enemies from the game."[110][163] With the Japanese release of Dragon Quest IX in January 2009, a new eatery inspired by the series called Luida's Bar was opened in Roppongi, a well-known nightlife hotspot in Minato, Tokyo. This was notable due to the usual center of Tokyo's gaming culture being Akihabara rather than Roppongi. The venue provides a meeting location for fans of the series: styled in the fashion of a Medieval public house like its virtual counterpart, its food is directly inspired by both items and monsters found in the games. It was described by a Western journalist as a cross between a Disneyland resort and a maid café[164][165] Dragon Quest also served as the inspiration for a live-action television drama. Yūsha Yoshihiko initially aired in July 2011, with a sequel series being produced and released the following year.[166] For its 2012 April Fool's Hoax, Google announced a "NES version" of its Google Maps service, which uses graphics and music based on the series.[167]
+There is an urban myth that the release of Dragon Quest III caused a law to be passed in Japan banning the sale of Dragon Quest games or video games in general except on certain days such as weekends or national holidays.[8][168][169]  When III was released in Japan, over 300 schoolchildren were arrested for truancy while waiting in stores for the game to be released.[170] The rumor claims there was a measurable dip in productivity when a Dragon Quest game was released and although muggings of Dragon Quest titles became so widespread there were hearings in the Japanese Diet, no law was ever passed. However, the Japanese release of every Dragon Quest title continued to be on a Saturday until the release of Dragon Quest X, which was released on Thursday, August 2, 2012.[8][168][169]
+Dragon Quest's music has been influential on various sectors of the performing arts. It was the first video game series to receive live-action ballet adaptations,[171] and musical concerts and audio CDs were produced based on the Dragon Quest universe.[104] Since 1987, the series' music has been performed annually in concert halls throughout Japan.[8] Early Dragon Quest concerts inspired Nobuo Uematsu's compositions for the Final Fantasy series.[172]
+The series is also represented in the 2018 crossover fighting game Super Smash Bros. Ultimate via downloadable content released in July 2019. Unlike most of the game's roster, the "Hero" is not a single playable character but rather a character slot shared by four separate, albeit functionally identical, main protagonists from the series: Eleven (also known as The Luminary) from Dragon Quest XI, Arusu (also known as Erdrick) from Dragon Quest III, Solo from Dragon Quest IV, and Eight from Dragon Quest VIII. Other elements from the series are also featured, such as Slimes and a stage based on Yggdrasil's Altar from Dragon Quest XI.[173][174]
+
+Notes
+
+
+^ ドラゴンクエスト (Doragon Kuesuto) in Japanese, commonly abbreviated as Dorakue (ドラクエ) in Japan.
+
+^ Due to the inconsistent usage by sources since Square Enix obtained the naming rights to Dragon Quest in North America, Dragon Quest has been used by sources to refer to games released solely under the Dragon Warrior title. For this article, the title Dragon Quest is used in preference to Dragon Warrior except when talking about those specific North American releases.
+
+^ The original NES games and the DS remakes have this removed while the PS1 and PS2 games Dragon Quest IX and GBC remakes include this.
+
+^ Most of the basic classes have undergone name changes in their English translation. The Cleric class underwent several name changes. It was originally known as the Pilgrim in Dragon Warrior III and in Dragon Quest VI and Dragon Quest IX it changed to Priest; the Fighter class was changed in Dragon Quest VI and Dragon Quest IX to Martial Artist; the Jester class was originally known as Goof-off in Dragon Warrior III and was changed to Gadabout in Dragon Quest VI; the Warrior class was originally known as Soldier in Dragon Warrior III, and the translation for the Mage has alternated between Mage and Wizard, depending on the Dragon Quest title.
+
+^ In every game except Dragon Quest VI the blue slime is encountered in the first overworld area with monsters—in Dragon Quest VII the first overland area has no monster encounters—the players explore.
+
+^ While Wizardry and Ultima are under the broad category of role-playing video games, they are personal computer games, not video game console games.
+
+^ This list was published in 1996, so "later installments" refers to Dragon Quest IV, V, and VI.
+
+
+Footnotes
+Notes
+
+Chunsoft. Dragon Warrior (Nintendo Entertainment System). Nintendo.
+Chunsoft. Dragon Warrior II (Nintendo Entertainment System). Enix.
+Chunsoft. Dragon Warrior III (Nintendo Entertainment System). Enix.
+ArtePiazza. Dragon Quest IV: Chapters of the Chosen (Nintendo DS). Square Enix.
+ArtePiazza. Dragon Quest V: Hand of the Heavenly Bride (Nintendo DS). Square Enix.
+ArtePiazza. Dragon Quest VI: Realms of Revelation (Nintendo DS). Nintendo.
+Heartbeat/ArtePiazza. Dragon Warrior VII (PlayStation). Enix.
+Level-5. Dragon Quest VIII: Journey of the Cursed King (PlayStation 2). Square Enix.
+Level-5/Square Enix. Dragon Quest IX: Sentinels of the Starry Skies (Nintendo DS). Nintendo.
+
+References
+
+
+^ a b c d e f g h i j k l m n o p q r s t u Kalata, Kurt. "The History of Dragon Quest". Gamasutra. Archived from the original on October 26, 2019. Retrieved September 29, 2009.
+
+^ "Dragon Quest". GamePro. Archived from the original on December 2, 2011. Retrieved December 4, 2011.Knight, Kyle. "Dragon Warrior". allgame. Archived from the original on January 2, 2010. Retrieved December 4, 2011.
+
+^ "Dragon Quest IV Headed Stateside". IGN. August 22, 2001. Archived from the original on July 13, 2011. Retrieved January 12, 2009.
+
+^ Bullock, Dwaine. "E3 2004 SquareEnix Interview". The Dragon Quest and Dragon Warrior Shrine. Archived from the original on June 13, 2012. Retrieved February 22, 2011.
+
+^ "Dragon Quest V: Hand of the Heavenly Bride". GameFAQs. Retrieved March 1, 2011.
+
+^ a b "Dragon Quest VI: Realms of Revelation". GameFAQs. Retrieved March 1, 2011.
+
+^ "Dragon Quest VIII: Journey of the Cursed King". GameFAQs. Retrieved October 2, 2009.
+
+^ a b c d e f Kennedy, Sam (December 2, 2005). "Dragon Quest vs. America". 1up. Archived from the original on July 28, 2012. Retrieved 2007-09-10.
+
+^ a b c Garratt, Patrick (January 16, 2006). "Mr Dragon Quest: The Cursed King". Eurogamer. Archived from the original on July 26, 2009. Retrieved February 12, 2011.
+
+^ "Dragon Quest IX: Sentinels of the Starry Skies". GameFAQs. Retrieved February 12, 2011.
+
+^ "Square Enix announces Dragon Quest X: Awakening of the Five Tribes for Wii". EDGE Online. Archived from the original on August 15, 2011. Retrieved September 5, 2011.
+
+^ "Square Enix to launch Dragon Quest X: Awakening of the Five Tribes for Wii U". EDGE Online. Archived from the original on May 27, 2012. Retrieved September 5, 2011.
+
+^ Whitehead, Thomas (November 26, 2015). "Dragon Quest X Compilation Of All Three Versions Heading To Wii U In Japan". Nintendo Life. Archived from the original on May 8, 2016. Retrieved April 15, 2016.
+
+^ Osborn, Alex. "Dragon Quest XI Coming to the West". IGN. Archived from the original on July 28, 2017. Retrieved July 28, 2017.
+
+^ Reilly, Luke. "Dragon Quest XII: The Flames of Fate Officially Announced". IGN. Retrieved May 27, 2021.
+
+^ "Dragon Quest XII: The Flames of Fate announced". Gematsu. May 29, 2021.
+
+^ Klepek, Patrick (December 12, 2006). "Dragon Quest IX Announced for Nintendo DS?!". 1up. Archived from the original on October 18, 2012. Retrieved September 16, 2007.
+
+^ "Dragon Quest Monsters: Battle Road Victory". GameFAQs. Retrieved November 19, 2010.
+
+^ "Dragon Quest: Monster Battle Road". GameFAQs. Retrieved November 19, 2010.
+
+^ "Dragon Quest: Monster Battle Road II". GameFAQs. Retrieved November 19, 2010.
+
+^ "Dragon Quest: Monster Battle Road Victory". GameFAQs. Retrieved November 19, 2010.
+
+^ "Dragon Quest Monsters: Battle Road Victory – Senyou Color Code Scanner". GameFAQs. Retrieved November 19, 2010.
+
+^ Provo, Frank (September 20, 2006). "Pokemon Dungeon Blue Review". GameSpot. Archived from the original on July 24, 2010. Retrieved March 1, 2011.
+
+^ Williamson, Matthew (May 6, 2006). "Fushigi no Dungeon 2". GameSetWatch. Archived from the original on September 12, 2007. Retrieved September 16, 2007.
+
+^ "Japan Votes on All Time Top 100". Edge. March 3, 2006. Archived from the original on July 30, 2009. Retrieved December 13, 2008.
+
+^ Gertsmann, Jeff (December 1, 2000). "Torneko: The Last Hope Review". GameSpot. Archived from the original on August 31, 2011. Retrieved February 12, 2011.
+
+^ Chunsoft. 不思議のダンジョン3 トルネコの大冒険 (Playstation 2) (in Japanese). Enix.
+
+^ Chunsoft. Dragon Quest Characters: Torneko no Daibouken 2 Advance (Game Boy Advance) (in Japanese). Enix.Chunsoft. Dragon Quest Characters: Torneko no Daibouken 3 Advance (Game Boy Advance) (in Japanese). Square Enix.
+
+^ Surrette, Tim (January 27, 2006). "Dragon Quest VIII spin-off dated for Japan". GameSpot. Archived from the original on June 28, 2011. Retrieved March 1, 2011.
+
+^ DeVries, Jack (March 4, 2008). "Mystery Dungeon: Shiren the Wanderer Review". IGN. Archived from the original on November 27, 2010. Retrieved November 19, 2010.
+
+^ Parish, Jeremy (October 28, 2010). "Z.H.P.: Unlosing Ranger vs. Darkdeath Evilman Review". 1up. Archived from the original on July 23, 2012. Retrieved November 19, 2010.
+
+^ Gantayat, Anoop (May 31, 2006). "Final Fantasy vs. Dragon Quest". IGN. Archived from the original on January 31, 2011. Retrieved November 18, 2010.
+
+^ Tomcat System. いただきストリート２ ネオンサインはバラ色に (in Japanese). Enix.
+
+^ Tomcat System. Itadaki Street: Watashi no Omise ni Yottette (in Japanese). Enix.
+
+^ Paon. ドラゴンクエスト＆ファイナルファンタジー in いただきストリート Special (in Japanese). Square Enix.
+
+^ Armor Project & Think Garage. いただきストリートDS (in Japanese). Square Enix.
+
+^ Jeremy Parish (August 21, 2013). "The New Dark Age of Dragon Quest". US Gamer.net. Archived from the original on March 4, 2016. Retrieved March 18, 2016.
+
+^ Torres, Ricardo (June 8, 2001). "First Impressions". GameSpot. Archived from the original on January 2, 2013. Retrieved October 14, 2009.
+
+^ Henninqer, Michael. "Enix to Port Dragon Quest Monsters Collection to PSone". RPGamer. Archived from the original on October 15, 2008. Retrieved October 15, 2009.
+
+^ "Dragon Quest Monsters: Caravan Heart". Dragon Quest and Dragon Warrior Shrine. Archived from the original on July 22, 2011. Retrieved March 1, 2011.
+
+^ "DQ Monsters: Joker Ships". GameSpy. November 6, 2007. Archived from the original on July 11, 2011. Retrieved February 12, 2011.
+
+^ "Dragon Quest Monsters: Joker 2". GameFAQs. Retrieved March 1, 2011.
+
+^ Magrino, Tom (June 11, 2011). "Dragon Quest Monsters: Joker 2 slips to Sept. 19". Gamespot. Archived from the original on November 13, 2013. Retrieved September 5, 2011.
+
+^ "ドラゴンクエスト モンスターズ Wanted!" [Dragon Quest Monsters: Wanted!] (in Japanese). Square-Enix. December 1, 2011. Archived from the original on November 20, 2012. Retrieved December 4, 2011.
+
+^ Willsey, Anthony (May 22, 2006). "Dragon Quest Swords preview". IGN. Archived from the original on July 13, 2011. Retrieved September 16, 2007.
+
+^ "Square Enix Reveals Next Dragon Quest Title on the Nintendo Wii". Square Enix. May 8, 2006. Archived from the original on May 10, 2018. Retrieved September 17, 2006.
+
+^ Level-5. Dragon Quest Swords: The Masked Queen and the Tower of Mirrors (Wii) (in Japanese). Square Enix.
+
+^ "Dragon Quest castle erected". Japanese News Review. July 15, 2007. Archived from the original on October 14, 2007. Retrieved February 12, 2011.
+
+^ "Dragon Quest Heroes: Rocket Slime". GameFAQs. Retrieved November 19, 2010.
+
+^ "Dragon Quest Wars". GameFAQs. Retrieved November 19, 2010.
+
+^ "Dragon Quest Battle Race". GameFAQs. Retrieved November 19, 2010.
+
+^ "Dragon Quest Casino". GameFAQs. Retrieved November 19, 2010.
+
+^ Romano, Sal (September 2014). "Dragon Quest Heroes announced for PS4, PS3". Gematsu. Archived from the original on September 2, 2014. Retrieved October 30, 2014.
+
+^ "Dragon Quest Heroes Comes Out On February 26 In Japan". Siliconera. October 28, 2014. Archived from the original on October 30, 2014. Retrieved October 30, 2014.
+
+^ "Theatrhythm Dragon Quest Announced for 3DS - News - Anime News Network". Archived from the original on April 3, 2015. Retrieved May 16, 2015.
+
+^ "Dragon Quest Walk launches September 12 in Japan". Gematsu. September 4, 2019. Retrieved May 21, 2020.
+
+^ a b ゲーム関連書籍 一覧 (in Japanese). Square Enix. Archived from the original on March 6, 2005. Retrieved October 24, 2012.
+
+^ ドラゴンクエストIII 下巻 [Game Book Dragon Quest III]. エニックス出版局 (in Japanese). Vol. First. Japan: Enix. 1988. ISBN 4-900527-04-1.
+
+^ a b  週刊少年ジャンプ [Weekly Shōnen Jump] (in Japanese). Vol. 45. Japan: Shueisha. 1989. p. 72.
+
+^ Sanjo, Riku; Inada, Koji (December 1995).  ドラゴンクエスト ダイの大冒険 [Dragon Quest: Dai's Adventure]. Jump Comics Perfect Book (in Japanese). Vol. 1. Japan: Shueisha. pp. 72, 74. ISBN 978-4-08-858881-0.
+
+^ Sanjo, Riku; Inada, Koji (June 1997).  ドラゴンクエスト ダイの大冒険 [Dragon Quest: Dai's Adventure]. Jump Comics Perfect Book (in Japanese). Vol. 37. Japan: Shueisha. pp. 72, 74. ISBN 978-4-08-872207-8.
+
+^ Kalata, Kurt (January 1, 2020). "The History of Dragon Quest". Gamasutra. Retrieved April 18, 2020.
+
+^ "映画 アニメ ドラゴンクエスト列伝 ロトの紋章 - allcinema" [Movie anime Dragon Quest Retsuden: Roto no Monsho - allcinema] (in Japanese). Japan: allcinema. Retrieved November 14, 2009.
+
+^ "Businesses". Square Enix. Archived from the original on February 2, 2019. Retrieved June 3, 2020.
+
+^ "Warriors of Eden". The Dragon Quest and Dragon Warrior Shrine. Archived from the original on March 24, 2010. Retrieved December 4, 2010.
+
+^ "Maboroshi no Daichi". The Dragon Quest and Dragon Warrior Shrine. Archived from the original on March 17, 2010. Retrieved December 4, 2010.
+
+^ "4 Koma Manga Theater". The Dragon Quest and Dragon Warrior Shrine. Archived from the original on July 22, 2011. Retrieved December 4, 2010.
+
+^ "Miscellaneous Manga". The Dragon Quest and Dragon Warrior Shrine. Archived from the original on August 22, 2010. Retrieved December 4, 2010.
+
+^ "Hiro Mashima's Dragon Quest XI 1-Shot Manga Debuts in August". Anime News Network. July 8, 2019. Retrieved February 6, 2022.
+
+^ Takizawa, Hiroyuki (1990).  ドラゴンクエストへの道 [The Road to Dragon Quest] (in Japanese). Ishimori Productions/Enix. ISBN 978-4-900527-26-3.
+
+^ "Abel Yuusha". The Dragon Quest and Dragon Warrior Shrine. Archived from the original on February 11, 2010. Retrieved December 4, 2010.
+
+^ "『ドラゴンクエスト～勇者アベル伝説～』のDVDが単巻発売決定！". Famitsu. February 22, 2007. Archived from the original on January 30, 2019. Retrieved February 6, 2019.
+
+^ ドラゴンクエスト・ダイの大冒険 [Dragon Quest: Dai's Adventure] (in Japanese). Toei Animation. Archived from the original on June 5, 2011. Retrieved December 4, 2010.
+
+^ "XIIX Perform New Ending Theme for Dragon Quest: Adventure of Dai Anime". Anime News Network. March 19, 2021. Retrieved June 27, 2021.
+
+^ "ドラゴンクエスト列伝・ロトの紋章 [VHS]" [Dragon Quest Saga: Roto's Emblem [VHS]] (in Japanese). Amazon. Retrieved November 9, 2009.
+
+^ Wong, Alistair (April 3, 2019). "Dragon Quest: Your Story, Based On Dragon Quest V, Gets First Trailer And August 2 Release Date". Siliconera. Archived from the original on April 6, 2019. Retrieved May 6, 2019.
+
+^ "Dragon Quest VI Review: Fifteen years later, Enix's classic RPG finally finds its way out of Japan". IGN. February 18, 2011. Archived from the original on March 18, 2011. Retrieved March 17, 2011.
+
+^ a b Harris, John (July 2, 2009). "Game Design Essentials: 20 RPGs". Part Two: Japanese Games. Gamasutra. 11. Dragon Quest. Archived from the original on February 19, 2011. Retrieved March 28, 2011.
+
+^ Sato, Yoshi (April 25, 2007). "Dragon Quest IX Battle System". 1up. Archived from the original on June 4, 2011. Retrieved February 12, 2011. The latest issue of Weekly Shonen Jump reveals that the combat system of Dragon Quest IX for the DS will retain the traditional turn-based system ..
+
+^ a b c "Dragon Warrior". Nintendo Power. Tokuma Shoten. 7: 39–50. July–August 1989.
+
+^ Fahey, Mark (April 5, 2010). "Losing Our Religion". Kotaku. Archived from the original on November 6, 2010. Retrieved March 2, 2011.
+
+^ Kauz, Andrew (August 21, 2010). "The rubbing of breasts on faces in Dragon Quest IX". Destructoid. Archived from the original on September 25, 2011. Retrieved April 17, 2011.
+
+^ "Dragon Warrior VII: Character Classes". IGN. October 4, 2001. Archived from the original on July 13, 2011. Retrieved July 19, 2008.
+
+^  週刊少年ジャンプ [Weekly Shōnen Jump] (in Japanese). Vol. 45. Japan: Shueisha. 1989. p. 8.
+
+^ Dragon Warrior I and II Official Strategy Guide. Prima Publishing. 2000. pp. 46–50 and 98–105. ISBN 0-7615-3157-2.
+
+^ Dragon Warrior III Official Strategy Guide. Prima Publishing. 2001. pp. 121–130. ISBN 0-7615-3638-8.
+
+^ Dragon Warrior VII Official Strategy Guide. Prima Publishing. 2001. pp. 147–155. ISBN 0-7615-3640-X.
+
+^ Gantayat, Anoop (October 8, 2004). "More on Dragon Quest VIII Monster Taming: Square Enix reveals first info on the Monster Battle Road". IGN. Archived from the original on June 1, 2012. Retrieved August 14, 2011.
+
+^ "Dragon Quest Interview". IGN. May 25, 2007. Archived from the original on July 13, 2011. Retrieved February 12, 2011.
+
+^ Tose. Dragon Quest Heroes: Rocket Slime (in Japanese). Square Enix.
+
+^ Tose. Slime MoriMori Dragon Quest: Shōgeki no Shippo Dan (in Japanese). Square Enix.
+
+^ Dragon Warrior Instruction Manual. Nintendo. 1989.
+
+^ a b Fukushima, Yasuhiro. Unveiled Secrets of Dragon Warrior II. Enix.
+
+^ a b "Dragon Quest". Nintendo Power. Tokuma Shoten. 16: 67. September–October 1990.
+
+^ a b Shoemaker, Brad. "Dragon Warrior III Review". GameSpot. Archived from the original on August 23, 2010. Retrieved February 12, 2011.
+
+^ a b "Torneko's Great Introduction". Engadget. November 5, 2007. Retrieved August 12, 2021.
+
+^ "Enix plans Torneko 3 for the PlayStation 2". GameSpot. May 17, 2006. Retrieved August 12, 2021.
+
+^ a b Magrino, Tom (May 21, 2008). "Dragon Quest trilogy descends on DS". GameSpot. Archived from the original on July 26, 2008. Retrieved February 20, 2011.
+
+^ Calvin. "Dragon Quest IV Symphonic Suite". Square Enix Music Online. Archived from the original on July 8, 2010. Retrieved February 20, 2011.
+
+^ "Dragon Quest". Nintendo Power. Future US. 229: 50–57. July 2008.
+
+^ Dragon Warrior III Official Strategy Guide. Prima Publishing. 2001. pp. 87–89. ISBN 0-7615-3638-8.
+
+^ a b "The Designers Of Dragon Quest". IGN. December 2, 2002. Archived from the original on July 13, 2011. Retrieved February 12, 2011.
+
+^ Boulette, Bryan (2006). "Square Enix: Dinosaur or Leader". RPGamer. Archived from the original on April 30, 2008. Retrieved September 24, 2007.
+
+^ a b Lewis, Ed (January 27, 2004). "The Dragon Quest Symphony". IGN. Archived from the original on July 13, 2011. Retrieved May 29, 2005.
+
+^ a b c "Yuji Horii Interview". Nintendo Power. Vol. 221. Future US. November 2007. pp. 78–80.
+
+^ a b "Dragon Quest: Sentinels of the Starry Skies". Iwata Asks. Square Enix. Iwata Asks Dragon Quest IX Video 1 The History of Dragon Quest. Retrieved December 5, 2010.
+
+^ Maragos, Nich (May 19, 2005). "Previews: Dragon Quest VIII". 1up. Archived from the original on July 17, 2012. Retrieved April 21, 2007.
+
+^ Gifford, Kevin (February 24, 2010). "Dragon Quest Composer Reflects on 24 Years of Games: Kouichi Sugiyama on Japan's most recognized game music". 1up. Archived from the original on July 14, 2012. Retrieved April 18, 2011.
+
+^ Weiss, Matt (2002). "Dragon Warrior VII". GameCritics. Archived from the original on February 20, 2009. Retrieved September 23, 2007.
+
+^ a b c d e "The GameSpy Hall of Fame: Dragon Warrior". GameSpy. Archived from the original on June 3, 2011. Retrieved May 29, 2005.
+
+^ "Dragon Quest". United States Patent and Trademark Office. Archived from the original on July 8, 2019. Retrieved March 1, 2011.
+
+^ "Dragon Quest". United States Patent and Trademark Office. Archived from the original on July 8, 2019. Retrieved March 1, 2011.
+
+^ "Dragon Quest". United States Patent and Trademark Office. Archived from the original on July 8, 2019. Retrieved March 1, 2011.
+
+^ a b c d e Parish, Jeremy. "Dragon Quest: Ye Complete Dragonography". 1-up. Archived from the original on October 18, 2012. Retrieved February 21, 2011.
+
+^ "Dragon Quest". Square Enix. Archived from the original on October 28, 2009. Retrieved October 2, 2009.
+
+^ Takenaka, Kiyoshi (December 10, 2008). "Square Enix to launch Dragon Quest IX for Y5,980". Reuters. Archived from the original on September 24, 2015. Retrieved December 9, 2008.
+
+^ a b c d "Dragon Quest: Sentinels of the Starry Skies". Iwata Asks Dragon Quest IX Video 5 Dragon Quest and Mario similarities. Retrieved December 7, 2010.
+
+^ a b c "【CEDEC 2009】『ドラクエ』は藤子さんになれたらいい――堀井氏が基調講演" [[CEDEC 2009] Dragon QuestFuji's Good Time——Horii Keynote] (in Japanese). Famitsu. September 1, 2009. Archived from the original on July 9, 2011. Retrieved February 14, 2011.
+
+^ "Behind the Games: Dragon Quest's Yuji Horii (DS)". GameSpot. Archived from the original on February 19, 2011. Retrieved February 16, 2011.
+
+^ a b "Dragon Quest: Sential of the Starry Skies". Iwata Asks Dragon Quest IX Video 2 The Appeal of Dragon Quest. Archived from the original on August 15, 2011. Retrieved December 5, 2010.
+
+^ a b c Harris, John. "13. Dragon Quest III, a.k.a. Dragon Warrior III". Game Design Essentials: 20 Open World Games. Gamasutra. Archived from the original on February 19, 2011. Retrieved February 21, 2011.
+
+^ a b Oxford, Nadia (May 25, 2011). "The Art of Dragon Quest". GamePro. Archived from the original on December 2, 2011. Retrieved August 3, 2011.
+
+^ Ahmed, Shahed (October 20, 2000). "Enix Comments on DQ VII North American Release". GameSpot. Archived from the original on January 3, 2005. Retrieved February 12, 2011.
+
+^ Sumire Kanzaki; Sensei Phoenix; Citan Uzuki. "Enix Interview With John Laurence". RPGfan. Archived from the original on October 11, 2007. Retrieved February 12, 2011.
+
+^ Nielsen, Holly (July 11, 2019). "Dragon Quest Builders 2 review – a crafting game with solid foundations". The Guardian. Archived from the original on December 7, 2019. Retrieved September 18, 2019.
+
+^ Kohler, Chris (2004). "4 – Quests and Fantasies: The Japanese RPG". Power-Up: How Japanese Video Games Gave the World an Extra Life. Indianapolis, IN: BradyGames. pp. 84–89. ISBN 978-0-7440-0424-3.
+
+^ a b Gifford, Kevin (February 24, 2010). "Dragon Quest Composer Reflects on 24 Years of Games: Kouichi Sugiyama on Japan's most recognized game music". 1UP.com. Archived from the original on July 14, 2012. Retrieved April 18, 2011.
+
+^ Bailey, Kat. "Koichi Sugiyama, the Pioneering Dragon Quest Composer Known For His Controversial Views, Has Died". IGN. Retrieved October 9, 2021.
+
+^ Gann, Patrick. "Dragon Quest Suite". RPGfan. Archived from the original on October 11, 2007. Retrieved September 15, 2007.
+
+^ Patrick Gann. "The "Eight Melodies" Template: How Sugiyama Shaped RPG Soundtracks". RPGFan. Archived from the original on October 16, 2011. Retrieved September 4, 2011.
+
+^ Gifford, Kevin. "The Essential 50 Part 20 – Dragon Warrior". 1UP.com. Archived from the original on January 2, 2013. Retrieved May 15, 2011.
+
+^ Thomas, Damien. "Dragon Quest Game Music Super Collection Vol. 1". RPGfan. Archived from the original on August 21, 2007. Retrieved September 15, 2007.
+
+^ a b Thomas, Damien. "Symphonic Suite Dragon Quest Complete CD-Box". RPGfan. Archived from the original on September 21, 2007. Retrieved September 15, 2007.
+
+^ Gann, Patrick. "Dragon Quest VI ~The Dream World~ Symphonic Suite". RPGfan. Archived from the original on October 11, 2007. Retrieved September 15, 2007.
+
+^ Campbell, Collin. "Japan Votes on All Time Top 100". Edge. Archived from the original on September 30, 2009. Retrieved October 2, 2009.
+
+^ Graft, Kris (September 4, 2009). "CEDEC 09: Dragon Quest Creator Yuji Hori Headlines Awards". Gamasutra. Archived from the original on February 20, 2011. Retrieved February 14, 2011.
+
+^ Gantayat, Anoop (December 11, 2006). "Dragon Quest 9 set for DS". IGN. Archived from the original on October 12, 2008. Retrieved February 12, 2011.
+
+^ a b Nutt, Christian (November 22, 2005). "Dragon Quest VIII: Journey of the Cursed King". GameSpy. Archived from the original on November 23, 2012. Retrieved February 12, 2011.
+
+^ Kohler, Chris (September 20, 2007). "Hands-on with Dragon Quest IV Still Totally Retro on DS". Wired. Archived from the original on July 26, 2009. Retrieved February 12, 2011.
+
+^ ""SQUARE ENIX ANNOUNCES LONDON MOBILE STUDIO" - Square Enix North America Press Hub".
+
+^ "Asiaweek". Asiaweek. Asiaweek Limited. 14 (1–26): 35. 1988. By noon that day, they and customers across Tokyo had bought 1.1 million cassettes of the hottest computer game in memory: Dragon Quest III.
+
+^ "Console Yourself". New Computer Express. No. 43 (2 September 1989). August 31, 1989. p. 8.
+
+^ Maeda, Kazuo; Hogaki, M.; Nakano, Hitoo (1990). Computers and Perinatal Medicine: Proceedings of the 2nd World Symposium "Computers in the Care of the Mother, Fetus, and Newborn," Kyoto, 23-26 October 1989. Excerpta Medica. p. 37. ISBN 978-0-444-81327-5. In the last year, a software of family computer game, named as DRAGON QUEST III, achieved ¥20 billion gross sales, it means $143 million, within a month after its appearance on the market.
+
+^ Besher, Alexander (1991). The Pacific Rim Almanac. Harper Perennial. p. 36. ISBN 978-0-06-271524-1. That's literally thousands of buyers — 3,000 lined up in front of one store; 1,500 at another to buy Dragon Quest III. The game's maker, Tokyo-based Enix , sold an estimated 5 million copies for a total of $230 million.
+
+^ Sheff, David (1994) [1993]. "Inside the Mother Brain" (PDF). Game Over: How Nintendo Conquered the World. Vintage Books. p. 81. ISBN 978-0-307-80074-9. The degree of anticipation for the games was unprecedented. On its first day in stores, 1.3 million copies of “Dragon Quest 4” sold out in an hour, despite a price tag of 11,050 ($75) yen, higher than for any other Nintendo game.
+
+^ Oki, Masaki; Haynes, Rik (January 20, 1993). "Big in Japan". Nintendo Game Zone. No. 4 (February 1993). Dennis Publishing. p. 7. Dragon Quest V, the cart that sold over 1.3 million copies on the first day of release
+
+^ Moffat, Susan (November 5, 1990). "Can Nintendo Keep Winning?". Fortune. Archived from the original on February 12, 2019. Retrieved February 20, 2021.
+
+^ Japan Economic Almanac. Japan Economic Journal. 1994. p. 90. ISBN 978-4-532-67504-2. As for video-game software, accumulated sales of Capcom Co.'s Street Fighter II series reached 10 million units in 1993, compared with 15 million units of Enix Inc.'s Dragon Quest series and 100 million units of Nintendo's Super Mario series.
+
+^ Sheff, David (1994) [1993]. "Inside the Mother Brain" (PDF). Game Over: How Nintendo Conquered the World. Vintage Books. p. 81. ISBN 978-0-307-80074-9. The “Dragon Quest” sequels grossed several hundred million dollars apiece.
+
+^ "Japanese Platinum Game Chart". Magic Box. Archived from the original on December 13, 2007. Retrieved March 20, 2018.
+
+^ "DS版ドラクエVI、初週91万本販売 IV、Vを上回る" [Dragon Quest VI (DS) sells 0.91 million copies within the first week beating IV and V] (in Japanese). ITmedia. Archived from the original on February 4, 2010. Retrieved July 21, 2010.
+
+^ "GameSpot's 15 most influential". GameSpot. 2000. Archived from the original on June 25, 2001. Retrieved February 12, 2011.
+
+^ "Top 100 Games of All Time". Next Generation. No. 21. Imagine Media. September 1996. p. 51.
+
+^ "The Gamasutra Quantum Leap Awards: Role-Playing Games". Honorable Mention: Dragon Warrior. Gamasutra. October 6, 2006. Archived from the original on March 13, 2011. Retrieved March 28, 2011.
+
+^ "Clone Warriors: RPGs Inspired by Dragon Quest". The 25th Anniversary of Dragon Quest. 1up. Archived from the original on October 27, 2011. Retrieved September 1, 2011.
+
+^ Vestal, Andrew (November 2, 1998). "The History of Console RPGs". GameSpot. Archived from the original on June 8, 2009. Retrieved September 10, 2009.
+
+^ Reeves, Ben (February 14, 2011). "A Warrior's Quest: A Retrospective of Square-Enix's Classic RPG Series". Game Informer. Archived from the original on August 29, 2011. Retrieved December 28, 2011.
+
+^ "Monster Collecting". Gaming's most important evolutions. Gamesradar. October 8, 2010. Archived from the original on November 7, 2013. Retrieved March 1, 2011.
+
+^ Glasser, A. J. (February 9, 2009). "Knocked Up: A Look At Pregnancy In Video Games". Kotaku. Archived from the original on February 11, 2009. Retrieved March 1, 2011.
+
+^ "Weird and Wonderful Records". Guinness Book of World Records. 2008. Archived from the original on March 29, 2008. Retrieved September 17, 2008.
+
+^ Kishida, Maya. "エンターテインメント – Vol.2 堀井 雄二 インタビュー" [Entertainment Vol. 2 – Interview of Yuji Horii]. Japan Media Arts Plaza. Archived from the original on June 14, 2010. Retrieved October 15, 2011.
+
+^ "Dragon Quest: Sential of the Starry Skies". Iwata Asks Dragon Quest IX Video 3 How to Enjoy Dragon Quest. Archived from the original on August 15, 2011. Retrieved December 5, 2010.
+
+^ Cassidy, William. "The GameSpy Hall of Fame: Dragon Warrior". GameSpy. Archived from the original on July 11, 2011. Retrieved October 9, 2009.
+
+^ "六本木の「ルイーダの酒場」に、ルイーダさんが本当にいるか潜入してみた" 六本木の「ルイーダの酒場」に、ルイーダさんが本当にいるか潜入してみた. ITMedia. January 22, 2010. Archived from the original on October 17, 2015. Retrieved March 27, 2016.
+
+^ Kohler, Chris (April 27, 2010). "Eating Slime Buns At Tokyo's Dragon Quest Bar". Wired. Archived from the original on March 25, 2016. Retrieved March 27, 2016.
+
+^ "あの人気ドラマが帰ってきた！「勇者ヨシヒコと悪霊の鍵」今夜放送スタート" あの人気ドラマが帰ってきた！「勇者ヨシヒコと悪霊の鍵」今夜放送スタート. Inside Games. October 12, 2012. Archived from the original on April 11, 2016. Retrieved March 27, 2016.
+
+^ Robertson, Adi (March 31, 2012). "Google Maps coming soon to the NES". The Verge. Archived from the original on April 1, 2012. Retrieved March 31, 2012.
+
+^ a b Kat Bailey, Justin Haywald, Ray Barnholt and Tim Rogers (May 25, 2011). "Dragon Quest 25th Anniversary Edition". GamePro. Archived from the original (mp3) on November 2, 2011.
+
+^ a b Gilbert, Henry (July 11, 2010). "Everything you need to know about Dragon Quest – There is no Dragon Quest law". GamesRadar. Archived from the original on January 24, 2013. Retrieved July 24, 2011.
+
+^ Quartermann (June 1989). "Gaming Gossip". Electronic Gaming Monthly. Lombard, IL: Sendai Publications (2): 26. ISSN 1058-918X. OCLC 23857173.
+
+^ Glenday, Craig, ed. (March 11, 2008). "Record-Breaking Games: Dragon Quest". Guinness World Records Gamer's Edition 2008. Guinness World Records. p. 161. ISBN 978-1-904994-21-3.
+
+^ Kohler, Chris (July 21, 2009). "An Evening With Uematsu, Final Fantasy's Music Man". Wired. Archived from the original on February 17, 2014. Retrieved February 13, 2011.
+
+^ Minotti, Mike. "Dragon Quest characters join Super Smash Bros. Ultimate". VentureBeat. Archived from the original on June 17, 2019. Retrieved June 12, 2019.
+
+^ Bankhurst, Adam. "Super Smash Bros. Ultimate DLC: Every New Detail About the Dragon Quest Hero and Version 4.0.0, Which Arrive Today". IGN. Archived from the original on July 30, 2019. Retrieved July 30, 2019.
+
+
+Further reading
+
+Belinkie, Matthew (December 15, 1999). "Video Game Music". Videogame Music Archive. Archived from the original on September 27, 2007. Retrieved September 10, 2007.
+Logas, Heather (April 2004). Agency: A Character-Centric Approach to Single Player Digital Space Role Playing Games. Georgia Institute of Technology. pp. 9–11. CiteSeerX 10.1.1.91.4550.
+"Manga Dragon Quest e no Michi" [The Road to Dragon Quest]. ltsr's NES Archive. Retrieved January 10, 2011.
+
+External links
+
+
+
+Wikimedia Commons has media related to Dragon Quest (franchise).
+
+Official website
+Nintendo's Dragon Quest website
+Dragon Warrior series at Curlie
+vteDragon Quest
+Square Enix (formerly Enix)
+Armor Project (Yuji Horii)
+Bird Studio (Akira Toriyama)
+Sugiyama Kobo (Koichi Sugiyama)
+Video gamesMain series
+Dragon Quest
+II
+III
+IV
+V
+VI
+VII
+VIII
+IX
+X
+XI
+Dragon Quest Monsters
+Dragon Warrior Monsters
+Dragon Warrior Monsters 2
+Caravan Heart
+Joker
+Joker 2
+Joker 3
+Mystery Dungeon
+Torneko no Daibōken
+The Last Hope
+Torneko 3
+Shōnen Yangus to Fushigi no Dungeon
+Slime series
+Slime Mori Mori Dragon Quest
+Rocket Slime
+Slime Mori Mori Dragon Quest 3
+Other games
+Kenshin
+Swords
+Monster Battle Road
+Wars
+Heroes
+Theatrhythm
+Builders
+Heroes II
+Builders 2
+Walk
+Other media
+The Adventure of Dai
+Manga volumes
+1991 episodes
+2020 episodes
+Yuusha yo Isoge!!
+Your Story
+Yume wo Shinjite
+Universe
+The Adventure of Dai characters
+Slime
+Sylvando
+Related companies
+ArtePiazza
+Chunsoft
+Enix
+Heartbeat
+Level-5
+Shueisha
+Other
+Itadaki Street
+Jump Force
+Kazuhiko Torishima
+Koichi Nakamura
+Mario Sports Mix
+Super Smash Bros. Ultimate
+
+ Category
+
+vteSquare Enix video game franchisesSquare Enix
+ActRaiser
+All Star Pro-Wrestling
+Bravely
+Bushido Blade
+Bust a Groove
+Chaos Rings
+Chocobo
+Code Age
+Chrono
+Dragon Quest
+Drakengard (Nier)
+Final Fantasy
+Front Mission
+Hanjuku Hero
+Itadaki Street
+Kingdom Hearts
+Lord of Vermilion
+Mana
+Million Arthur
+Musashi
+Ogre
+Parasite Eve
+SaGa
+Schoolgirl Strikers
+Star Ocean
+Tobal
+Valkyrie Profile
+Square Enix Europe
+Backyard Wrestling
+Battlestations
+Championship Manager
+Conflict
+Deus Ex
+Dungeon Siege
+Eclipse
+Fear Effect
+Fighting Force
+Gangsters
+Gex
+Just Cause
+Kane & Lynch
+Legacy of Kain
+Life Is Strange
+Mini Ninjas
+Supreme Commander
+SWIV
+Thief
+Thunderhawk
+Tomb Raider
+Urban Chaos
+Taito
+Arkanoid
+Battle Gear
+Bubble Bobble
+Chase
+Darius
+Densha de Go!
+Don Doko Don
+Elevator Action
+Groove Coaster
+Gunslinger Stratos
+The Legend of Kage
+Pocky & Rocky
+Lufia
+Operation Wolf
+Psychic Force
+Qix
+Rastan
+Ray
+Sonic Blast Man
+Space Invaders
+Speed Race
+
+vteVisual WorksFeature films
+Final Fantasy VII: Advent Children
+Kingsglaive: Final Fantasy XV
+Video game franchises
+Deus Ex
+Dragon Quest
+Drakengard
+Final Fantasy
+Gunslinger Stratos
+Hitman
+Kingdom Hearts
+Parasite Eve
+Tomb Raider
+Standalone video games
+The Bouncer
+Chrono Cross
+Densha de Go!
+Namu Amida Butsu!
+Thief
+Vagrant Story
+Xenogears
+
+vteAkira ToriyamaManga1980s
+Dr. Slump (1980–1984)
+Pink (1982)
+Hetappi Manga Kenkyūjo (1982–1984)
+Akira Toriyama's Manga Theater (1983–1997)
+Dragon Ball (1984–1995)
+1990s
+Go! Go! Ackman (1993–1994)
+Cowa! (1997–1998)
+Kajika (1998)
+Neko Majin (1999–2005)
+2000s
+Sand Land (2000)
+2010s
+Jaco the Galactic Patrolman (2013)
+Dragon Ball Super (with Toyotarou) (2015–present)
+Video games
+Dragon Quest series
+Chrono Trigger
+Tobal No. 1
+Tobal 2
+Blue Dragon series
+
+vteNippon Animation theatrical features, TV specials, and OVAsFilms
+Yakyū-kyō no Uta: Kita no Ōkami, Minami no Tora (1979)
+3000 Leagues in Search of Mother (1980)
+Future Boy Conan: The Revival of the Giant Machine (1984)
+Locke the Superman: Witch Era (1984)
+Utsunomiko (1989)
+The Story of Perrine: The Movie (1990)
+Chibi Maruko-chan (1990)
+Tottoi (1992)
+Chibi Maruko-chan: My Favorite Song (1992)
+Heisei Inu Monogatari Bow: Genshi Inu Monogatari Bow (1994)
+Dragon Quest Saga – The Crest of Roto (1996)
+Magical Circle Guru Guru (1996)
+Violinist of Hameln (1996)
+The Dog of Flanders: The Movie (1997)
+Marco: 3000 Leagues in Search of Mother (1999)
+Locke the Superman: Mirror Ring (2000)
+Beyblade: Fierce Battle (2002)
+Kikansha Sensei (2004)
+Sinbad: A Flying Princess and a Secret Island (2015)
+Chibi Maruko-chan: A Boy from Italy (2015)
+Sinbad: The Magic Lamp and the Moving Islands (2016)
+Sinbad: Night at High Noon and the Wonder Gate (2016)
+Gekijōban Haikara-san ga Tōru Zenpen - Benio, Hana no 17-sai (2017)
+Gekijōban Haikara-san ga Tōru Kōhen - Tokyo Dai Roman (2018)
+TV specials
+Back to the Forest (1980)
+Sango-sho Densetsu: Aoi Umi no Erufii (1986)
+Miyori no Mori (2007)
+OVAs
+Locke the Superman: Lord Leon (1989)
+Locke the Superman: New World Command (1991)
+Yamato Takeru: After War (1995)
+Hunter × Hunter (2002–2004)
+Araiso Private School Student Council Executive Committee (2002)
+Other works
+Mix Master (2005–2006)
+Hammerin' Harry (web, 2008)
+ Category
+Portals:JapanVideo games
+
+
+
+
+
+
+<img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" />
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Dragon_Quest&oldid=1077950064"
+		Categories: Dragon QuestVideo game franchises introduced in 1986Fantasy anime and mangaRole-playing video gamesNintendo gamesSquare Enix franchisesSquare Enix gamesHidden categories: Pages with non-numeric formatnum argumentsArticles containing Japanese-language textCS1 Japanese-language sources (ja)CS1 uses Japanese-language script (ja)CS1: long volume valueArticles with short descriptionShort description is different from WikidataWikipedia pages semi-protected against vandalismUse mdy dates from October 2012Short description matches WikidataCommons category link is on WikidataArticles with Curlie linksGood articles
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+
+	
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+
+	
+		Namespaces
+	
+	
+		
+		ArticleTalk
+		
+	
+
+
+			
+
+	
+	
+		English
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+
+	
+		Views
+	
+	
+		
+		ReadView sourceView history
+		
+	
+
+
+			
+
+	
+	
+		More
+	
+	
+		
+		
+		
+	
+
+
+			
+
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+
+	
+		
+	
+	
+
+	
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+
+	
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+
+	
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+		
+	
+
+
+
+	
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+
+	
+		In other projects
+	
+	
+		
+		Wikimedia Commons
+		
+	
+
+
+	
+
+	
+		Languages
+	
+	
+		
+		العربيةAsturianuDeutschEspañolEsperantoFrançaisGalego한국어Bahasa IndonesiaItalianoNederlands日本語Norsk bokmålPolskiPortuguêsРусскийSimple EnglishSuomiSvenskaไทยTürkçeTiếng Việt吴语粵語中文
+		Edit links
+	
+
+
+
+
+
+
+
+	
+	 This page was last edited on 19 March 2022, at 02:36 (UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License 3.0;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+
+

@@ -1,0 +1,2039 @@
+
+
+Instagram - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	Instagram
+	
+		From Wikipedia, the free encyclopedia
+		
+		
+		
+		
+		Jump to navigation
+		Jump to search
+		"Insta" redirects here. For the food delivery service, see Instacart. For the song by Dimitri Vegas & Like Mike, see Instagram (song).
+
+
+
+InstagramOriginal author(s)Kevin SystromMike KriegerDeveloper(s)Meta Platforms Initial releaseOctober 6, 2010; 11 years ago (2010-10-06)Stable release(s) [±]Android225.0.0.0.42 / March 3, 2022; 42 days ago (2022-03-03) [1]iOS227.0 / March 21, 2022; 24 days ago (2022-03-21)[2]Fire OS215.0.0.27.359 / December 7, 2021; 4 months ago (2021-12-07)[3]Preview release(s) [±]Android (Alpha)217.0.0.0.375 / December 30, 2021; 3 months ago (2021-12-30)[4]Android (Beta)225.0.0.0.107 / March 3, 2022; 42 days ago (2022-03-03)[4]
+Operating systemiOSAndroidFire OSMicrosoft WindowsSize197.5 MB (iOS)[5]  50.19 MB (Android)[6]  43.5 MB (Fire OS) [7]Available in32[8] languagesList of languagesChinese (Simplified and Traditional)CroatianCzechDanishDutchEnglishFinnishFrenchGermanGreekHindiHungarianIndonesianItalianJapaneseKoreanMalayNorwegianPolishPortugueseRomanianRussianSlovakSpanishSwedishTagalogThaiTurkishUkrainianVietnamesePersianLicenseProprietary software with Terms of UseWebsitewww.instagram.com
+Instagram[a] is an American photo and video sharing social networking service founded by Kevin Systrom and Mike Krieger. In April 2012, Facebook Inc. acquired the service for approximately US$1 billion in cash and stock. The app allows users to upload media that can be edited with filters and organized by hashtags and geographical tagging. Posts can be shared publicly or with preapproved followers. Users can browse other users' content by tag and location, view trending content, like photos, and follow other users to add their content to a personal feed.[10]
+Instagram was originally distinguished by allowing content to be framed only in a square (1:1) aspect ratio of 640 pixels to match the display width of the iPhone at the time. In 2015, this restrictions was eased with an increase to 1080 pixels. It also added messaging features, the ability to include multiple images or videos in a single post, and a Stories feature—similar to its main competitor Snapchat—which allowed users to post their content to a sequential feed, with each post accessible to others for 24 hours. As of January 2019, Stories is used by 500 million people daily.[10]
+
+Originally launched for iOS in October 2010, Instagram rapidly gained popularity, with one million registered users in two months, 10 million in a year, and 1 billion by June 2018.[11] The Android version was released in April 2012, followed by a feature-limited desktop interface in November 2012, a Fire OS app in June 2014, and an app for Windows 10 in October 2016. As of October 2015[update], over 40 billion photos had been uploaded. Although often admired for its success and influence, Instagram has also been criticized for negatively affecting teens' mental health, its policy and interface changes, its alleged censorship, and illegal and inappropriate content uploaded by users.Contents
+
+1 History
+
+1.1 2010–2011: Beginnings and major funding
+1.2 2012–2014: Additional platforms and acquisition by Facebook
+1.3 2015–2017: Redesign and Windows app
+1.4 2018–2019: IGTV, removal of the like counter, management changes
+1.5 2020–present: New features
+
+
+2 Features and tools
+
+2.1 Hashtags
+2.2 Explore
+2.3 Photographic filters
+2.4 Video
+
+2.4.1 IGTV
+2.4.2 Reels
+
+
+2.5 Instagram Direct
+2.6 Instagram Stories
+2.7 Advertising
+2.8 Stand-alone apps
+2.9 Third-party services
+2.10 Fact checking
+2.11 Algorithm and design changes
+
+
+3 Impact on people
+
+3.1 Mental health
+
+3.1.1 Depression
+3.1.2 Anxiety
+3.1.3 Stress
+3.1.4 Addiction
+3.1.5 Negative effect on teenage girls’ mental health
+
+
+3.2 Satisfaction with appearance
+3.3 False self-presentation
+3.4 Body image
+3.5 Loneliness
+3.6 Social exclusion
+3.7 Wellbeing
+3.8 Life satisfaction
+3.9 Alcohol and drug use
+3.10 Fear of missing out
+3.11 Eating disorders
+3.12 Sharenting risks
+3.13 Suicide and self-harm
+3.14 Activism
+
+
+4 Impact on businesses
+5 User characteristics and behavior
+
+5.1 Users
+
+5.1.1 Demographics
+
+
+5.2 User behavior
+
+
+6 Reception
+
+6.1 Awards
+6.2 Mental health
+
+6.2.1 Negative comments
+
+
+6.3 Culture
+6.4 Security
+6.5 Content ownership
+6.6 Facebook acquisition as a violation of US antitrust law
+6.7 Algorithmic advertisement with a rape threat
+6.8 Human exploitation
+
+
+7 Censorship and restricted content
+
+7.1 Illicit drugs
+7.2 Women's bodies
+7.3 Censorship by countries
+
+7.3.1 United States
+7.3.2 China
+7.3.3 Turkey
+7.3.4 North Korea
+7.3.5 Iran
+7.3.6 Cuba
+7.3.7 Russia
+
+
+
+
+8 Statistics
+9 In popular culture
+10 System
+11 See also
+12 Notes
+13 References
+14 Further reading
+15 External links
+
+
+
+History
+  Instagram Icon since 2016
+See also: Timeline of Instagram
+Instagram began development in San Francisco as Burbn, a mobile check-in app created by Kevin Systrom and Mike Krieger.[12] Realizing that it was too similar to Foursquare, they refocused their app on photo-sharing, which had become a popular feature among its users.[13][14] They renamed it Instagram, a portmanteau of "instant camera" and "telegram".[15]
+
+2010–2011: Beginnings and major funding
+On March 5, 2010, Systrom closed a $500,000 seed funding round with Baseline Ventures and Andreessen Horowitz while working on Burbn.[16] Josh Riedel joined the company in October as Community Manager,[17] Shayne Sweeney joined in November as an engineer,[17] and Jessica Zollman joined as a Community Evangelist in August 2011.[17][18]
+The first Instagram post was a photo of South Beach Harbor at Pier 38, posted by Mike Krieger at 5:26 PM on July 16, 2010.[19][14] Systrom shared his first post, a picture of a dog and his girlfriend's foot, a few hours later at 9:24 PM. It has been wrongly attributed as the first Instagram photo due to the earlier letter of the alphabet in its URL.[20][21][better source needed] On October 6, 2010, the Instagram iOS app was officially released through the App Store.[22]
+In February 2011, it was reported that Instagram had raised $7 million in Series A funding from a variety of investors, including Benchmark Capital, Jack Dorsey, Chris Sacca (through Capital fund), and Adam D'Angelo.[23] The deal valued Instagram at around $20 million.[24] In April 2012, Instagram raised $50 million from venture capitalists with a $500 million valuation.[25] Joshua Kushner was the second largest investor in Instagram's Series B fundraising round, leading his investment firm, Thrive Capital, to double its money after the sale to Facebook.[26]
+
+2012–2014: Additional platforms and acquisition by Facebook
+On April 3, 2012, Instagram released a version of its app for Android phones,[27][28] and it was downloaded more than one million times in less than one day.[29] The Android app has since received two significant updates: first, in March 2014, which cut the file size of the app by half and added performance improvements;[30][31] then in April 2017, to add an offline mode that allows users to view and interact with content without an Internet connection. At the time of the announcement, it was reported that 80% of Instagram's 600 million users were located outside the U.S., and while the aforementioned functionality was live at its announcement, Instagram also announced its intention to make more features available offline, and that they were "exploring an iOS version".[32][33][34]
+On April 9, 2012, Facebook, Inc. bought Instagram for $1 billion in cash and stock,[35][36][37] with a plan to keep the company independently managed.[38][39][40] Britain's Office of Fair Trading approved the deal on August 14, 2012,[41] and on August 22, 2012, the Federal Trade Commission in the U.S. closed its investigation, allowing the deal to proceed.[42] On September 6, 2012, the deal between Instagram and Facebook officially closed with a purchase price of $300 million in cash and 23 million shares of stock.[43]
+The deal closed just before Facebook's scheduled initial public offering according to CNN.[40] The deal price was compared to the $35 million Yahoo! paid for Flickr in 2005.[40] Mark Zuckerberg said Facebook was "committed to building and growing Instagram independently."[40] According to Wired, the deal netted Systrom $400 million.[44]
+In November 2012, Instagram launched website profiles, allowing anyone to see user feeds from a web browser with limited functionality,[45] as well as a selection of badges, web widget buttons to link to profiles.[46]
+Since the app's launch it had used the Foursquare API technology to provide named location tagging. In March 2014, Instagram started to test and switch the technology to use Facebook Places.[47][48]
+
+
+2015–2017: Redesign and Windows app
+In June 2015, the desktop website user interface was redesigned to become more flat and minimalistic, but with more screen space for each photo and to resemble the layout of Instagram's mobile website.[49][50][51] Furthermore, one row of pictures only has three instead of five photos to match the mobile layout. The slideshow banner[52][53] on the top of profile pages, which simultaneously slide-showed seven picture tiles of pictures posted by the user, alternating at different times in a random order, has been removed. In addition, the formerly angular profile pictures became circular.
+In April 2016, Instagram released a Windows 10 Mobile app, after years of demand from Microsoft and the public to release an app for the platform.[54][55] The platform previously had a beta version of Instagram, first released on November 21, 2013, for Windows Phone 8.[56][57][58] The new app added support for videos (viewing and creating posts or stories, and viewing live streams), album posts and direct messages.[59] Similarly, an app for Windows 10 personal computers and tablets was released in October 2016.[60][61] In May, Instagram updated its mobile website to allow users to upload photos, and to add a "lightweight" version of the Explore tab.[62][63]
+On May 11, 2016, Instagram revamped its design, adding a black-and-white flat design theme for the app's user interface, and a less skeuomorphistic, more abstract, "modern" and colorful icon.[64][65][66] Rumors of a redesign first started circulating in April, when The Verge received a screenshot from a tipster, but at the time, an Instagram spokesperson simply told the publication that it was only a concept.[67]
+On December 6, 2016, Instagram introduced comment liking. However, unlike post likes, the user who posted a comment does not receive notifications about comment likes in their notification inbox. Uploaders can optionally decide to deactivate comments on a post.[68][69][70]
+The mobile web front end allows uploading pictures since May 4, 2017. Image filters and the ability to upload videos were not introduced then.[71][72]
+On April 30, 2019, the Windows 10 Mobile app was discontinued, though the mobile website remains available as a progressive web application (PWA) with limited functionality. The app remains available on Windows 10 computers and tablets, also updated to a PWA in 2020.
+
+2018–2019: IGTV, removal of the like counter, management changes
+To comply with the GDPR regulations regarding data portability, Instagram introduced the ability for users to download an archive of their user data in April 2018.[73][74][75]
+IGTV launched on June 20, 2018, as a standalone video application.
+On September 24, 2018, Krieger and Systrom announced in a statement they would be stepping down from Instagram.[76][77] On October 1, 2018, it was announced that Adam Mosseri would be the new head of Instagram.[78][79]
+During Facebook F8, it was announced that Instagram would, beginning in Canada, pilot the removal of publicly-displayed "like" counts for content posted by other users.[80] Like counts would only be visible to the user who originally posted the content. Mosseri stated that this was intended to have users "worry a little bit less about how many likes they're getting on Instagram and spend a bit more time connecting with the people that they care about."[81][82] It has been argued that low numbers of likes in relativity to others could contribute to a lower self-esteem in users.[82][80] The pilot began in May 2019, and was extended to 6 other markets in July.[82][83] The pilot was expanded worldwide in November 2019.[84] Also in July 2019, Instagram announced that it would implement new features designed to reduce harassment and negative comments on the service.[85]
+In August 2019, Instagram also began to pilot the removal of the "Following" tab from the app, which had allowed users to view a feed of the likes and comments made by users they follow. The change was made official in October, with head of product Vishal Shah stating that the feature was underused and that some users were "surprised" when they realized their activity was being surfaced in this manner.[86][87]
+In October 2019, Instagram introduced a limit on the number of posts visible in page scrolling mode unless logged in. Until this point, public profiles had been available to all users, even when not logged in. Following the change, after viewing a number of posts a pop-up requires the user to log in to continue viewing content.[88][89][90]
+
+2020–present: New features
+In March 2020, Instagram launched a new feature called "Co-Watching". The new feature allows users to share posts with each other over video calls. According to Instagram, they pushed forward the launch of Co-Watching in order to meet the demand for virtually connecting with friends and family due to social distancing as a result of the COVID-19 pandemic.[91]
+In August 2020, Instagram launched a new feature called "Reels". The feature is similar to TikTok.[92] Instagram also added suggested posts in August 2020. After scrolling through posts from the past 48 hours, Instagram displays posts related to their interests from accounts they do not follow.[93]
+In February 2021, Instagram began testing a new feature called Vertical Stories, said by some sources to be inspired by TikTok.[94] The same month, they also began testing the removal of ability to share feed posts to stories.[95]
+In March 2021, Instagram launched a new feature in which four people can go live at once.[96] Instagram also announced that adults would not be allowed to message teens who don't follow them as part of a series of new child safety policies.[97][98][99][100]
+In May 2021, Instagram began allowing users in some regions to add pronouns to their profile page.[101][102]
+On October 4, 2021, Facebook had its worst outage since 2008. The outage also affected other platforms owned by Facebook, such as Instagram and WhatsApp.[103][104] Security experts identified the problem as possibly being DNS-related.[105]
+On March 17, 2022, Zuckerberg confirmed plans to add non-fungible tokens (NFTs) to the platform.[106]
+
+Features and tools
+  An original photograph (left) is automatically cropped to a square by Instagram, and has a filter added at the selection of the user (right).
+  A photo collage of an unprocessed image (top left) modified with the 16 different Instagram filters available in 2011
+Users can upload photographs and short videos, follow other users' feeds,[107] and geotag images with the name of a location.[108] Users can set their account as "private", thereby requiring that they approve any new follower requests.[109] Users can connect their Instagram account to other social networking sites, enabling them to share uploaded photos to those sites.[110] In September 2011, a new version of the app included new and live filters, instant tilt–shift, high-resolution photographs, optional borders, one-click rotation, and an updated icon.[111][112] Photos were initially restricted to a square, 1:1 aspect ratio; since August 2015, the app supports portrait and widescreen aspect ratios as well.[113][114][115] Users could formerly view a map of a user's geotagged photos. The feature was removed in September 2016, citing low usage.[116][117]
+Since December 2016, posts can be "saved" into a private area of the app.[118][119] The feature was updated in April 2017 to let users organize saved posts into named collections.[120][121] Users can also "archive" their posts in a private storage area, out of visibility for the public and other users. The move was seen as a way to prevent users from deleting photos that don't garner a desired number of "likes" or are deemed boring, but also as a way to limit the "emergent behavior" of deleting photos, which deprives the service of content.[122][123] In August, Instagram announced that it would start organizing comments into threads, letting users more easily interact with replies.[124][125]
+Since February 2017, up to ten pictures or videos can be included in a single post, with the content appearing as a swipeable carousel.[126][127] The feature originally limited photos to the square format, but received an update in August to enable portrait and landscape photos instead.[128][129]
+In April 2018, Instagram launched its version of a portrait mode called "focus mode," which gently blurs the background of a photo or video while keeping the subject in focus when selected.[130] In November, Instagram began to support Alt text to add descriptions of photos for the visually impaired. They are either generated automatically using object recognition (using existing Facebook technology) or manually specified by the uploader.[131]
+On March 1, 2021, Instagram launched a new feature named Instagram Live "Rooms" Let Four People Go Live Together.[132]
+In May 2021, Instagram announced a new accessibility feature for videos on Instagram Reels and Stories to allow creators to place closed captions on their content.[133]
+
+Hashtags
+In January 2011, Instagram introduced hashtags to help users discover both photos and each other.[134][135] Instagram encourages users to make tags both specific and relevant, rather than tagging generic words like "photo", to make photographs stand out and to attract like-minded Instagram users.[136]
+Users on Instagram have created "trends" through hashtags. The trends deemed the most popular on the platform often highlight a specific day of the week to post the material on. Examples of popular trends include #SelfieSunday, in which users post a photo of their faces on Sundays; #MotivationMonday, in which users post motivational photos on Mondays; #TransformationTuesday, in which users post photos highlighting differences from the past to the present; #WomanCrushWednesday, in which users post photos of women they have a romantic interest in or view favorably, as well as its #ManCrushMonday counterpart centered on men; and #ThrowbackThursday, in which users post a photo from their past, highlighting a particular moment.[137][138]
+In December 2017, Instagram began to allow users to follow hashtags, which display relevant highlights of the topic in their feeds.[139][140]
+
+Explore
+In June 2012, Instagram introduced "Explore", a tab inside the app that displays popular photos, photos taken at nearby locations, and search.[141] The tab was updated in June 2015 to feature trending tags and places, curated content, and the ability to search for locations.[142] In April 2016, Instagram added a "Videos You Might Like" channel to the tab,[143][144] followed by an "Events" channel in August, featuring videos from concerts, sports games, and other live events,[145][146] followed by the addition of Instagram Stories in October.[147][148] The tab was later expanded again in November 2016 after Instagram Live launched to display an algorithmically curated page of the "best" Instagram Live videos currently airing.[149] In May 2017, Instagram once again updated the Explore tab to promote public Stories content from nearby places.[150]
+
+Photographic filters
+Instagram offers a number of photographic filters that users can apply to their images. In February 2012, Instagram added a "Lux" filter, an effect that "lightens shadows, darkens highlights and increases contrast".[151][152] In December 2014, Slumber, Crema, Ludwig, Aden, and Perpetua were five new filters to be added to the Instagram filter family.[153]
+
+Video
+Initially a purely photo-sharing service, Instagram incorporated 15-second video sharing in June 2013.[154][155] The addition was seen by some in the technology media as Facebook's attempt at competing with the then-popular video-sharing application Vine.[156][157] In August 2015, Instagram added support for widescreen videos.[158][159] In March 2016, Instagram increased the 15-second video limit to 60 seconds.[160][161] Albums were introduced in February 2017, which allow up to 10 minutes of video to be shared in one post.[126][127][162]
+
+IGTV
+Main article: IGTV
+IGTV is a vertical video application launched by Instagram[163] in June 2018. Basic functionality is also available within the Instagram app and website. IGTV allows uploads of up to 10 minutes in length with a file size of up to 650 MB, with verified and popular users allowed to upload videos of up to 60 minutes in length with a file size of up to 5.4 GB.[164] The app automatically begins playing videos as soon as it is launched, which CEO Kevin Systrom contrasted to video hosts where one must first locate a video.[165][166][167]
+
+Reels
+In November 2019, it was reported that Instagram had begun to pilot a new video feature known as "Reels" in Brazil, expanding to France and Germany afterwards.[168] It is similar in functionality to the Chinese video-sharing service TikTok, with a focus on allowing users to record short videos set to pre-existing sound clips from other posts.[169] Users could make up to 15 (later 30) second videos using this feature.[170] Reels also integrates with existing Instagram filters and editing tools.[164]
+In July 2020, Instagram rolled out Reels to India after TikTok was banned in the country.[171] The following month, Reels officially launched in 50 countries including the United States, Canada and United Kingdom.[172] Instagram has recently introduced a reel button on home page.[173]
+On June 17, 2021, Instagram launched full-screen advertisements in Reels. The ads are similar to regular reels and can run up to 30 seconds. They are distinguished from regular content by the "sponsored" tag under the account name.[174]
+
+Instagram Direct
+In December 2013, Instagram announced Instagram Direct, a feature that lets users interact through private messaging. Users who follow each other can send private messages with photos and videos, in contrast to the public-only requirement that was previously in place. When users receive a private message from someone they don't follow, the message is marked as pending and the user must accept to see it. Users can send a photo to a maximum of 15 people.[175][176][177] The feature received a major update in September 2015, adding conversation threading and making it possible for users to share locations, hashtag pages, and profiles through private messages directly from the news feed. Additionally, users can now reply to private messages with text, emoji or by clicking on a heart icon. A camera inside Direct lets users take a photo and send it to the recipient without leaving the conversation.[178][179][180] A new update in November 2016 let users make their private messages "disappear" after being viewed by the recipient, with the sender receiving a notification if the recipient takes a screenshot.[181][182]
+In April 2017, Instagram redesigned Direct to combine all private messages, both permanent and ephemeral, into the same message threads.[183][184][185] In May, Instagram made it possible to send website links in messages, and also added support for sending photos in their original portrait or landscape orientation without cropping.[186][187]
+In April 2020, Direct became accessible from the Instagram website, allowing users to send direct messages from a web version using WebSocket technology.[188]
+In August 2020, Facebook started merging Instagram Direct into Facebook Messenger. After the update (which is rolled out to a segment of the user base) the Instagram Direct icon transforms into Facebook Messenger icon.[189]
+In March 2021, a feature was added that prevents adults from messaging users under 18 who do not follow them as part of a series of new child safety policies.[97][98][99]
+
+Instagram Stories
+In August 2016, Instagram launched Instagram Stories, a feature that allows users to take photos, add effects and layers, and add them to their Instagram story. Images uploaded to a user's story expire after 24 hours. The media noted the feature's similarities to Snapchat.[190][191] In response to criticism that it copied functionality from Snapchat, CEO Kevin Systrom told Recode that "Day One: Instagram was a combination of Hipstamatic, Twitter [and] some stuff from Facebook like the 'Like' button. You can trace the roots of every feature anyone has in their app, somewhere in the history of technology". Although Systrom acknowledged the criticism as "fair", Recode wrote that "he likened the two social apps' common features to the auto industry: Multiple car companies can coexist, with enough differences among them that they serve different consumer audiences". Systrom further stated that "When we adopted [Stories], we decided that one of the really annoying things about the format is that it just kept going and you couldn't pause it to look at something, you couldn't rewind. We did all that, we implemented that." He also told the publication that Snapchat "didn't have filters, originally. They adopted filters because Instagram had filters and a lot of others were trying to adopt filters as well."[192][193]
+In November, Instagram added live video functionality to Instagram Stories, allowing users to broadcast themselves live, with the video disappearing immediately after ending.[194][149]
+In January 2017, Instagram launched skippable ads, where five-second photo and 15-second video ads appear in-between different stories.[195][196][197]
+In April 2017, Instagram Stories incorporated augmented reality stickers, a "clone" of Snapchat's functionality.[198][199][197]
+In May 2017, Instagram expanded the augmented reality sticker feature to support face filters, letting users add specific visual features onto their faces.[200][201]
+Later in May, TechCrunch reported about tests of a Location Stories feature in Instagram Stories, where public Stories content at a certain location are compiled and displayed on a business, landmark or place's Instagram page.[202] A few days later, Instagram announced "Story Search", in which users can search for geographic locations or hashtags and the app displays relevant public Stories content featuring the search term.[150][203]
+In June 2017, Instagram revised its live-video functionality to allow users to add their live broadcast to their story for availability in the next 24 hours, or discard the broadcast immediately.[204] In July, Instagram started allowing users to respond to Stories content by sending photos and videos, complete with Instagram effects such as filters, stickers, and hashtags.[205][206]
+Stories were made available for viewing on Instagram's mobile and desktop websites in late August 2017.[207][208]
+On December 5, 2017, Instagram introduced "Story Highlights",[209] also known as "Permanent Stories", which are similar to Instagram Stories, but don't expire. They appear as circles below the profile picture and biography and are accessible from the desktop website as well.
+In June 2018, the daily active story users of Instagram had reached 400 million users, and monthly active users had reached 1 billion active users.[210]
+
+Advertising
+Emily White joined Instagram as Director of Business Operations in April 2013.[211][212] She stated in an interview with The Wall Street Journal in September 2013 that the company should be ready to begin selling advertising by September 2014 as a way to generate business from a popular entity that had not yet created profit for its parent company.[213] White left Instagram in December 2013 to join Snapchat.[214][215] In August 2014, James Quarles became Instagram's Global Head of Business and Brand Development, tasked with overseeing advertisement, sales efforts, and developing new "monetization products", according to a spokesperson.[216]
+In October 2013, Instagram announced that video and image ads would soon appear in feeds for users in the United States,[217][218] with the first image advertisements displaying on November 1, 2013.[219][220] Video ads followed nearly a year later on October 30, 2014.[221][222] In June 2014, Instagram announced the rollout of ads in the United Kingdom, Canada and Australia,[223] with ads starting to roll out that autumn.[224]
+In March 2015, Instagram announced it would implement "carousel ads," allowing advertisers to display multiple images with options for linking to additional content.[225][226] The company launched carousel image ads in October 2015,[227][228] and video carousel ads in March 2016.[229]
+In February 2016, Instagram announced that it had 200,000 advertisers on the platform.[230] This number increased to 500,000 by September 2016,[231] and 1 million in March 2017.[232][233]
+In May 2016, Instagram launched new tools for business accounts, including business profiles, analytics and the ability to promote posts as ads. To access the tools, businesses had to link a corresponding Facebook page.[234] The new analytics page, known as Instagram Insights, allowed business accounts to view top posts, reach, impressions, engagement and demographic data.[234] Insights rolled out first in the United States, Australia, and New Zealand, and expanded to the rest of the world later in 2016.[235][234][236]
+In November 2018, Instagram added the ability for business accounts to add product links directing users to a purchase page or to save them to a "shopping list."[237] In April 2019, Instagram added the option to "Checkout on Instagram," which allows merchants to sell products directly through the Instagram app.[238]
+In March 2020, via a blog post, Instagram announced that they are making major moderation changes in order to decrease the flow of disinformation, hoaxes and fake news regarding COVID-19 on its platform, "We'll remove COVID-19 accounts from account recommendations, and we are working to remove some COVID-19 related content from Explore unless posted by a credible health organization. We will also start to downrank content in feed and Stories that has been rated false by third-party fact-checkers."[239]
+In June 2021, Instagram launched a native affiliate marketing tool creators can use to earn commissions based on sales. Commission-enabled posts are labeled "Eligible for Commission" on the user side to identify them as affiliate posts. Launch partners included Sephora, MAC, and Kopari.[240]
+
+Stand-alone apps
+Instagram has developed and released three stand-alone apps with specialized functionality. In July 2014, it released Bolt, a messaging app where users click on a friend's profile photo to quickly send an image, with the content disappearing after being seen.[241][242] It was followed by the release of Hyperlapse in August, an iOS-exclusive app that uses "clever algorithm processing" to create tracking shots and fast time-lapse videos.[243][244] Microsoft launched a Hyperlapse app for Android and Windows in May 2015, but there has been no official Hyperlapse app from Instagram for either of these platforms to date.[245] In October 2015, it released Boomerang, a video app that combines photos into short, one-second videos that play back-and-forth in a loop.[246][247]
+
+Third-party services
+The popularity of Instagram has led to a variety of third-party services designed to integrate with it, including services for creating content to post on the service and generating content from Instagram photos (including physical print-outs), analytics, and alternative clients for platforms with insufficient or no official support from Instagram (such as in the past, iPads).[248][249]
+In November 2015, Instagram announced that effective June 1, 2016, it would end "feed" API access to its platform in order to "maintain control for the community and provide a clear roadmap for developers" and "set up a more sustainable environment built around authentic experiences on the platform", including those oriented towards content creation, publishers, and advertisers. Additionally, third-party clients have been prohibited from using the text strings "insta" or "gram" in their name.[250] It was reported that these changes were primarily intended to discourage third-party clients replicating the entire Instagram experience (due to increasing monetization of the service), and security reasons (such as preventing abuse by automated click farms, and the hijacking of accounts). In the wake of the Cambridge Analytica scandal, Instagram began to impose further restrictions on its API in 2018.[249][251][252]
+For unlimited browsing of public Instagram profiles without having to create an account, as well as for anonymous browsing of someone else's Stories, has to use the Instagram profiles viewer.[253] Stories are more authentic than typical photos posted as posts because users know that in 24 hours their Stories will disappear if they don't add them as highlighted[254] (however users can check who saw their Story for 48 hours after it was published[255]). For this reason, they are very valuable for market research.[256]
+
+Fact checking
+On December 16, 2019, Facebook announced it would expand its fact checking programs towards Instagram,[257] by using third-party fact-checkers organizations false information is able to be identified, reviewed and labeled as false information. Content when rated as false or partly false is removed from the explore page and hashtag pages, additionally content rated as false or partly false are labeled as such. With the addition of Facebook fact-checking program came the use of image matching technology to find further instances of misinformation. If a piece of content is labeled false or partly false on Facebook or Instagram then duplicates of such content will also be labeled as false.[258]
+
+Algorithm and design changes
+In April 2016, Instagram began rolling out a change to the order of photos visible in a user's timeline, shifting from a strictly chronological order to one determined by an algorithm.[259] Instagram said the algorithm was designed so that users would see more of the photos by users that they liked,[260] but there was significant negative feedback, with many users asking their followers to turn on post notifications in order to make sure they see updates.[261][262][263] The company wrote a tweet to users upset at the prospect of the change, but did not back down,[264] nor provide a way to change it back, which they re-affirmed in 2020.[265][266] However, in December 2021, Adam Mosseri, in a Senate hearing on child safety issues, stated that the company is developing a version of the feed that would show user posts in chronological order.[267] He later clarified the company would introduce two modes: a classic chronological feed and a version of it that would let users pick "favorite" users whose posts would be shown at the top in chronological order while other posts would be mixed in below.[268]
+Since 2017, Instagram has employed the ability to reduce the prominence of accounts ("shadowbanning") it believes may be generating non-genuine engagement and spam (including excessive use of unneeded hashtags), preventing posts from appearing in search results and in the app's Explore section. In a now-deleted Facebook post, Instagram wrote that "When developing content, we recommend focusing on your business objective or goal rather than hashtags".[269][270] Instagram has since been accused of extending the practice to censor posts under vague and inconsistent circumstances, particularly in regards to sexually suggestive material.[271]
+Instagram caused the userbase to fall into outrage with the December 2018 update.[272][273][274][275][276][excessive citations] They found an attempt to alter the flow of the feed from the traditional vertical scroll to emulate and piggy-back the popularity of their Instagram Stories with a horizontal scroll, by swiping left.[277] Various backtracking statements were released explaining it as a bug, or as a test release that had been accidentally deployed to too large an audience.[275][274]
+In November 2020, Instagram replaced the activity feed tab with a new "Shop" tab, moving the activity feed to the top. The "new post" button was also relocated to the top and replaced with a Reels tab[278] The company states that "the Shop tab gives you a better way to connect with brands and creators and discover products you love" and the Reels tab "makes it easier for you to discover short, fun videos from creators all over the world and people just like you."[279] However, users have not responded well to the change, taking their complaints to Twitter and Reddit, and The New York Times has shunned Reels in particular, saying "Not only does Reels fail in every way as a TikTok clone, but it’s confusing, frustrating and impossible to navigate".[280]
+Also in 2020, Instagram rolled out a feature titled "suggested posts", which adds posts from accounts Instagram thinks a user would like to such user's feed.[281] The feature was met with controversy from both Reddit users[282] from The Verge, which reported that suggested posts would keep users glued to their feed, give Instagram more advertising space, and ultimately harm the mental health of users, while Instagram executive Julian Gutman rebutted, stating the feature was not intended to keep users glued to their screens.[283] Suggested posts received more controversy after Fast Company stated that the feature would be impossible to turn off.[284]
+On June 23, 2021, Instagram announced a test change to the "suggested posts" feature. The company will put suggested posts ahead of posts from people that the user is following in the Instagram feed, citing positive reception as the reason for this change.[285]
+
+Impact on people
+Mental health
+Depression
+Khodarahimi & Fathi 2017 found evidence for Instagram users displaying higher levels of depressive symptoms.[286] Frison & Eggermont 2017 pointed out that only Instagram browsing, and not Instagram liking nor posting, predicts more depressive symptoms.[287] It also provides evidence for a relation between Instagram use and depressive symptomatology in the opposite direction, where level of depressed mood has shown to positively predict Instagram posting. Lamp et al. 2019 showed a positive relationship between depression and the number of selfies taken before posting it on Instagram.[288]
+
+Anxiety
+Khodarahimi & Fathi 2017 observed higher levels of anxiety in Instagram users compared to non-users,[286] while Mackson et al. 2019 suggested beneficial effects of Instagram use on anxiety symptoms.[289] Multiple studies pointed out small to moderate positive relationships between time spent on Instagram and trait anxiety, physical appearance anxiety, social anxiety and attention to high insecurity-eliciting body regions.[290][291][292][293] Moujaes & Verrier 2020 observed a connection between anxiety and online engagement with InstaMums, which relationship was influenced by social comparison orientation and self-esteem.[294]
+
+Stress
+A paper showed that users who feel that they spend too much time on Instagram report higher levels of addiction to Instagram, which in turn was related to higher self-reported levels of stress induced by the app.[295][296]
+
+Addiction
+In a study focusing on the relationship between various psychological needs and addiction to Instagram by students, Foroughi et al. 2021 found that the desire for recognition and entertainment were predictors of students' addiction to Instagram. In addition, the study proved that addiction to Instagram negatively affects academic performance.[297] Gezgin & Mihci 2020 quantified Turkish students' Instagram use's contribution to overall smartphone addiction, and concluded that frequent Instagram usage correlates with smartphone addiction.[298]
+
+Negative effect on teenage girls’ mental health
+Facebook has known for years that its Instagram app is harmful to a number of teenagers, according to research seen by The Wall Street Journal, but the company concealed the knowledge from lawmakers.[299]
+Internal Facebook presentations seen by the Journal in 2021 show that Instagram is toxic to a sizable percentage of its users, particularly teenage girls. More than 40% of Instagram's users are under 23 years old. The presentations were seen by the company's executives and the findings mentioned to Mark Zuckerberg in 2020, but when asked in March 2021 about Instagram's effect on young people, Zuckerberg defended the company's plan to launch an Instagram product for children under 13.[299]
+When asked by senators for its internal findings on the impact of Instagram on youth mental health, Facebook sent a six-page letter but did not include the company's research. The company told Forbes that its research is "kept confidential to promote frank and open dialogue and brainstorming internally."[300]
+In a blog post, Instagram said that the WSJ story "focuses on a limited set of findings and casts them in a negative light."[301]
+On September 27, 2021, weeks after the WSJ report was released, Facebook announced it had "paused" development of Instagram Kids, the Instagram product aimed at children. The company stated it was looking into concerns raised by the regulators and parents. Adam Mosseri stated that the company would return to the project as "[t]he reality is that kids are already online, and we believe that developing age-appropriate experiences designed specifically for them is far better for parents than where we are today."[302][303]
+
+Satisfaction with appearance
+Sherlock & Wagstaff 2019 showed that both the number of followers and followees show a small positive relationship with trait anxiety.[292] Instagram users report higher body surveillance,[304] appearance related pressure,[305] eating pathology[306] and lower body satisfaction[306] than non-users.[296] Multiple studies have shown that users who take more selfies (before posting) and strategically present themselves on Instagram, for example by editing or manipulating selfies, report higher levels of body surveillance, body dissatisfaction, and lower body esteem.[307][288][308][296] Tiggemann et al. 2020 also confirmed this through experimental study, finding that taking and editing selfies led to higher facial dissatisfaction.[309][296]
+
+False self-presentation
+In a 2021 study Mun & Kim pointed out that Instagram users with a strong need for approval were more likely to create false presentation of themselves on their Instagram accounts, which in turn increased the likelihood of depression. Notably, depression was mitigated by the perception of popularity.[310]
+
+Body image
+Multiple studies confirmed that Instagram usage is associated with body surveillance and body self-image. In particular, following appearance-focused Instagrammers corresponded with the desire to look thin. Comments related to appearance on Instagram are leading to higher dissatisfactions with one's body.[311][312][313][314] Based on Facebook's leaked internal research, Instagram has negative effects on the body image of one in three teenagers.[315] Leaked internal documents also indicate that two thirds of teen girls and 40 percent of teen boys experience negative social comparison, and that Instagram makes 20 percent of the teens feel worse about themselves. According to the leaked research, Instagram has higher impact on appearance comparison than TikTok or Snapchat.[316]
+
+Loneliness
+Mackson et al. 2019 found that Instagram users were less lonely than non-users[289] and that Instagram membership predicts lower self-reported loneliness.[296]
+
+Social exclusion
+In a 2021 study by Büttnera et Rudertb[317] pointed out that not being tagged in an Instagram photo triggers the feeling of social exclusion and ostracism, especially for those with higher needs to belong.
+
+Wellbeing
+The relationship between Instagram usage intensity and wellbeing varies by wellbeing indicator. Brailovskaia & Margraf 2018 found a significant positive relationship between Instagram membership and extraversion, life satisfaction, and social support. The association between Instagram membership and conscientiousness was marginally significantly negative. The same study showed a positive relationship between extraversion, life satisfaction, social support and Instagram membership.[318]
+
+Life satisfaction
+Fioravanti et al. 2020 showed that women who had to take a break from Instagram for seven days reported higher life satisfaction compared to women who continued their habitual pattern of Instagram use. The effects seemed to be specific for women, where no significant differences were observed for men.[319]
+
+Alcohol and drug use
+Instagram usage intensity shows a small positive correlation with alcohol consumption, with binge drinkers reporting greater intensity of Instagram use than non-binge drinkers.[320] An earlier study examined the relationship between alcohol consumption during college. It found a small to moderate positive relationship between alcohol consumption and Instagram usage, enhanced drinking motives, and drinking behavior.[321]
+
+Fear of missing out
+The relationship between Instagram use and the fear of missing out (FoMo) has been confirmed in multiple studies.[322][323] Use intensity shows a strong, while the number of followers and followees shows a weak correlation with FoMo. Research shows that Instagram browsing predicts social comparison, which generates FoMo, and FoMo can ultimately lead to depression.[324]
+
+Eating disorders
+A comparison of Instagram users with non-users showed that boys with an Instagram account differ from boys without an account in terms of over-evaluation of their shape and weight, skipping meals, and levels of reported disordered eating cognitions. Girls with an Instagram account also differed from girls without an account in terms of skipping meals. However, none of the other associations that were reported for boys were observed for girls. Instead, girls with an Instagram account differed from girls without an account in that they used a stricter exercise schedule. This suggests a possible differential effect of Instagram membership on body (dis)satisfaction and disordered eating for boys and girls.[296][325] Regarding the relationship between time spent on Instagram and body image and/or disordered eating, several body-related constructs were consistently linked to indicators of Instagram use. More specifically, several studies identified a small positive relationship between time spent on Instagram and both internalization of beauty ideals or muscular ideals, and self-objectification across studies.[296][326][327][328] A positive link has been pointed out between the intensity of Instagram use and both body surveillance and dietary behaviors or disordered eating.[329][328]
+
+Sharenting risks
+Sharenting refers to the action of parents posting content, including images, about their children online. Instagram is one of the most popular social media channels for sharenting. The hashtag #letthembelittle contains 8 million images related to children on Instagram. Bare 2020 analysed 300 randomly selected, publicly available images under the hashtag and found that the corresponding images tended to contain personal information of children, including name, age and location.[330]
+
+Suicide and self-harm
+Picardo et al. 2020 examined the relationship between self-harm posts and actual self-harm behaviours offline and found such content had negative emotional effects on some users and reported preliminary evidence of potential harmful effects in relation to self-harm related behaviours offline, although causal effects cannot be claimed. At the same time, some benefits for those who engage with self-harm content online have been suggested.[331] Instagram has published content to help users in need to get support.[332]
+Based on Facebook's leaked internal research, 13 percent of British teenager users with suicidal thoughts could trace these thoughts to Instagram use. Amongst teenagers in the US with suicidal thoughts, this number is much smaller – 6 percent.[315]
+
+Activism
+Starting in June 2020, Instagram was more widely used as a platform for social justice movements including the Black Lives Matter movement.[333][334] This has changed how people address activism, this has created a lack of consistency in protest, and is not widely accepted.[335][336] Most notably in 2020, Shirien Damra shared an illustration and tribute she made of George Floyd after his murder, and it resulted in more than 3.4 million "likes", followed by many offline reproductions of the illustration.[337][338] Instagram-based activism (as well as other social media) has been criticized and dismissed for being performative, reductionist, and overly focused on aesthetics.[335][334]
+
+Impact on businesses
+Instagram can help promote commercial products and services. It can be distinguished from other social media platforms by its focus on visual communication. Instagram marketing is an effective way to advertise a product, given that a picture is said to speak a thousand words.[339] The platform can also help commercial entities save branding costs, as it can be used for free even for commercial purposes.
+
+User characteristics and behavior
+  The Instagram app, running on the Android operating system
+Users
+See also: List of most-followed Instagram accounts
+Following the release in October, Instagram had one million registered users in December 2010.[340][341] In June 2011, it announced that it had 5 million users,[342] which increased to 10 million in September.[343][344] This growth continued to 30 million users in April 2012,[343][27] 80 million in July 2012,[345][346] 100 million in February 2013,[347][348] 130 million in June 2013,[349] 150 million in September 2013,[350][351] 300 million in December 2014,[352][353] 400 million in September 2015,[354][355] 500 million in June 2016,[356][357] 600 million in December 2016,[358][359] 700 million in April 2017,[360][361] and 800 million in September 2017.[362][363]
+In June 2011, Instagram passed 100 million photos uploaded to the service.[364][365] This grew to 150 million in August 2011,[366][367] and by June 2013, there were over 16 billion photos on the service.[349] In October 2015, there existed over 40 billion photos.[368]
+In October 2016, Instagram Stories reached 100 million active users, two months after launch.[369][370] This increased to 150 million in January 2017,[195][196] 200 million in April, surpassing Snapchat's user growth,[198][199][197] and 250 million active users in June 2017.[371][204]
+In April 2017, Instagram Direct had 375 million monthly users.[183][184][185]
+
+Demographics
+As of 2014[update], Instagram's users are divided equally with 50% iPhone owners and 50% Android owners. While Instagram has a neutral gender-bias format, 68% of Instagram users are female while 32% are male. Instagram's geographical use is shown to favor urban areas as 17% of US adults who live in urban areas use Instagram while only 11% of adults in suburban and rural areas do so. While Instagram may appear to be one of the most widely used sites for photo sharing, only 7% of daily photo uploads, among the top four photo-sharing platforms, come from Instagram. Instagram has been proven to attract the younger generation with 90% of the 150 million users under the age of 35. From June 2012 to June 2013, Instagram approximately doubled their number of users. With regards to income, 15% of US Internet users who make less than $30,000 per year use Instagram, while 14% of those making $30,000 to $50,000, and 12% of users who make more than $50,000 per year do so.[372] With respect to the education demographic, respondents with some college education proved to be the most active on Instagram with 23%. Following behind, college graduates consist of 18% and users with a high school diploma or less make up 15%. Among these Instagram users, 24% say they use the app several times a day.[373]
+
+User behavior
+Ongoing research continues to explore how media content on the platform affects user engagement. Past research has found that media which show peoples' faces receive more 'likes' and comments and that using filters that increase warmth, exposure, and contrast also boosts engagement.[374] Users are more likely to engage with images that depict fewer individuals compared to groups and also are more likely to engage with content that has not been watermarked, as they view this content as less original and reliable compared to user-generated content.[375] Recently Instagram has come up with an option for users to apply for a verified account badge; however, this does not guarantee every user who applies will get the verified blue tick.[376]
+The motives for using Instagram among young people are mainly to look at posts, particularly for the sake of social interactions and recreation. In contrast, the level of agreement expressed in creating Instagram posts was lower, which demonstrates that Instagram's emphasis on visual communication is widely accepted by young people in social communication.[377]
+
+Reception
+Awards
+Instagram was the runner-up for "Best Mobile App" at the 2010 TechCrunch Crunchies in January 2011.[378] In May 2011, Fast Company listed CEO Kevin Systrom at number 66 in "The 100 Most Creative People in Business in 2011".[379] In June 2011, Inc. included co-founders Systrom and Krieger in its 2011 "30 Under 30" list.[12]
+Instagram won "Best Locally Made App" in the SF Weekly Web Awards in September 2011.[380] 7x7Magazine's September 2011 issue featured Systrom and Krieger on the cover of their "The Hot 20 2011" issue.[381] In December 2011, Apple Inc. named Instagram the "App of the Year" for 2011.[382] In 2015, Instagram was named No. 1 by Mashable on its list of "The 100 best iPhone apps of all time," noting Instagram as "one of the most influential social networks in the world."[383] Instagram was listed among Time's "50 Best Android Applications for 2013" list.[384]
+
+Mental health
+See also: Social media and suicide
+In May 2017, a survey conducted by the United Kingdom's Royal Society for Public Health, featuring 1,479 people aged 14–24, asking them to rate social media platforms depending on anxiety, depression, loneliness, bullying and body image, concluded that Instagram was the "worst for young mental health". Some have suggested it may contribute to digital dependence, whist this same survey noticed its positive effects, including self-expression, self-identity, and community building. In response to the survey, Instagram stated that "Keeping Instagram a safe and supportive place for young people was a top priority".[385][386] The company filters out the reviews and accounts. If some of the accounts violate Instagram's community guidelines, it will take action, which could include banning them.[387]
+In 2017, researchers from Harvard University and University of Vermont demonstrated a machine learning tool that successfully outperformed general practitioners' diagnostic success rate for depression. The tool used color analysis, metadata components, and face detection of users' feeds.[388]
+Throughout 2019, Instagram began to test the hiding of like counts for posts made by its users.
+Correlations have been made between Instagram content and poor body dissatisfaction, as a result of body comparisons. In a recent survey half of the applicants admitted to photo editing behavior which has been linked with concerns over body image.[389]
+In October 2021, CNN published an article and interviews on how two young women, Ashlee Thomas and Anastasia Vlasova, say Instagram endangered their lives due to it having toxic effects on their diets.[390]
+
+Negative comments
+In response to abusive and negative comments on users' photos, Instagram has made efforts to give users more control over their posts and accompanying comments field. In July 2016, it announced that users would be able to turn off comments for their posts, as well as control the language used in comments by inputting words they consider offensive, which will ban applicable comments from showing up.[391][392] After the July 2016 announcement, the ability to ban specific words began rolling out early August to celebrities,[393] followed by regular users in September.[394] In December, the company began rolling out the abilities for users to turn off the comments and, for private accounts, remove followers.[395][396]
+In June 2017, Instagram announced that it would automatically attempt to filter offensive, harassing, and "spammy" comments by default. The system is built using a Facebook-developed deep learning algorithm known as DeepText (first implemented on the social network to detect spam comments), which utilizes natural-language processing techniques, and can also filter by user-specified keywords.[397][398][387]
+In September 2017, the company announced that public users would be able to limit who can comment on their content, such as only their followers or people they follow. At the same time, it updated its automated comment filter to support additional languages.[399][400]
+In July 2019, the service announced that it would introduce a system to proactively detect problematic comments and encourage the user to reconsider their comment, as well as allowing users the ability to "restrict" others' abilities to communicate with them, citing that younger users felt the existing block system was too much of an escalation.[85]
+An April 2022 study by the Center for Countering Digital Hate found that Instagram failed to act on 90% of abusive direct messages (DMs) sent to five high-profile women, despite the DMs being reported to moderators. The participants of the study included actress Amber Heard, journalist Bryony Gordon, television presenter Rachel Riley, activist Jamie Klingler and magazine founder Sharan Dhaliwal. Instagram disputed many of the study's conclusions.[401][402][403]
+
+Culture
+On August 9, 2012, English musician Ellie Goulding released a new music video for her song "Anything Could Happen." The video only contained fan-submitted Instagram photographs that used various filters to represent words or lyrics from the song, and over 1,200 different photographs were submitted.[404]
+
+Security
+In August 2017, reports surfaced that a bug in Instagram's developer tools had allowed "one or more individuals" to gain access to the contact information, specifically email addresses and phone numbers, of several high-profile verified accounts, including its most followed user, Selena Gomez. The company said in a statement that it had "fixed the bug swiftly" and was running an investigation.[405][406] However, the following month, more details emerged, with a group of hackers selling contact information online, with the affected number of accounts in the "millions" rather than the previously assumed limitation on verified accounts. Hours after the hack, a searchable database was posted online, charging $10 per search.[407] The Daily Beast was provided with a sample of the affected accounts, and could confirm that, while many of the email addresses could be found with a Google search in public sources, some did not return relevant Google search results and thus were from private sources.[408] The Verge wrote that cybersecurity firm RepKnight had found contact information for multiple actors, musicians, and athletes,[407] and singer Selena Gomez's account was used by the hackers to post naked photos of her ex-boyfriend Justin Bieber. The company admitted that "we cannot determine which specific accounts may have been impacted", but believed that "it was a low percentage of Instagram accounts", though TechCrunch stated in its report that six million accounts were affected by the hack, and that "Instagram services more than 700 million accounts; six million is not a small number".[409]
+In 2019, Apple pulled an app that let users stalk people on Instagram by scraping accounts and collecting data.[410]
+Iran has DPI blocking for Instagram.[411]
+
+Content ownership
+On December 17, 2012, Instagram announced a change to its Terms of Service policy, adding the following sentence:[412]
+
+To help us deliver interesting paid or sponsored content or promotions, you agree that a business or other entity may pay us to display your username, likeness, photos (along with any associated metadata), and/or actions you take, in connection with paid or sponsored content or promotions, without any compensation to you.
+There was no option for users to opt out of the changed Terms of Service without deleting their accounts before the new policy went into effect on January 16, 2013.[413] The move garnered severe criticism from users,[414][415] prompting Instagram CEO Kevin Systrom to write a blog post one day later, announcing that they would "remove" the offending language from the policy. Citing misinterpretations about its intention to "communicate that we'd like to experiment with innovative advertising that feels appropriate on Instagram", Systrom also stated that it was "our mistake that this language is confusing" and that "it is not our intention to sell your photos". Furthermore, he wrote that they would work on "updated language in the terms to make sure this is clear".[416][414]
+The policy change and its backlash caused competing photo services to use the opportunity to "try to lure users away" by promoting their privacy-friendly services,[417] and some services experienced substantial gains in momentum and user growth following the news.[418] On December 20, Instagram announced that the advertising section of the policy would be reverted to its original October 2010 version.[419] The Verge wrote about that policy as well, however, noting that the original policy gives the company right to "place such advertising and promotions on the Instagram Services or on, about, or in conjunction with your Content", meaning that "Instagram has always had the right to use your photos in ads, almost any way it wants. We could have had the exact same freakout last week, or a year ago, or the day Instagram launched".[412]
+The policy update also introduced an arbitration clause, which remained even after the language pertaining to advertising and user content had been modified.[420]
+
+Facebook acquisition as a violation of US antitrust law
+Columbia Law School professor Tim Wu has given public talks explaining that Facebook's 2012 purchase of Instagram was a felony.[421] A New York Post article published on February 26, 2019, reported that "the FTC had uncovered [a document] by a high-ranking Facebook executive who said the reason the company was buying Instagram was to eliminate a potential competitor".[422] As Wu explains, this is a violation of US antitrust law (see monopoly). Wu stated that this document was an email directly from Mark Zuckerberg, whereas the Post article had stated that their source had declined to say whether the high-ranking executive was the CEO. The article reported that the FTC "has formed a task force to review "anticompetitive conduct" in the tech world amid concerns that tech companies are growing too powerful. The task force will look at "the full panoply of remedies" if it finds "competitive harm," FTC competition bureau director Bruce Hoffman told reporters."
+
+Algorithmic advertisement with a rape threat
+In 2016, Olivia Solon, a reporter for The Guardian, posted a screenshot to her Instagram profile of an email she had received containing threats of rape and murder towards her. The photo post had received three likes and countless comments, and in September 2017, the company's algorithms turned the photo into an advertisement visible to Solon's sister. An Instagram spokesperson apologized and told The Guardian that "We are sorry this happened – it's not the experience we want someone to have. This notification post was surfaced as part of an effort to encourage engagement on Instagram. Posts are generally received by a small percentage of a person's Facebook friends." As noted by the technology media, the incident occurred at the same time parent company Facebook was under scrutiny for its algorithms and advertising campaigns being used for offensive and negative purposes.[423][424]
+
+Human exploitation
+In May 2021, The Washington Post published a report detailing a "black market" of unlicensed employment agents luring migrant workers from Africa and Asia into indentured servitude as maids in Persian Gulf countries, and using Instagram posts containing their personal information (including in some cases, passport numbers) to market them. Instagram deleted 200 accounts that had been reported by the Post, and a spokesperson stated that Instagram took this activity "extremely seriously", disabled 200 accounts found by the Post to be engaging in these activities, and was continuing to work on systems to automatically detect and disable accounts engaging in human exploitation.[425]
+
+Censorship and restricted content
+Illicit drugs
+Instagram has been the subject of criticism due to users publishing images of drugs they are selling on the platform. In 2013, the BBC discovered that users, mostly located in the United States, were posting images of drugs they were selling, attaching specific hashtags, and then completing transactions via instant messaging applications such as WhatsApp. Corresponding hashtags have been blocked as part of the company's response and a spokesperson engaged with the BBC explained:[426][427]
+
+Instagram has a clear set of rules about what is and isn't allowed on the site. We encourage people who come across illegal or inappropriate content to report it to us using the built-in reporting tools next to every photo, video or comment, so we can take action. People can't buy things on Instagram, we are simply a place where people share photos and videos.
+However, new incidents of illegal drug trade have occurred in the aftermath of the 2013 revelation, with Facebook, Inc., Instagram's parent company, asking users who come across such content to report the material, at which time a "dedicated team" reviews the information.[428]
+In 2019, Facebook announced that influencers are no longer able to post any vape, tobacco products, and weapons promotions on Facebook and Instagram.[429]
+
+Women's bodies
+In October 2013, Instagram deleted the account of Canadian photographer Petra Collins after she posted a photo of herself in which a very small area of pubic hair was visible above the top of her bikini bottom. Collins claimed that the account deletion was unfounded because it broke none of Instagram's terms and conditions.[430] Audra Schroeder of The Daily Dot further wrote that "Instagram's terms of use state users can't post "pornographic or sexually suggestive photos," but who actually gets to decide that? You can indeed find more sexually suggestive photos on the site than Collins', where women show the side of "femininity" the world is "used to" seeing and accepting."[431] Nick Drewe of The Daily Beast wrote a report the same month focusing on hashtags that users are unable to search for, including #sex, #bubblebutt, and #ballsack, despite allowing #faketits, #gunsforsale and #sexytimes, calling the discrepancy "nonsensical and inconsistent".[432]
+Similar incidents occurred in January 2015, when Instagram deleted Australian fashion agency Sticks and Stones Agency's account because of a photograph including pubic hair sticking out of bikini bottoms,[433] and March 2015, when artist and poet Rupi Kaur's photos of menstrual blood on clothing were removed, prompting a rallying post on her Facebook and Tumblr accounts with the text "We will not be censored", gaining over 11,000 shares.[434]
+The incidents have led to a #FreetheNipple campaign, aimed at challenging Instagram's removal of photos displaying women's nipples. Although Instagram has not made many comments on the campaign,[435] an October 2015 explanation from CEO Kevin Systrom highlighted Apple's content guidelines for apps published through its App Store, including Instagram, in which apps must designate the appropriate age ranking for users, with the app's current rating being 12+ years of age. However, this statement has also been called into question due to other apps with more explicit content allowed on the store, the lack of consequences for men exposing their bodies on Instagram, and for inconsistent treatment of what constitutes inappropriate exposure of the female body.[436][437]
+
+Censorship by countries
+This section needs expansion. You can help by adding to it.  (December 2021)Censorship of Instagram has occurred in several different countries.
+United States
+On January 11, 2020, Instagram and its parent company Facebook, Inc. are removing posts "that voice support for slain Iranian commander Qassem Soleimani to comply with US sanctions".[438]
+On October 30, 2020, Instagram temporarily removed the "recent" tab on hashtag pages to prevent the spread of misinformation regarding the 2020 United States presidential election.[439] On January 7, 2021, United States President Donald Trump was banned from Instagram "indefinitely". Zuckerberg stated "We believe the risks of allowing the President to continue to use our service during this period are simply too great."[440]
+A few days after Facebook changed its name to Meta, the artist and technologist Thea-Mai Baumann has lost access to her @metaverse Instagram handle. Bauman tried to reclaim her access for a month, without success. Only after The New York Times published the story and contacted Meta's PR department, was the access restored.[441]
+
+China
+See also: Internet censorship in China
+Instagram has been blocked by China following the 2014 Hong Kong protests as many confrontations with police and incidents occurring during the protests were recorded and photographed. Hong Kong and Macau were not affected as they are part of special administrative regions of China.[442]
+
+Turkey
+Turkey is also known for its strict Internet censorship and periodically blocks social media including Instagram.[443]
+
+North Korea
+See also: Internet in North Korea
+A few days after a fire incident that happened in the Koryo Hotel in North Korea on June 11, 2015, authorities began to block Instagram to prevent photos of the incident from being spread out.[444]
+
+Iran
+See also: Internet censorship in Iran
+As of February 2022, Instagram is one of the last freely available global social media sites in Iran.[445] Instagram is popular among Iranians because it is seen as an outlet for freedom and a "window to the world."[446]
+Still, Iran has sentenced several citizens to prison for posts made on their Instagram accounts.[447] The Iranian government also blocked Instagram periodically during anti-government protests.[448] In July 2021, Instagram temporarily censored videos with the phrase "death to Khamenei".[449]
+
+Cuba
+The Cuban government blocked access to several social media platforms, including Instagram, to curb the spread of information during the 2021 Cuban protests.[450]
+
+Russia
+On March 11, 2022, Russia announced it would ban Instagram due to alleged "calls for violence against Russian troops" on the platform during the ongoing 2022 Russian invasion of Ukraine.[451] On March 14, the ban took effect, with almost 80 million users losing access to Instagram.[452]
+
+Statistics
+As of December 2021, the most followed person is Portuguese professional footballer Cristiano Ronaldo with over 373 million followers.[453] As of January 14, 2019, the most-liked photo on Instagram is a picture of an egg, posted by the account @world_record_egg, created with the sole purpose of surpassing the previous record of 18 million likes on a Kylie Jenner post. As of January 2019, the picture has over 55 million likes.[454] The second most-liked photo is a wedding photo of Ariana Grande and her husband Dalton Gomez.[455] Instagram was the fourth most downloaded mobile app of the 2010s.[453]
+
+In popular culture
+Social Animals (documentary film): A documentary film about three teenagers growing up on Instagram
+Instagram model: a term for models who gain their success as a result of the large number of followers they have on Instagram
+Instapoetry: a style of poetry which formed by sharing images of short poems by poets on Instagram.
+Instagram Pier: a cargo working area in Hong Kong that gained its nickname due to its popularity on Instagram
+System
+Instagram is written in Python.[456]
+Instagram artificial intelligence (AI) describes content for visually impaired people that use screen readers.[457]
+
+See also
+
+
+Internet portal
+Companies portal
+List of social networking services
+Criticism of Facebook
+Dronestagram
+Internet celebrity
+Pheed
+Pixnet
+Social media and suicide
+Timeline of social media
+Notes
+
+
+^ The name is often colloquially abbreviated as IG, Insta, or the Gram.[9]
+
+
+References
+
+
+^ "Instagram APKs". APKMirror.
+
+^ "‎Instagram". App Store.
+
+^ "Instagram". Amazon Appstore for Android.
+
+^ a b "Instagram APKs". APKMirror.
+
+^ "Instagram". App Store.
+
+^ "Instagram APKs". APKMirror.
+
+^ "Amazon.com: Instagram: Appstore for Android". www.amazon.com.
+
+^ "Instagram". App Store. Retrieved October 7, 2019.
+
+^ For example:Edwards, Erica B.; Esposito, Jennifer (2019). "Reading social media intersectionally". Intersectional Analysis as a Method to Analyze Popular Culture: Clarity in the Matrix. Futures of Data Analysis in Qualitative Research. Abingdon: Routledge. ISBN 978-0-429-55700-2. Retrieved May 7, 2020. Instagram (IG) is a photo sharing app created in October of 2010 allowing users to share photos and videos.
+
+^ a b "Instagram Stories is Now Being Used by 500 Million People Daily". Social Media Today. Retrieved April 16, 2019.
+
+^ "Instagram hits 1 billion monthly users, up from 800M in September". TechCrunch. Retrieved October 23, 2020.
+
+^ a b Lagorio, Christine (June 27, 2011). "Kevin Systrom and Mike Krieger, Founders of Instagram". Inc. Retrieved October 4, 2011.
+
+^ Sengupta, Somini; Perlroth, Nicole; Wortham, Jenna (April 13, 2012). "Behind Instagram's Success, Networking the Old Way". The New York Times. Archived from the original on April 14, 2012. Retrieved April 12, 2017.
+
+^ a b "Take a Look Back at Instagram's First Posts, Six Years Ago". Time. Retrieved February 10, 2020.
+
+^ "5 Of The Most Popular Instagram Accounts". Yahoo! Finance. Retrieved February 10, 2020.
+
+^ Siegler, MG (March 5, 2010). "Burbn's Funding Goes Down Smooth. Baseline, Andreessen Back Stealthy Location Startup". TechCrunch. AOL. Retrieved April 12, 2017.
+
+^ a b c Shontell, Alyson (April 9, 2012). "Meet The 13 Lucky Employees And 9 Investors Behind $1 Billion Instagram". Business Insider. Retrieved April 12, 2017.
+
+^ Beltrone, Gabriel (July 29, 2011). "Instagram Surprises With Fifth Employee". Adweek. Beringer Capital. Retrieved April 12, 2017.
+
+^ "Instagram post by Mike Krieger • Jul 16, 2010 at 5:26pm UTC". Instagram. Retrieved February 10, 2020.
+
+^ "Instagram post by Kevin Systrom • Jul 16, 2010 at 9:24pm UTC". Instagram.
+
+^ "Here's The First Instagram Photo Ever". Time.
+
+^ Siegler, MG (October 6, 2010). "Instagram Launches with the Hope of Igniting Communication Through Images". TechCrunch. AOL. Retrieved April 8, 2017.
+
+^ Siegler, MG (February 2, 2011). "Instagram Filters Through Suitors To Capture $7 Million in Funding Led By Benchmark". TechCrunch. AOL. Retrieved April 22, 2017.
+
+^ Markowitz, Eric (April 10, 2012). "How Instagram Grew From Foursquare Knock-Off to $1 Billion Photo Empire". Inc. Mansueto Ventures. Retrieved April 22, 2017.
+
+^ Tsotsis, Alexia (April 9, 2012). "Right Before Acquisition, Instagram Closed $50M at A$500M Valuation From Sequoia, Thrive, Greylock And Benchmark". TechCrunch. AOL. Retrieved April 22, 2017.
+
+^ "The 26-Year-Old VC Who Cashed In On Instagram". Forbes. Retrieved January 2, 2016.
+
+^ a b Tsotsis, Alexia (April 3, 2012). "With Over 30 Million Users on iOS, Instagram Finally Comes To Android". TechCrunch. AOL. Retrieved April 8, 2017.
+
+^ Houston, Thomas (April 3, 2012). "Instagram for Android now available". The Verge. Retrieved April 8, 2017.
+
+^ Blagdon, Jeff (April 4, 2012). "Instagram for Android breaks 1 million downloads in less than a day". The Verge. Retrieved April 22, 2017.
+
+^ Bell, Karissa (March 11, 2014). "Instagram Releases Faster, More Responsive Android App". Mashable. Retrieved April 24, 2017.
+
+^ Cohen, David (March 11, 2014). "Twice As Quick, Half As Large: Instagram Updates Android App". Adweek. Beringer Capital. Retrieved April 24, 2017.
+
+^ Constine, Josh (April 18, 2017). "Instagram on Android gets offline mode". TechCrunch. AOL. Retrieved April 24, 2017.
+
+^ O'Kane, Sean (April 19, 2017). "Instagram for Android now works offline". The Verge. Retrieved April 24, 2017.
+
+^ Ghoshal, Abhimanyu (April 19, 2017). "Instagram now works offline on Android". The Next Web. Retrieved April 24, 2017.
+
+^ Upbin, Bruce (April 9, 2012). "Facebook Buys Instagram For $1 Billion. Smart Arbitrage". Forbes. Retrieved April 22, 2017.
+
+^ Rusli, Evelyn M. (April 9, 2012). "Facebook Buys Instagram for $1 Billion". The New York Times. Retrieved April 22, 2017.
+
+^ Oreskovic, Alexei; Shih, Gerry (April 10, 2012). "Facebook to buy Instagram for $1 billion". Reuters. Retrieved April 22, 2017.
+
+^ Constine, Josh; Cutler, Kim-Mai (April 9, 2012). "Facebook Buys Instagram For $1 Billion, Turns Budding Rival into Its Standalone Photo App". TechCrunch. AOL. Retrieved April 22, 2017.
+
+^ Houston, Thomas (April 9, 2012). "Facebook to buy Instagram for $1 billion". The Verge. Retrieved April 22, 2017.
+
+^ a b c d Segall, Laurie (April 9, 2012). "Facebook acquires Instagram for $1 billion". CNNMoney. Retrieved April 22, 2017.
+
+^ "Facebook's Instagram bid gets go-ahead from the OFT". BBC. August 14, 2012. Retrieved April 22, 2017.
+
+^ Oreskovic, Alexei (August 22, 2012). "FTC clears Facebook's acquisition of Instagram". Reuters. Retrieved April 22, 2017.
+
+^ Protalinski, Emil (April 23, 2012). "Facebook buying Instagram for $300 million, 23 million shares". ZDNet. Retrieved April 22, 2017.
+
+^ Isaac, Mike (April 9, 2012). "Exclusive: Facebook Deal Nets Instagram CEO $400 Million". Wired. Retrieved April 22, 2017.
+
+^ Hamburger, Ellis (November 5, 2012). "Instagram launches web profiles, but maintains clear focus on mobile". The Verge. Retrieved April 22, 2017.
+
+^ "Instagram Launches Embeddable "Badges" To Help You Promote Your Beautiful Profile On The Web". TechCrunch. November 21, 2012. Retrieved April 17, 2021.
+
+^ Carr, Austin (March 25, 2014). "Instagram Testing Facebook Places Integration To Replace Foursquare". Fast Company. Retrieved April 24, 2017.
+
+^ Steele, Billy (March 25, 2014). "Instagram is testing Facebook Places integration for location tagging". Engadget. AOL. Retrieved April 24, 2017.
+
+^ Kastrenakes, Jacob (June 9, 2015). "Instagram is launching a redesigned website with bigger photos". The Verge. Retrieved April 22, 2017.
+
+^ Lopez, Napier (June 9, 2015). "Instagram for the Web is getting a cleaner, flatter redesign". The Next Web. Retrieved April 22, 2017.
+
+^ Shadman, Aadil (June 11, 2015). "Instagram on Web Just Got a Major Design Overhaul". propakistani.pk.
+
+^ "Pre-2015 Instagram website layout screenshot".
+
+^ "Pre-June-2015 Instagram website layout screenshot with "slideshow banner"".
+
+^ Warren, Tom (March 6, 2013). "Nokia wants Instagram for Windows Phone, piles pressure on with #2InstaWithLove". The Verge. Retrieved April 8, 2017.
+
+^ Rubino, Daniel (March 5, 2013). "Nokia releases #2InstaWithLove social app to put some pressure on Instagram". Windows Central. Mobile Nations. Retrieved April 8, 2017.
+
+^ Warren, Tom (October 22, 2013). "Official Instagram Windows Phone app arriving in the 'coming weeks'". The Verge. Retrieved April 8, 2017.
+
+^ Warren, Tom (November 20, 2013). "Instagram arrives on Windows Phone, lacks video recording". The Verge. Retrieved April 8, 2017.
+
+^ Dredge, Stuart (November 20, 2013). "Instagram arrives on Windows Phone (and yes, you CAN take photos)". The Guardian. Retrieved April 8, 2017.
+
+^ Warren, Tom (April 28, 2016). "Instagram launches on Windows 10 Mobile, finally gets video support". The Verge. Retrieved April 8, 2017.
+
+^ Warren, Tom (October 14, 2016). "Instagram arrives on Windows 10 PCs and tablets, still not on iPad". The Verge. Retrieved April 8, 2017.
+
+^ Protalinski, Emil (October 13, 2016). "Instagram launches for Windows 10 PCs and tablets". VentureBeat. Retrieved April 8, 2017.
+
+^ Carman, Ashley (May 8, 2017). "You can now upload Instagram photos from its mobile website". The Verge. Retrieved May 9, 2017.
+
+^ Constine, Josh (May 8, 2017). "Instagram launches mobile web sharing to pursue global growth". TechCrunch. AOL. Retrieved May 9, 2017.
+
+^ Kastrenakes, Jacob (May 11, 2016). "Instagram launches redesigned app and icon". The Verge. Retrieved April 24, 2017.
+
+^ Perez, Sarah (May 11, 2016). "Instagram's big redesign goes live with a colorful new icon, black-and-white app and more". TechCrunch. AOL. Retrieved April 24, 2017.
+
+^ Titcomb, James (May 11, 2016). "Instagram is changing its iconic logo – here's why". The Daily Telegraph. Archived from the original on January 10, 2022. Retrieved April 24, 2017.
+
+^ Newton, Casey (April 26, 2016). "Instagram is testing a new black-and-white design". The Verge. Retrieved April 24, 2017.
+
+^ "How To Turn Off Comments On Instagram". Bustle.
+
+^ "Instagram fights abuse with comment disabling and liking". Tech Crunch.
+
+^ O'Brien, Sara Ashley (December 6, 2016). "Instagram finally lets users disable comments". CNNMoney.
+
+^ Zoll, Keiko (May 10, 2017). "Here's How To Use The New Instagram Mobile Website". Romper.
+
+^ "You Can Now Upload Photos to Instagram Without the Mobile App". Later Blog. May 4, 2017. Retrieved August 26, 2021.
+
+^ "Instagram launches "Data Download" tool to let you leave". TechCrunch. Retrieved October 24, 2020.
+
+^ Gartenberg, Chaim (April 24, 2018). "Instagram adds new data download tool to export pictures and user information". The Verge. Retrieved October 24, 2020.
+
+^ Canales, Katie (April 24, 2018). "Instagram is rolling out a feature that will let you download all of your photos and past searches in one fell swoop". Business Insider. Retrieved October 24, 2020.
+
+^ Systrom, Kevin (September 24, 2018). "Statement from Kevin Systrom, Instagram Co-Founder and CEO". Instagram. Retrieved September 25, 2018.
+
+^ Kesbeh, Dina (September 25, 2018). "Instagram Co-Founders To Step Down". NPR. Retrieved September 25, 2018.
+
+^ "Former Facebook News Feed head Adam Mosseri to lead Instagram". NBC News. October 1, 2018.
+
+^ Constine, Josh (October 1, 2018). "Meet Adam Mosseri, the new head of Instagram". TechCrunch.
+
+^ a b Carman, Ashley (April 30, 2019). "Instagram will test hiding public like counts in Canada". The Verge. Retrieved December 29, 2019.
+
+^ Shaban, Hamza (May 1, 2019). "Here's why Instagram is going to hide your 'likes'". The Washington Post. Retrieved May 1, 2019.
+
+^ a b c "Instagram hides likes count 'to remove pressure'". BBC News. July 18, 2019. Retrieved December 29, 2019.
+
+^ Carman, Ashley (July 17, 2019). "Instagram expands its test to hide like counts". The Verge. Retrieved December 29, 2019.
+
+^ Yurieff, Kaya (November 14, 2019). "Instagram is now testing hiding likes worldwide". CNN. Retrieved December 29, 2019.
+
+^ a b Bryant, Miranda (July 9, 2019). "Instagram's anti-bullying AI asks users: 'Are you sure you want to post this?'". The Guardian.
+
+^ Lee, Dami (October 7, 2019). "Instagram's Following tab is going away this week". The Verge. Retrieved December 29, 2019.
+
+^ "Instagram will no longer snitch on your thirsty late-night likes". Mic. Retrieved December 29, 2019.
+
+^ Lakshmanan, Ravie. "Instagram now forces people to sign in to view public profiles". Archived from the original on October 30, 2019. Retrieved May 31, 2020.
+
+^ Bell, Karissa (October 24, 2019). "You can't lurk on Instagram anymore unless you're logged in". Mashable. Archived from the original on May 20, 2020. Retrieved May 31, 2020.
+
+^ "Is there a reason why we can no longer view instagram profiles without having to log in?: Instagram". Archived from the original on May 31, 2020. Retrieved May 31, 2020.
+
+^ "Instagram has announced a new feature that lets you share posts over video chat, and the platform sped up the rollout to make it available now that more people are quarantining amid the coronavirus outbreak". Business Insider. Retrieved March 24, 2020.
+
+^ "A look inside Reels: Can Instagram's new feature beat TikTok?". www.businessofbusiness.com. August 11, 2020.
+
+^ Carman, Ashley (August 19, 2020). "Instagram rolls out suggested posts to keep you glued to your feed". The Verge. Retrieved October 23, 2020.
+
+^ "Instagram Testing TikTok-Inspired Vertical Stories in Its App". iPhone Hacks | #1 iPhone, iPad, iOS Blog. February 3, 2021. Retrieved February 4, 2021.
+
+^ "Instagram removing the option to share posts in Stories for some users". The Independent. February 3, 2021. Retrieved February 4, 2021.
+
+^ Carman, Ashley (March 1, 2021). "Instagram's new Live Rooms feature lets up to four people go live at once". The Verge. Retrieved March 1, 2021.
+
+^ a b "Jack Ma's SCMP Joins Hong Kong Media Groups Facing China Control". Bloomberg.com. March 16, 2021. Retrieved March 16, 2021.
+
+^ a b Klar, Rebecca (March 16, 2021). "Instagram to restrict direct messages between teens and adults they don't follow". TheHill. Retrieved March 16, 2021.
+
+^ a b "Instagram stops adults from DMing teens who don't follow them". Engadget. Retrieved March 16, 2021.
+
+^ "A safe version of Instagram". NetMag. March 20, 2021. Retrieved April 22, 2021.
+
+^ @instagram (May 11, 2021). "Add pronouns to your profile ✨" (Tweet) – via Twitter. {{cite web}}: |author= has generic name (help)
+
+^ Carman, Ashley (May 11, 2021). "Instagram will let people list their pronouns on their profiles". The Verge. Retrieved May 15, 2021.
+
+^ Subin, Samantha (October 4, 2021). "Facebook is suffering its worst outage since 2008". CNBC. Retrieved October 4, 2021.{{cite web}}:  CS1 maint: url-status (link)
+
+^ "Facebook, WhatsApp, Instagram suffer worldwide outage". Associated Press. October 4, 2021. Retrieved October 4, 2021.
+
+^ Duffy, Clare; Lyngaas, Sean (October 4, 2021). "Facebook, Instagram, WhatsApp go down". CNN Business. Retrieved October 4, 2021.{{cite web}}:  CS1 maint: url-status (link)
+
+^ Smith, Timothy (March 16, 2022). "Zuckerberg Announces Instagram Will Incorporate NFTs".
+
+^ Buck, Stephanie (May 30, 2012). "The Beginner's Guide to Instagram". Yahoo!. Archived from the original on April 29, 2016. Retrieved April 22, 2017.
+
+^ "Posting & Adding Locations". Instagram Help. Instagram. Retrieved April 22, 2017.
+
+^ Grant, Megan (December 6, 2016). "How To Remove Followers On Instagram, As Long As You Have A Private Account". Bustle. Bustle Digital Group. Retrieved December 7, 2017.
+
+^ Frommer, Dan (November 1, 2010). "Here's How To Use Instagram". Business Insider. Retrieved April 22, 2017.
+
+^ Van Grove, Jennifer (September 20, 2011). "Instagram 2.0 Launches: A Faster App With Live Filters & Hi-Res Photos". Mashable. Retrieved April 22, 2017.
+
+^ Geere, Duncan (September 20, 2011). "Instagram Adds High-Res Photos, New Filters in Version 2.0". Wired. Retrieved April 22, 2017.
+
+^ Setalvad, Ariha (August 27, 2015). "You can now post full-size landscape and portrait photos on Instagram". The Verge. Retrieved April 22, 2017.
+
+^ Williams, Rhiannon (August 27, 2015). "Instagram finally drops square picture rules to embrace rectangular photos". The Daily Telegraph. Archived from the original on January 10, 2022. Retrieved April 22, 2017.
+
+^ Stinson, Liz (August 27, 2015). "Instagram Ends the Tyranny of the Square". Wired. Retrieved April 22, 2017.
+
+^ Newton, Casey (September 6, 2016). "Instagram is getting rid of photo maps". The Verge. Retrieved April 28, 2017.
+
+^ Hinchcliffe, Emma (September 6, 2016). "Instagram is killing photo maps". Mashable. Retrieved April 28, 2017.
+
+^ Bell, Karissa (December 14, 2016). "No more screenshots: Instagram now lets you privately save posts". Mashable. Retrieved April 28, 2017.
+
+^ Garun, Natt (December 14, 2016). "You can now bookmark Instagram posts to look at later". The Verge. Retrieved April 28, 2017.
+
+^ Welch, Chris (April 17, 2017). "Instagram's saved posts can now be organized into Pinterest-like collections". The Verge. Retrieved April 28, 2017.
+
+^ Fingas, Jon (April 17, 2017). "Instagram goes after Pinterest with saved post collections". Engadget. AOL. Retrieved April 28, 2017.
+
+^ Constine, Josh (May 22, 2017). "Instagram deters deletion with reversible "archive" option". TechCrunch. AOL. Retrieved May 23, 2017.
+
+^ Miller, Chance (May 22, 2017). "Instagram rolling out new 'archive' option for temporarily hiding posts". 9to5Mac. Retrieved May 23, 2017.
+
+^ Newton, Casey (August 15, 2017). "Instagram begins organizing comments into threads". The Verge. Retrieved November 8, 2017.
+
+^ Constine, Josh (August 15, 2017). "Facebook and Instagram get redesigns for readability". TechCrunch. Retrieved November 8, 2017.
+
+^ a b Constine, Josh (February 22, 2017). "Instagram lets you post up to 10 photos or videos as 1 swipeable carousel". TechCrunch. AOL. Retrieved April 28, 2017.
+
+^ a b Pierce, David (February 22, 2017). "Instagram Galleries Are Yet Another Reason to Never Leave Instagram". Wired. Retrieved April 28, 2017.
+
+^ Kastrenakes, Jacob (August 29, 2017). "Instagram now lets you post landscape and portrait photo albums". The Verge. Retrieved November 8, 2017.
+
+^ Hall, Zac (August 29, 2017). "Instagram now lets you share portrait and landscape shots in galleries". 9to5Mac. Retrieved November 8, 2017.
+
+^ "Instagram launches a portrait mode and a new way to tag friends in Stories". The Verge. Retrieved April 10, 2018.
+
+^ Carman, Ashley (November 28, 2018). "Instagram is now using AI to describe photos for users with visual impairments". The Verge. Retrieved December 29, 2019.
+
+^ "Instagram Live "Rooms" Let Four People Go Live Together". BuzzFeed News. Retrieved March 1, 2021.
+
+^ "Instagram adds a captions option for Stories and soon, Reels". TechCrunch. Retrieved May 4, 2021.
+
+^ Van Grove, Jennifer (January 27, 2011). "Instagram Introduces Hashtags for Users & Brands". Mashable. Retrieved April 22, 2017.
+
+^ "Introducing Hashtags on Instagram". Instagram Blog. Instagram. January 26, 2011. Archived from the original on January 23, 2012. Retrieved April 22, 2017.
+
+^ "Instagram Tips: Using Hashtags". Instagram Blog. Instagram. February 15, 2012. Archived from the original on February 17, 2012. Retrieved April 22, 2017.
+
+^ "#ThrowbackThursday is only the start: Instagram hashtags for every day of the week". Digital Trends. May 4, 2017. Retrieved May 31, 2017.
+
+^ "Instagram's Most Popular Hashtags Explained". Wix.com. March 4, 2015. Retrieved May 31, 2017.
+
+^ Popper, Ben (December 12, 2017). "Instagram gets more #interesting". The Verge. Retrieved December 15, 2017.
+
+^ Constine, Josh (December 12, 2017). "Instagram becomes an interest network with hashtag following". TechCrunch. Oath Inc. Retrieved December 15, 2017.
+
+^ Constine, Josh (June 25, 2012). "Instagram's New "Explore" Brings The Future of Photo Discovery into Focus". TechCrunch. AOL. Retrieved April 28, 2017.
+
+^ Buhr, Sarah; Constine, Josh (June 23, 2015). "Instagram Gets Newsy With Trends And Place Search For Exploring Anything, Anywhere". TechCrunch. AOL. Retrieved April 28, 2017.
+
+^ Welch, Chris (April 14, 2016). "Instagram makes video an even bigger part of its Explore tab". The Verge. Retrieved April 28, 2017.
+
+^ Constine, Josh (April 14, 2016). "Instagram launches personalized video feed and themed channels in Explore". TechCrunch. AOL. Retrieved April 28, 2017.
+
+^ Tepper, Fitz (August 17, 2016). "Instagram adds an Events channel to show you the best videos from concerts and sporting events". TechCrunch. AOL. Retrieved April 28, 2017.
+
+^ Kokalitcheva, Kia (August 17, 2016). "Instagram Now Lets Users Discover New Events-Themed Videos". Fortune. Retrieved April 28, 2017.
+
+^ Newton, Casey (October 18, 2016). "Instagram brings stories to the explore tab". The Verge. Retrieved April 28, 2017.
+
+^ Yeung, Ken (October 18, 2016). "Instagram adds Stories to search and explore tab". VentureBeat. Retrieved April 28, 2017.
+
+^ a b Constine, Josh (November 21, 2016). "Instagram launches disappearing Live video and messages". TechCrunch. AOL. Retrieved April 22, 2017.
+
+^ a b Constine, Josh (May 23, 2017). "Instagram launches Story Search for hashtags and locations". TechCrunch. AOL. Retrieved May 23, 2017.
+
+^ Lofte, Leanna (February 11, 2012). "Instagram introduces Lux, a new way to enhance your photos". iMore. Retrieved April 30, 2017.
+
+^ White, Charlie (February 11, 2012). "Instagram Upgrade Introduces a Powerful New Feature". Mashable. Retrieved April 30, 2017.
+
+^ "Five New Filters". Instagram Blog. Archived from the original on December 16, 2014. Retrieved August 3, 2016.
+
+^ Taylor, Colleen (June 20, 2013). "Instagram Launches 15-Second Video Sharing Feature, With 13 Filters And Editing". TechCrunch. AOL. Retrieved April 30, 2017.
+
+^ Warren, Christina (June 20, 2013). "Instagram Adds Video". Mashable. Retrieved April 30, 2017.
+
+^ Langer, Eli (June 23, 2013). "Instagram Video Taking a Swing at Vine: Study". CNBC. Retrieved April 30, 2017.
+
+^ Madrigal, Alexis C. (June 20, 2013). "#TeamVine: Instagram Has Video Now, but Not a Video-Making Culture". The Atlantic. Retrieved April 30, 2017.
+
+^ Meyer, Robinson (August 27, 2015). "It's No Longer Hip to Be Square—on Instagram, At Least". The Atlantic. Retrieved April 30, 2017.
+
+^ Lelinwalla, Mark (August 27, 2015). "Instagram Now Supports Widescreen Images And Videos". Tech Times. Retrieved April 30, 2017.
+
+^ Strange, Adario (March 29, 2016). "You can now post 60-second videos on Instagram". Mashable. Retrieved April 30, 2017.
+
+^ Roettgers, Janko (March 29, 2016). "Instagram Bumps Up Video Length From 15 to 60 Seconds". Variety. Retrieved April 30, 2017.
+
+^ "Share Up to 10 Photos and Videos in One Ad or Post". Instagram for Business.
+
+^ "INTRODUCING IGTV – The next generation of video" on Business.Instagram.com.
+
+^ a b "What are the video upload requirements for IGTV?". Instagram Help Center. Retrieved June 27, 2018.
+
+^ "Instagram announces IGTV, a standalone app for longer videos". The Verge. Retrieved June 22, 2018.
+
+^ Rosney, Daniel (June 20, 2018). "Instagram now allows 60-minute videos". BBC News. Retrieved June 21, 2018.
+
+^ "Instagram launches IGTV app for creators, 1-hour video uploads". TechCrunch. Retrieved June 21, 2018.
+
+^ Vincent, James (November 12, 2019). "Instagram is testing a new video editing tool called Reels that copies TikTok's best features". The Verge. Retrieved August 7, 2020.
+
+^ Vincent, James (November 12, 2019). "Instagram is testing a new video editing tool called Reels that copies TikTok's best features". The Verge. Retrieved December 29, 2019.
+
+^ "5 interesting facts about Instagram Reels". India Today. August 4, 2020.
+
+^ Porter, Jon (July 6, 2020). "Instagram's Reels feature reportedly expands to India following TikTok ban". The Verge. Retrieved August 7, 2020.
+
+^ Alexander, Julia (August 5, 2020). "Instagram launches Reels, its attempt to keep you off TikTok". The Verge. Retrieved August 5, 2020.
+
+^ Mehta, Ivan (September 4, 2020). "Instagram introduces a Reels button on its home screen so you might finally watch some". The Next web. Retrieved September 4, 2020.
+
+^ Kastrenakes, Jacob (June 17, 2021). "Instagram Reels now has ads". The Verge. Retrieved June 18, 2021.
+
+^ Crook, Jordan (December 12, 2013). "Instagram Introduces Instagram Direct". TechCrunch. AOL. Retrieved April 23, 2017.
+
+^ Hamburger, Ellis (December 12, 2013). "Instagram announces Instagram Direct for private photo, video, and text messaging". The Verge. Retrieved April 23, 2017.
+
+^ Segall, Laurie (December 12, 2013). "Instagram launches direct messaging". CNN. Retrieved April 23, 2017.
+
+^ Setalvad, Ariha (September 1, 2015). "Instagram Direct gets a huge update focused on messaging your friends". The Verge. Retrieved April 23, 2017.
+
+^ McHugh, Molly (September 1, 2015). "Today's Instagram Update Could Ease the Dreaded @ Wars". Wired. Retrieved April 23, 2017.
+
+^ Kokalitcheva, Kia (September 1, 2015). "Instagram takes on Twitter's direct messages with these new features". Fortune. Retrieved April 23, 2017.
+
+^ Kahn, Jordan (November 21, 2016). "Instagram launches live video for Stories, disappearing photos & videos in direct messages". 9to5Mac. Retrieved April 23, 2017.
+
+^ Ingraham, Nathan (November 21, 2016). "Instagram adds live video broadcasts and disappearing photos". Engadget. AOL. Retrieved April 23, 2017.
+
+^ a b Constine, Josh (April 11, 2017). "Instagram Direct unites ephemeral and permanent messaging for 375M users". TechCrunch. AOL. Retrieved April 23, 2017.
+
+^ a b Gottsegen, Gordon (April 11, 2017). "Instagram Direct messages just became more like Snapchat". CNET. Retrieved April 23, 2017.
+
+^ a b Kastrenakes, Jacob (April 11, 2017). "Instagram Direct now combines permanent and ephemeral chats". The Verge. Retrieved April 23, 2017.
+
+^ Gartenberg, Chaim (May 25, 2017). "Instagram is just now offering support for sending links in direct messages". The Verge. Retrieved May 25, 2017.
+
+^ Etherington, Darrell (May 25, 2017). "Instagram direct messages now support web links and different photo orientations". TechCrunch. AOL. Retrieved May 25, 2017.
+
+^ Carman, Ashley (April 10, 2020). "Everyone can now access their Instagram DMs on the web". The Verge. Retrieved August 5, 2020.
+
+^ Amadeo, Ron (August 17, 2020). "Facebook Messenger starts taking over Instagram Direct messages". Ars Technica. Retrieved August 19, 2020.
+
+^ Constine, Josh (August 2, 2016). "Instagram launches "Stories," a Snapchatty feature for imperfect sharing". TechCrunch. AOL. Retrieved April 22, 2017.
+
+^ Newton, Casey (August 2, 2016). "Instagram's new stories are a near-perfect copy of Snapchat stories". The Verge. Retrieved April 22, 2017.
+
+^ Johnson, Eric (June 5, 2017). "Did Instagram copy Snapchat? Not exactly, Instagram CEO Kevin Systrom says". Recode. Retrieved June 14, 2017.
+
+^ Krishna, Swapna (June 5, 2017). "Instagram CEO downplays criticism that it copied Snapchat". Engadget. AOL. Retrieved June 14, 2017.
+
+^ Newton, Casey (November 21, 2016). "Instagram's take on live video arrives with an ephemeral twist". The Verge. Retrieved April 22, 2017.
+
+^ a b Constine, Josh (January 11, 2017). "Instagram Stories hits 150M daily users, launches skippable ads". TechCrunch. AOL. Retrieved April 22, 2017.
+
+^ a b Titcomb, James (January 11, 2017). "Instagram to show more adverts by putting them in Stories". The Daily Telegraph. Archived from the original on January 10, 2022. Retrieved April 22, 2017.
+
+^ a b c Roettgers, Janko (April 13, 2017). "Instagram Clocks 200 Million Daily Users for Its Snapchat Stories Clone". Variety. Retrieved April 22, 2017.
+
+^ a b Constine, Josh (April 13, 2017). "Instagram Stories hits 200M users, surpassing Snapchat as it copies its AR stickers". TechCrunch. AOL. Retrieved April 22, 2017.
+
+^ a b Statt, Nick (April 13, 2017). "Instagram Stories is now more popular than the app it was designed to kill". The Verge. Retrieved April 22, 2017.
+
+^ O'Kane, Sean (May 16, 2017). "Instagram adds augmented reality face filters". The Verge. Retrieved May 23, 2017.
+
+^ Constine, Josh (May 16, 2017). "Instagram launches selfie filters, copying the last big Snapchat feature". TechCrunch. AOL. Retrieved May 23, 2017.
+
+^ Constine, Josh (May 16, 2017). "Instagram tests Location Stories". TechCrunch. AOL. Retrieved May 23, 2017.
+
+^ Newton, Casey (May 23, 2017). "You can now search Instagram Stories by location and hashtag". The Verge. Retrieved May 23, 2017.
+
+^ a b Constine, Josh (June 20, 2017). "Instagram Stories hits 250M daily users, adds Live video replays". TechCrunch. AOL. Retrieved June 20, 2017.
+
+^ Kastrenakes, Jacob (July 6, 2017). "Instagram now lets you reply to stories with photos and videos". The Verge. Retrieved July 7, 2017.
+
+^ Etherington, Darrell (July 6, 2017). "You can now reply to Instagram Stories with photos and video". TechCrunch. AOL. Retrieved July 7, 2017.
+
+^ Garun, Natt (August 31, 2017). "You can now view Instagram Stories on the web". The Verge. Retrieved November 8, 2017.
+
+^ Lumb, David (August 31, 2017). "Instagram Stories now work in your browser". Engadget. Oath Inc. Retrieved November 8, 2017.
+
+^ "How do I add a story to my Story Highlights? | Instagram Help Center". help.instagram.com.
+
+^ "Instagram". Tej SolPro. Retrieved September 16, 2019.
+
+^ Tsotsis, Alexia (April 2, 2013). "Monetization TBD ... Instagram Hires Facebook's Emily White As Director of Business Operations". TechCrunch. AOL. Retrieved April 23, 2017.
+
+^ Shontell, Alyson (September 9, 2013). "Emily White Has The Large Task of Turning A Zero-Revenue Business For Facebook into A Money-Making Machine". Business Insider. Retrieved April 23, 2017.
+
+^ Rusli, Evelyn M. (September 8, 2013). "Instagram Pictures Itself Making Money". Wall Street Journal.
+
+^ Dugdale, Addy (December 4, 2013). "Snapchat Snaps Up Facebook And Instagram's Emily White As Its New COO". Fast Company. Retrieved April 23, 2017.
+
+^ Bort, Julie (December 3, 2013). "Snapchat Just Nabbed An Important Advertising Exec Away From Facebook". Business Insider. Retrieved April 23, 2017.
+
+^ Wagner, Kurt (August 13, 2014). "Instagram Hires New Ad Chief". Recode. Retrieved April 23, 2017.
+
+^ Panzarino, Matthew (October 3, 2013). "Instagram To Start Showing In-Feed Video And Image Ads To US Users". TechCrunch. AOL. Retrieved April 23, 2017.
+
+^ Covert, Adrian (October 3, 2013). "Instagram: Now with ads". CNN. Retrieved April 23, 2017.
+
+^ Welch, Chris (November 1, 2013). "Instagram launches ads with sponsored post from Michael Kors". The Verge. Retrieved April 23, 2017.
+
+^ Van Grove, Jennifer (November 1, 2013). "The preview is over: Instagram ads are here". CNET. Retrieved April 23, 2017.
+
+^ Kastrenakes, Jacob (October 30, 2014). "Instagram launches video ads today". The Verge. Retrieved April 23, 2017.
+
+^ Sawers, Paul (October 30, 2014). "Instagram video ads are rolling out today, watch 4 of them here". The Next Web. Retrieved April 23, 2017.
+
+^ Dove, Jackie (June 9, 2014). "Instagram will introduce ads in the UK, Canada and Australia 'later this year'". The Next Web. Retrieved April 23, 2017.
+
+^ Ong, Josh (September 17, 2014). "Instagram to introduce advertising in the UK in 'the coming weeks'". The Next Web. Retrieved April 23, 2017.
+
+^ Sloane, Garett (March 4, 2015). "Instagram Unveils New Features for Advertisers, From Carousel-Style Photos to Web Links". Adweek. Beringer Capital. Retrieved April 23, 2017.
+
+^ Oreskovic, Alexei (March 4, 2015). "Facebook's Instagram rolls out new 'carousel' ads". Reuters. Retrieved April 23, 2017.
+
+^ Swant, Marty (October 30, 2015). "Why Offering Self-Service Carousel Ads Could Attract More Marketers to Instagram". Adweek. Beringer Capital. Retrieved April 23, 2017.
+
+^ Sullivan, Mark (October 29, 2015). "Instagram will sell carousel ads to businesses via self-service". VentureBeat. Retrieved April 23, 2017.
+
+^ Morrison, Maureen (May 3, 2016). "Instagram Adds Video to Ad Carousel". Advertising Age. Crain Communications. Retrieved April 23, 2017.
+
+^ Ha, Anthony (February 24, 2016). "There Are Now 200K Advertisers on Instagram". TechCrunch. AOL. Retrieved April 23, 2017.
+
+^ Ha, Anthony (September 22, 2016). "And now there are 500K active advertisers on Instagram". TechCrunch. AOL. Retrieved April 23, 2017.
+
+^ Ingram, David (March 22, 2017). "Instagram says advertising base tops one million businesses". Reuters. Retrieved April 23, 2017.
+
+^ Yeung, Ken (March 22, 2017). "Instagram now has 1 million advertisers, will launch business booking tool this year". VentureBeat. Retrieved April 23, 2017.
+
+^ a b c Perez, Sarah (May 31, 2016). "Instagram officially announces its new business tools". TechCrunch. AOL. Retrieved April 23, 2017.
+
+^ Griffifths, Sarah (August 15, 2016). "Instagram launches business tools to help users buy and sell". Wired. Retrieved April 23, 2017.
+
+^ Raymundo, Oscar (May 31, 2016). "Instagram will let you run a business profile if you have a Facebook Page". MacWorld. International Data Group. Retrieved April 23, 2017.
+
+^ Carman, Ashley (November 15, 2018). "Instagram will now let users shop items from video posts". The Verge. Retrieved December 29, 2019.
+
+^ Newton, Casey (March 19, 2019). "Instagram adds in-app checkout as part of its big push into shopping". The Verge. Retrieved December 29, 2019.
+
+^ Gilbert, Ben. "Instagram is targeting fake coronavirus news and finally taking disinformation and hoaxes seriously". Business Insider. Retrieved March 24, 2020.
+
+^ Spangler, Todd (June 8, 2021). "Instagram Will Let Creators Earn Shopping Referral Commissions, Part of Facebook's Monetization Push". Variety. Retrieved August 27, 2021.
+
+^ Hamburger, Ellis (July 29, 2014). "This is Bolt, Instagram's new messaging app". The Verge. Retrieved April 23, 2017.
+
+^ Shontell, Alyson (July 29, 2014). "Instagram Launches Its One-Tap Photo App Bolt To Rival TapTalk And Mirage". Business Insider. Retrieved April 23, 2017.
+
+^ Kuang, Cliff (August 26, 2014). "Hyperlapse, Instagram's New App, Is Like a $15,000 Video Setup in Your Hand". Wired. Retrieved April 23, 2017.
+
+^ Etherington, Darrell (August 26, 2014). "Instagram's New Hyperlapse App Makes Mobile Timelapse And Steady Video Capture Easy". TechCrunch. AOL. Retrieved April 23, 2017.
+
+^ Protalinski, Emil (May 14, 2015). "Microsoft Hyperlapse apps launch on Android and Windows to turn your shaky videos into smooth timelapses". VentureBeat. Retrieved April 23, 2017.
+
+^ Chaykowski, Kathleen (October 22, 2015). "Instagram Launches New App 'Boomerang' For Making GIF-Like Videos". Forbes. Retrieved April 23, 2017.
+
+^ Sawers, Paul (October 22, 2015). "Instagram launches Boomerang, an app that creates crazy, looping 1-second videos". VentureBeat. Retrieved April 23, 2017.
+
+^ Kelly, Heather (June 3, 2011). "10 cool things to do with Instagram". MacWorld. International Data Group. Retrieved April 23, 2017.
+
+^ a b "Instagram Kills Off Feed Reading Apps". TechCrunch. Retrieved December 29, 2019.
+
+^ "Gramfeed is now Picodash". gramfeed. Instagram based apps cannot have the word "insta" or "gram" in the name
+
+^ "Instagram suddenly chokes off developers as Facebook chases privacy". TechCrunch. Retrieved December 29, 2019.
+
+^ Bell, Karissa (November 19, 2015). "Instagram is cracking down on third-party apps". Mashable. Retrieved December 29, 2019.
+
+^ Sumit (October 7, 2019). "Can You Use Instagram Without An Account". Archived from the original on May 13, 2020. Retrieved May 31, 2020.
+
+^ "When does my Instagram story disappear?". Archived from the original on April 12, 2020. Retrieved May 31, 2020.
+
+^ "How can I tell who's seen my Instagram Story?". Archived from the original on April 12, 2020. Retrieved May 31, 2020.
+
+^ Carter, Rebekah (June 18, 2019). "We Tried The Best Instagram Viewers: Here's what we Learned – Followergrowth". Archived from the original on December 17, 2019. Retrieved May 31, 2020.
+
+^ Kozlowska, Hanna (December 17, 2019). "Instagram will finally fact-check posts". Quartz. Retrieved August 9, 2020.
+
+^ "Combatting Misinformation on Instagram". About Facebook. December 16, 2019. Retrieved August 9, 2020.
+
+^ Titcomb, James (March 16, 2016). "Instagram is changing its feed to show photos out of order". The Daily Telegraph. Archived from the original on January 10, 2022. Retrieved July 14, 2017.
+
+^ "See the Moments You Care About First". Instagram Blog. Instagram. March 15, 2016. Archived from the original on March 15, 2016. Retrieved April 24, 2017.
+
+^ Titcomb, James (March 29, 2016). "Instagram changes: Don't panic, you don't have to turn on notifications". The Daily Telegraph. Archived from the original on January 10, 2022. Retrieved July 14, 2017.
+
+^ Alba, Alejandro (March 28, 2016). "Instagram users are upset, anxious about the new algorithmic timeline update". Daily News. New York. Retrieved July 14, 2017.
+
+^ Thottam, Isabel (March 30, 2016). "Here's What Instagram Influencers Think of the New Algorithmic Timeline". Paste. Retrieved July 14, 2017.
+
+^ Brueck, Hilary (March 29, 2016). "Instagram Asks Everyone to Calm Down After Algorithm Uproar". Fortune. Retrieved July 14, 2017.
+
+^ Patkar, Mihir (April 11, 2016). "How (and Why) to Disable Algorithmic Feeds on Twitter, Instagram, and Facebook". MakeUseOf. Retrieved July 14, 2017.
+
+^ Best, Shivali (January 28, 2020). "Instagram explains why it won't go back to chronological feed despite pleas". mirror. Retrieved May 5, 2021.
+
+^ Lyons, Kim (December 8, 2021). "Instagram head says it's bringing back the chronological feed". The Verge. Retrieved December 10, 2021.
+
+^ Clark, Mitchell (December 10, 2021). "Adam Mosseri explains how Instagram is bringing back the chronological feed". The Verge. Retrieved December 11, 2021.
+
+^ Lintao, Carissa (July 4, 2017). "Instagram is cracking down on fake influencers". The Next Web. Retrieved July 7, 2017.
+
+^ Lorentz, Taylor (June 7, 2017). "Instagram's "shadowban," explained: How to tell if Instagram is secretly blacklisting your posts". Mic. Retrieved July 7, 2017.
+
+^ Joseph, Chanté (November 8, 2019). "Instagram's murky 'shadow bans' just serve to censor marginalised communities". The Guardian.
+
+^ "#InstagramUpdate". Trends. Twitter.
+
+^ Black, Matt [@matticus_] (December 27, 2018). "How the Instagram update went down" (Tweet) – via Twitter.
+
+^ a b @ZeenaXena (December 27, 2018). "Did the bug create this too then? What a lie Instagram" (Tweet) – via Twitter.
+
+^ a b Marotti, Ally (December 27, 2018). "Instagram update: Don't panic, it was an accident, and a short-lived one". Chicago Tribune.
+
+^ "The Internet Hated Instagram's New Update So Much It Only Lasted 17 Minutes". Cosmopolitan. December 27, 2018.
+
+^ Griffin, Andrew (December 27, 2018). "Instagram Update: New Swipe Left Scrolling Completely Changes How Users Go Through Their Feed". Independent.
+
+^ "This Week in Apps: Conservative apps surge, Instagram redesigned, TikTok gets ghosted". TechCrunch. Retrieved November 18, 2020.
+
+^ "Introducing a New Home Screen for Instagram". about.instagram.com. Retrieved November 18, 2020.
+
+^ Chen, Brian X.; Lorenz, Taylor (August 12, 2020). "We Tested Instagram Reels, the TikTok Clone. What a Dud". The New York Times. Archived from the original on August 12, 2020.
+
+^ "How does Instagram determine which posts appear in Suggested Posts?". Instagram Help Center. Retrieved May 5, 2021.
+
+^ "How to stop getting suggested posts on my home feed?". Reddit. June 6, 2020. Retrieved May 5, 2021.
+
+^ Carman, Ashley (August 19, 2020). "Instagram rolls out suggested posts to keep you glued to your feed". The Verge. Retrieved May 5, 2021.
+
+^ Grothaus, Michael (August 20, 2020). "How to disable 'Suggested Posts' on Instagram: You can't and here's why". Fast Company. Retrieved May 5, 2021.
+
+^ Carman, Ashley (June 23, 2020). "Instagram tests putting suggested posts ahead of your friends'". The Verge. Retrieved June 24, 2021.
+
+^ a b Khodarahimi, Siamak; Fathi, Rayhan (April 3, 2017). "The Role of Online Social Networking on Emotional Functioning in a Sample of Iranian Adolescents and Young Adults". Journal of Technology in Human Services. 35 (2): 120–134. doi:10.1080/15228835.2017.1293587. S2CID 151897828.
+
+^ Frison, Eline; Eggermont, Steven (October 2017). "Browsing, Posting, and Liking on Instagram: The Reciprocal Relationships Between Different Types of Instagram Use and Adolescents' Depressed Mood". Cyberpsychology, Behavior, and Social Networking. 20 (10): 603–609. doi:10.1089/cyber.2017.0156. PMID 29039700.
+
+^ a b Lamp, Sophia J.; Cugle, Alyssa; Silverman, Aimee L.; Thomas, M. Tené; Liss, Miriam; Erchull, Mindy J. (December 1, 2019). "Picture Perfect: The Relationship between Selfie Behaviors, Self-Objectification, and Depressive Symptoms". Sex Roles. 81 (11): 704–712. doi:10.1007/s11199-019-01025-z. S2CID 150897282.
+
+^ a b Mackson, Samantha B; Brochu, Paula M; Schneider, Barry A (October 2019). "Instagram: Friend or foe? The application's association with psychological well-being". New Media & Society. 21 (10): 2160–2182. doi:10.1177/1461444819840021. S2CID 151096865.
+
+^ Balta, Sabah; Emirtekin, Emrah; Kircaburun, Kagan; Griffiths, Mark D. (June 2020). "Neuroticism, Trait Fear of Missing Out, and Phubbing: The Mediating Role of State Fear of Missing Out and Problematic Instagram Use". International Journal of Mental Health and Addiction. 18 (3): 628–639. doi:10.1007/s11469-018-9959-8. S2CID 49669348.
+
+^ Couture Bue, Amelia C. (July 2020). "The looking glass selfie: Instagram use frequency predicts visual attention to high-anxiety body regions in young women". Computers in Human Behavior. 108: 106329. doi:10.1016/j.chb.2020.106329. S2CID 216401270.
+
+^ a b Sherlock, Mary; Wagstaff, Danielle L. (October 2019). "Exploring the relationship between frequency of Instagram use, exposure to idealized images, and psychological well-being in women". Psychology of Popular Media Culture. 8 (4): 482–490. doi:10.1037/ppm0000182. S2CID 150243216.
+
+^ Yurdagül, Cemil; Kircaburun, Kagan; Emirtekin, Emrah; Wang, Pengcheng; Griffiths, Mark D. (December 10, 2019). "Psychopathological Consequences Related to Problematic Instagram Use Among Adolescents: The Mediating Role of Body Image Dissatisfaction and Moderating Role of Gender". International Journal of Mental Health and Addiction. 19 (5): 1385–1397. doi:10.1007/s11469-019-00071-8. S2CID 108292673.
+
+^ Moujaes, Mara; Verrier, Diarmuid (2021). "Instagram Use, Insta Mums, and Anxiety in Mothers of Young Children". Journal of Media Psychology. 33 (2): 72–81. doi:10.1027/1864-1105/a000282. S2CID 228936206.
+
+^ Sanz-Blas, Silvia; Buzova, Daniela; Miquel-Romero, María José (September 9, 2019). "From Instagram overuse to instastress and emotional fatigue: the mediation of addiction". Spanish Journal of Marketing – ESIC. 23 (2): 143–161. doi:10.1108/sjme-12-2018-0059. S2CID 202280785.
+
+^ a b c d e f g Faelens, Lien; Hoorelbeke, Kristof; Cambier, Ruben; van Put, Jill; Van de Putte, Eowyn; De Raedt, Rudi; Koster, Ernst H. W. (August 1, 2021). "The relationship between Instagram use and indicators of mental health: A systematic review". Computers in Human Behavior Reports. 4: 100121. doi:10.1016/j.chbr.2021.100121. S2CID 237728728.
+
+^ Foroughi, Behzad; Griffiths, Mark D.; Iranmanesh, Mohammad; Salamzadeh, Yashar (2021). "Associations Between Instagram Addiction, Academic Performance, Social Anxiety, Depression, and Life Satisfaction Among University Students". International Journal of Mental Health and Addiction. doi:10.1007/s11469-021-00510-5. S2CID 232265668.
+
+^ Gezgin, Deniz Mertkan; Mihci, Can (2020). "Smartphone Addiction in Undergraduate Athletes: Reasons and Effects of Using Instagram Intensively". International Journal of Technology in Education and Science. 4 (3): 188–202. doi:10.46328/ijtes.v4i3.106. S2CID 221698639.
+
+^ a b Wells, Georgia; Horwitz, Jeff; Seetharaman, Deepa (September 14, 2021). "Facebook Knows Instagram Is Toxic for Teen Girls, Company Documents Show". The Wall Street Journal.
+
+^ McEvoy, Jemima. "Facebook Internal Research Found Instagram Can Be Very Harmful To Young Girls, Report Says". Forbes. Retrieved September 16, 2021.
+
+^ "Social Media and Well-Being: Instagram's Research and Actions". Instagram Blog. Retrieved September 16, 2021.
+
+^ Milmo, Dan (September 27, 2021). "Facebook pauses work on Instagram Kids after teen mental health concerns". The Guardian. Retrieved September 28, 2021.
+
+^ Grossman, Matt (September 27, 2021). "Facebook to Halt Instagram Kids Project Amid Pressure From Lawmakers, Parents Groups". Wall Street Journal – via www.wsj.com.
+
+^ Cohen, Rachel; Newton-John, Toby; Slater, Amy (December 1, 2017). "The relationship between Facebook and Instagram appearance-focused activities and body image concerns in young women" (PDF). Body Image. 23: 183–187. doi:10.1016/j.bodyim.2017.10.002. PMID 29055773.
+
+^ Åberg, Erica; Koivula, Aki; Kukkonen, Iida (March 2020). "A feminine burden of perfection? Appearance-related pressures on social networking sites". Telematics and Informatics. 46: 101319. doi:10.1016/j.tele.2019.101319. S2CID 210865168.
+
+^ a b Fardouly, Jasmine; Magson, Natasha R.; Rapee, Ronald M.; Johnco, Carly J.; Oar, Ella L. (July 2020). "The use of social media by Australian preadolescents and its links with mental health". Journal of Clinical Psychology. 76 (7): 1304–1326. doi:10.1002/jclp.22936. PMID 32003901. S2CID 210985031.
+
+^ Chang, Leanne; Li, Pengxiang; Loh, Renae Sze Ming; Chua, Trudy Hui Hui (June 2019). "A study of Singapore adolescent girls' selfie practices, peer appearance comparisons, and body esteem on Instagram". Body Image. 29: 90–99. doi:10.1016/j.bodyim.2019.03.005. PMID 30884385. S2CID 83460239.
+
+^ Wagner, Charles; Aguirre, Ester; Sumner, Erin M. (August 18, 2016). "The relationship between Instagram selfies and body image in young adult women". First Monday. 21 (9). doi:10.5210/fm.v21i9.6390.
+
+^ Tiggemann, Marika; Anderberg, Isabella; Brown, Zoe (June 2020). "Uploading your best self: Selfie editing and body dissatisfaction". Body Image. 33: 175–182. doi:10.1016/j.bodyim.2020.03.002. PMID 32224447. S2CID 214732170.
+
+^ Mun, Il Bong; Kim, Hun (2021). "Influence of False Self-Presentation on Mental Health and Deleting Behavior on Instagram: The Mediating Role of Perceived Popularity". Frontiers in Psychology. 12: 660484. doi:10.3389/fpsyg.2021.660484. PMC 8071929. PMID 33912119.
+
+^ Cohen, Rachel; Newton-John, Toby; Slater, Amy (2017). "The relationship between Facebook and Instagram appearance-focused activities and body image concerns in young women". Body Image. 23: 183–187. doi:10.1016/j.bodyim.2017.10.002. PMID 29055773.
+
+^ Brown, Zoe; Tiggemann, Marika (2016). "Attractive celebrity and peer images on Instagram: Effect on women's mood and body image". Body Image. 19: 37–43. doi:10.1016/j.bodyim.2016.08.007. PMID 27598763.
+
+^ Kleemans, Mariska; Daalmans, Serena; Carbaat, Ilana; Anschütz, Doeschka (2018). "Picture Perfect: The Direct Effect of Manipulated Instagram Photos on Body Image in Adolescent Girls". Media Psychology. 21: 93–110. doi:10.1080/15213269.2016.1257392. S2CID 53376382.
+
+^ Tiggemann, Marika; Barbato, Isabella (2018). ""You look great!": The effect of viewing appearance-related Instagram comments on women's body image". Body Image. 27: 61–66. doi:10.1016/j.bodyim.2018.08.009. PMID 30138768. S2CID 52072929.
+
+^ a b Kang, Cecilia (September 30, 2021). "Facebook Grilled by Senators over Its Effect on Children". The New York Times. Archived from the original on December 28, 2021.
+
+^ Mak, Aaron (September 30, 2021). "The Most Damning Thing We've Learned About Instagram Yet". Slate Magazine.
+
+^ Büttner, Christiane M.; Rudert, Selma C. (2021). "Why didn't you tag me?!: Social exclusion from Instagram posts hurts, especially those with a high need to belong". Computers in Human Behavior. 127: 107062. doi:10.1016/j.chb.2021.107062. ISSN 0747-5632. S2CID 239578341.
+
+^ Brailovskaia, Julia; Margraf, Jürgen (January 25, 2018). "What does media use reveal about personality and mental health? An exploratory investigation among German students". PLOS ONE. 13 (1): e0191810. Bibcode:2018PLoSO..1391810B. doi:10.1371/journal.pone.0191810. PMC 5784983. PMID 29370275.
+
+^ Fioravanti, Giulia; Prostamo, Alfonso; Casale, Silvia (February 1, 2020). "Taking a Short Break from Instagram: The Effects on Subjective Well-Being". Cyberpsychology, Behavior, and Social Networking. 23 (2): 107–112. doi:10.1089/cyber.2019.0400. PMID 31851833. S2CID 209416899.
+
+^ Ceballos, Natalie A.; Howard, Krista; Dailey, Stephanie; Sharma, Shobhit; Grimes, Tom (November 2018). "Collegiate Binge Drinking and Social Media Use Among Hispanics and Non-Hispanics". Journal of Studies on Alcohol and Drugs. 79 (6): 868–875. doi:10.15288/jsad.2018.79.868. PMID 30573017. S2CID 57963899.
+
+^ Boyle, Sarah C.; LaBrie, Joseph W.; Froidevaux, Nicole M.; Witkovic, Yong D. (June 1, 2016). "Different digital paths to the keg? How exposure to peers' alcohol-related social media content influences drinking among male and female first-year college students". Addictive Behaviors. 57: 21–29. doi:10.1016/j.addbeh.2016.01.011. PMC 5098897. PMID 26835604.
+
+^ Balta, Sabah; Emirtekin, Emrah; Kircaburun, Kagan; Griffiths, Mark D. (2020). "Neuroticism, Trait Fear of Missing Out, and Phubbing: The Mediating Role of State Fear of Missing Out and Problematic Instagram Use". International Journal of Mental Health and Addiction. 18 (3): 628–639. doi:10.1007/s11469-018-9959-8. S2CID 49669348.
+
+^ Barry, Christopher T.; Reiter, Shari R.; Anderson, Alexandra C.; Schoessler, Mackenzie L.; Sidoti, Chloe L. (2019). ""Let me take another selfie": Further examination of the relation between narcissism, self-perception, and instagram posts". Psychology of Popular Media Culture. 8: 22–33. doi:10.1037/ppm0000155. S2CID 148741677.
+
+^ Burnell, Kaitlyn; George, Madeleine J.; Vollet, Justin W.; Ehrenreich, Samuel E.; Underwood, Marion K. (2019). "Passive social networking site use and well-being: The mediating roles of social comparison and the fear of missing out". Cyberpsychology: Journal of Psychosocial Research on Cyberspace. 13 (3). doi:10.5817/CP2019-3-5. S2CID 199143750.
+
+^ Wilksch, Simon M.; O'Shea, Anne; Ho, Pheobe; Byrne, Sue; Wade, Tracey D. (January 2020). "The relationship between social media use and disordered eating in young adolescents". International Journal of Eating Disorders. 53 (1): 96–106. doi:10.1002/eat.23198. PMID 31797420. S2CID 208622404.
+
+^ Fardouly, Jasmine; Willburger, Brydie K; Vartanian, Lenny R (April 2018). "Instagram use and young women's body image concerns and self-objectification: Testing mediational pathways". New Media & Society. 20 (4): 1380–1395. doi:10.1177/1461444817694499. S2CID 4953527.
+
+^ Fatt, Scott J; Fardouly, Jasmine; Rapee, Ronald M (June 2019). "#malefitspo: Links between viewing fitspiration posts, muscular-ideal internalisation, appearance comparisons, body satisfaction, and exercise motivation in men". New Media & Society. 21 (6): 1311–1325. doi:10.1177/1461444818821064. S2CID 150108093.
+
+^ a b Feltman, Chandra E.; Szymanski, Dawn M. (March 2018). "Instagram Use and Self-Objectification: The Roles of Internalization, Comparison, Appearance Commentary, and Feminism". Sex Roles. 78 (5–6): 311–324. doi:10.1007/s11199-017-0796-1. S2CID 115139326.
+
+^ Appel, Helmut; Gerlach, Alexander L; Crusius, Jan (June 2016). "The interplay between Facebook use, social comparison, envy, and depression". Current Opinion in Psychology. 9: 44–49. doi:10.1016/j.copsyc.2015.10.006.
+
+^ Bare, Christian (May 2020). "The Undisclosed Dangers of Parental Sharing on Social Media: A Content Analysis of Sharenting Images on Instagram". Electronic Theses and Dissertations.
+
+^ Picardo, Jacobo; McKenzie, Sarah K.; Collings, Sunny; Jenkin, Gabrielle (September 2, 2020). "Suicide and self-harm content on Instagram: A systematic scoping review". PLOS ONE. 15 (9): e0238603. Bibcode:2020PLoSO..1538603P. doi:10.1371/journal.pone.0238603. PMC 7467257. PMID 32877433.
+
+^ "#suicide hashtag on Instagram • Photos and Videos".
+
+^ Nguyen, Terry (August 12, 2020). "PowerPoint activism is taking over your friends' Instagram accounts". Vox. Retrieved December 28, 2021.
+
+^ a b Cortez, Stevie (December 8, 2020). "Whom Is Instagram Activism Really Helping?". The Observer. Retrieved December 28, 2021.{{cite web}}:  CS1 maint: url-status (link)
+
+^ a b Corbett, Erin (May 25, 2021). "The Aesthetics Of Activism: How Instagram Changed Protesting". Refinery29.com. Retrieved December 28, 2021.{{cite web}}:  CS1 maint: url-status (link)
+
+^ Kay, Jonah (October 31, 2020). "The Evolution of Instagram Activism". Hyperallergic. Retrieved December 28, 2021.
+
+^ Borrelli, Christopher. "Chicago artists use boarded-up storefronts to make a creative statement and make a difference". ChicagoTribune.com. Retrieved December 28, 2021.
+
+^ Rodríguez Presa, Laura (August 10, 2020). "Meet Shirien Damra, The Palestinian Illustrator Behind Our New Cover". Advocate.com. Retrieved December 28, 2021.{{cite web}}:  CS1 maint: url-status (link)
+
+^ Silva, Thiago H.; Melo, Pedro O.S. Vaz de; Almeida, Jussara M.; Salles, Juliana; Loureiro, Antonio A.F. (2013). "A Picture of Instagram is Worth More Than a Thousand Words: Workload Characterization and Application". 2013 IEEE International Conference on Distributed Computing in Sensor Systems. pp. 123–132. doi:10.1109/DCOSS.2013.59. ISBN 978-0-7695-5041-1. S2CID 5158042.
+
+^ Bilton, Nick (December 21, 2010). "Instagram Quickly Passes 1 Million Users". The New York Times. Retrieved April 8, 2017.
+
+^ "The Instagram Community – One Million and Counting". Instagram. December 20, 2010. Archived from the original on November 26, 2011. Retrieved April 8, 2017.
+
+^ Siegler, MG (June 13, 2011). "At 5 Million Users, It's Hard Not To View Instagram Through A Rose-Colored Filter". TechCrunch. AOL. Retrieved April 8, 2017.
+
+^ a b Swant, Marty (December 15, 2016). "This Instagram Timeline Shows the App's Rapid Growth to 600 Million". Adweek. Beringer Capital. Retrieved April 8, 2017.
+
+^ "The Instagram Community – Ten Million and Counting". Instagram. September 26, 2011. Archived from the original on September 27, 2011. Retrieved April 8, 2017.
+
+^ "Instagram soars to 80M users, 4B photos". VentureBeat. July 26, 2012. Retrieved April 8, 2017.
+
+^ Protalinski, Emil (July 26, 2012). "Instagram passes 80 million users". CNET. Retrieved April 8, 2017.
+
+^ Constine, Josh (February 26, 2013). "Instagram Hits 100 Million Monthly Users 28 Months After Launch". TechCrunch. AOL. Retrieved April 8, 2017.
+
+^ Pepitone, Julianne (February 26, 2013). "Instagram hits 100 million users". CNN. Retrieved April 8, 2017.
+
+^ a b Crook, Jordan (June 20, 2013). "Instagram Crosses 130 Million Users, With 16 Billion Photos And Over 1 Billion Likes Per Day". TechCrunch. AOL. Retrieved May 31, 2017.
+
+^ Hernandez, Brian Anthony (September 9, 2013). "Instagram Reaches 150 Million Monthly Active Users". Mashable. Retrieved April 8, 2017.
+
+^ Smith, Cooper (September 9, 2013). "Instagram Has 150 Million Monthly Active Users". Business Insider. Retrieved April 8, 2017.
+
+^ Constine, Josh (December 10, 2014). "Instagram Hits 300 Million Monthly Users To Surpass Twitter, Keeps It Real With Verified Badges". TechCrunch. AOL. Retrieved April 8, 2017.
+
+^ Lorenzetti, Laura (December 10, 2014). "Instagram leaves Twitter in the dust with 300 million active users". Fortune. Retrieved April 8, 2017.
+
+^ Chaykowski, Kathleen (September 22, 2015). "Instagram Hits 400 Million Users, Soaring Past Twitter". Forbes. Retrieved April 8, 2017.
+
+^ Kastrenakes, Jacob (September 22, 2015). "Instagram is now used by 400 million people each month". The Verge. Retrieved April 8, 2017.
+
+^ Wagner, Kurt (June 21, 2016). "Instagram now has 500 million users". Recode. Retrieved April 8, 2017.
+
+^ Constine, Josh (June 21, 2016). "Instagram doubles monthly users to 500M in 2 years, sees 300M daily". TechCrunch. AOL. Retrieved April 8, 2017.
+
+^ Fingas, Jon (December 15, 2016). "Instagram hits 600 million users as its growth speeds up". Engadget. AOL. Retrieved April 8, 2017.
+
+^ Roettgers, Janko (December 15, 2016). "Instagram Now Has 600 Million Monthly Active Users". Variety. Retrieved April 8, 2017.
+
+^ Constine, Josh (April 26, 2017). "Instagram hits 700 million users, accelerating from 600M in December". TechCrunch. AOL. Retrieved April 26, 2017.
+
+^ Byford, Sam (April 26, 2017). "Instagram is growing faster than ever". The Verge. Retrieved April 26, 2017.
+
+^ Balakrishnan, Anita (September 25, 2017). "Instagram says it now has 800 million users, up 100 million since April". CNBC. Retrieved December 13, 2017.
+
+^ Kastrenakes, Jacob (September 25, 2017). "Instagram added 200 million daily users a year after launching Stories". The Verge. Retrieved December 13, 2017.
+
+^ Siegler, MG (June 13, 2011). "At 5 Million Users, It's Hard Not To View Instagram Through A Rose-Colored Filter". TechCrunch. AOL. Retrieved May 31, 2017.
+
+^ Van Grove, Jennifer (June 14, 2011). "Instagram by the Numbers: 5 Million Users & 100 Million Photos". Mashable. Retrieved May 31, 2017.
+
+^ Siegler, MG (August 3, 2011). "The Latest Crazy Instagram Stats: 150 Million Photos, 15 Per Second, 80% Filtered". TechCrunch. AOL. Retrieved May 31, 2017.
+
+^ Hardawar, Devindra (August 3, 2011). "Instagram snaps 150M photos, 7M users – still only 4 employees". VentureBeat. Retrieved May 31, 2017.
+
+^ Waxman, Olivia B. (October 6, 2015). "Here Are the 5 Most Popular Instagram Photos of All Time". Time. Retrieved May 31, 2017.
+
+^ Etherington, Darrell (October 6, 2016). "Instagram Stories has 100 million daily active users after just 2 months". TechCrunch. AOL. Retrieved June 20, 2017.
+
+^ Raymundo, Oscar (October 6, 2016). "Snapchat what? Instagram Stories racks up 100 million daily viewers". MacWorld. International Data Group. Retrieved June 20, 2017.
+
+^ Wagner, Kurt; Molla, Rani (June 20, 2017). "Instagram Stories is still growing quickly and now has 250 million users". Recode. Retrieved June 20, 2017.
+
+^ "Instagram Demographics". Business Insider. Smith, Cooper. March 13, 2014. Retrieved June 10, 2014.
+
+^ "The Demographics of Instagram and Snapchat Users". Marketing Charts. October 29, 2013. Retrieved June 10, 2014.
+
+^ Bakhshi, Saeideh; Shamma, David A.; Gilbert, Eric (2014). "Faces engage us". Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. pp. 965–974. doi:10.1145/2556288.2557403. ISBN 978-1-4503-2473-1. S2CID 8719061.
+
+^ Thomson, T.J.; Greenwood, Keith (October 2, 2017). "I 'Like' That: Exploring the Characteristics That Promote Social Media Engagement With News Photographs" (PDF). Visual Communication Quarterly. 24 (4): 203–218. doi:10.1080/15551393.2017.1388701. S2CID 149267718.
+
+^ "How to get your Instagram account verified". Firstpost. June 18, 2019. Retrieved June 19, 2019.
+
+^ Huang, Yi-Ting; Su, Sheng-Fang (August 9, 2018). "Motives for Instagram Use and Topics of Interest among Young Adults". Future Internet. 10 (8): 77. doi:10.3390/fi10080077.
+
+^ "Congratulations Crunchies Winners!". TechCrunch. AOL. January 25, 2011. Retrieved October 4, 2011.
+
+^ "The 100 Most Creative People in Business in 2011". Fast Company. May 2011. Archived from the original on November 1, 2011. Retrieved October 4, 2011.
+
+^ Swearingen, Jake (September 2, 2011). "SF Weekly Web Awards 2011: We Have Some Winners!". SF Weekly. Retrieved October 4, 2011.
+
+^ "The Hot 20 2011". 7x7. September 23, 2011. Retrieved October 4, 2011.
+
+^ Tsukayama, Hayley (December 9, 2011). "Apple names Instagram top app of the year". The Washington Post. Retrieved December 9, 2011.
+
+^ Mashable.com "The 100 best iPhone apps of all time" Published December 8, 2015. Retrieved December 10, 2015.
+
+^ Newman, Jared (June 30, 2013). "50 Best Android Apps for 2013". Time. Archived from the original on July 4, 2013. Retrieved April 12, 2017.
+
+^ "Instagram 'worst for young mental health'". BBC News. BBC. May 18, 2017. Retrieved May 19, 2017.
+
+^ "Instagram rated worst media for mental health". Yahoo! News. May 19, 2017. Retrieved May 19, 2017.
+
+^ a b Holson, Laura M. (May 1, 2018). "Instagram Unveils a Bully Filter". The New York Times. Archived from the original on May 1, 2018.
+
+^ Reece, Andrew G.; Danforth, Christopher M. (2017). "Instagram photos reveal predictive markers of depression". EPJ Data Science. 6 (1): 15. arXiv:1608.03282. doi:10.1140/epjds/s13688-017-0110-z. S2CID 19494738.
+
+^ Lee, Minsum (January 2021). "Social media photo activity, internalization, appearance comparison, and body satisfaction: The moderating role of photo-editing behavior". Computers in Human Behavior. 114: 106579. doi:10.1016/j.chb.2020.106579. S2CID 224921823.
+
+^ "How Instagram led to two teens' eating disorders". CNN. October 9, 2021.
+
+^ Tsukayama, Hayley (July 29, 2016). "Instagram will soon let you filter comments on your own account". The Washington Post. Retrieved June 29, 2017.
+
+^ Kastrenakes, Jacob (July 29, 2016). "Instagram is building the anti-harassment tools Twitter won't". The Verge. Retrieved June 29, 2017.
+
+^ McCormick, Rich (August 2, 2016). "Instagram's anti-abuse comment filter is rolling out now". The Verge. Retrieved June 29, 2017.
+
+^ Carman, Ashley (September 12, 2016). "Instagram is now letting everyone filter abusive words out of their comments". The Verge. Retrieved June 29, 2017.
+
+^ Vincent, James (December 6, 2016). "Instagram will soon let you turn off comments and boot followers from private accounts". The Verge. Retrieved June 29, 2017.
+
+^ O'Brien, Sarah Ashley (December 6, 2016). "Instagram finally lets users disable comments". CNN. Retrieved June 29, 2017.
+
+^ Thompson, Nicholas (June 29, 2017). "Instagram unleashes an AI system to blast away nasty comments". Wired. Retrieved June 29, 2017.
+
+^ Etherington, Darrell (June 29, 2017). "Instagram implements an AI system to fight mean and harassing comments". TechCrunch. AOL. Retrieved June 29, 2017.
+
+^ Etherington, Darrell (September 26, 2017). "Instagram now lets you choose who can comment on your posts". TechCrunch. Oath Inc. Retrieved December 13, 2017.
+
+^ Kastrenakes, Jacob (September 26, 2017). "Instagram now lets you limit who can comment on your pics". The Verge. Retrieved December 13, 2017.
+
+^ Lorenz, Taylor; Dwoskin, Elizabeth (April 6, 2022). "Some women shared the messages they get on Instagram. It's not pretty". The Washington Post. ISSN 0190-8286. Retrieved April 9, 2022.
+
+^ Sung, Morgan (April 7, 2022). "Instagram 'systemically fails' to protect high-profile women from abuse, study finds". NBC News. Retrieved April 9, 2022.
+
+^ Paul, Kari (April 6, 2022). "High-profile women on Instagram face 'epidemic of misogynist abuse', study finds". The Guardian. Retrieved April 9, 2022.
+
+^ Colbert, Annie (August 9, 2012). "Singer Composes Music Video From Fans' Instagram Photos". Mashable. Retrieved May 31, 2017.
+
+^ Newton, Casey (August 30, 2017). "Hackers exploited an Instagram bug to get celebrity phone numbers and email addresses". The Verge. Retrieved December 13, 2017.
+
+^ Coldewey, Devin (August 30, 2017). "Instagram bug leaked data on 'high-profile' users, company warns". TechCrunch. Oath Inc. Retrieved December 13, 2017.
+
+^ a b Newton, Casey (September 1, 2017). "An Instagram hack hit millions of accounts, and victims' phone numbers are now for sale". The Verge. Retrieved December 13, 2017.
+
+^ Cox, Joseph (August 31, 2017). "Hackers Make Searchable Database to Dox Instagram Celebs". The Daily Beast. IAC. Retrieved December 13, 2017.
+
+^ Buhr, Sarah (September 1, 2017). "Hackers claim to have personal info of millions of Instagram accounts, including celebs". TechCrunch. Oath Inc. Retrieved December 13, 2017.
+
+^ Peters, Jay (November 11, 2019). "Apple pulls app that let you stalk people you follow on Instagram". The Verge.
+
+^ "Iran Protests: DPI blocking of Instagram (Part 2)". OONI. February 14, 2018. Retrieved August 20, 2021.{{cite web}}:  CS1 maint: url-status (link)
+
+^ a b Patel, Nilay (December 18, 2012). "No, Instagram can't sell your photos: what the new terms of service really mean". The Verge. Retrieved April 24, 2017.
+
+^ "Instagram seeks right to sell access to photos to advertisers". BBC. December 18, 2012. Retrieved April 24, 2017.
+
+^ a b McCullaugh, Declan; Tam, Donna (December 18, 2012). "Instagram apologizes to users: We won't sell your photos". CNET. Retrieved April 24, 2017.
+
+^ Hernandez, Brian Anthony (December 18, 2012). "15 Celebrities Outraged by Instagram's Privacy Policy". Mashable. Retrieved May 31, 2017.
+
+^ Systrom, Kevin (December 18, 2012). "Thank you, and we're listening". Instagram Blog. Instagram. Archived from the original on December 19, 2012. Retrieved April 24, 2017.
+
+^ McCullaugh, Declan (December 18, 2012). "Instagram rivals try to lure users away after photo rights flap". CNET. Retrieved April 24, 2017.
+
+^ Perlroth, Nicole; Wortham, Jenna (December 20, 2012). "Instagram's Loss Is a Gain for Its Rivals". The New York Times. Retrieved April 24, 2017.
+
+^ McDermott, John (December 21, 2012). "Amid Criticism, Instagram Reverts to Old Terms of Service". Advertising Age. Crain Communications. Retrieved April 24, 2017.
+
+^ Levine, Dan (December 24, 2012). "Instagram furor triggers first class action lawsuit". Reuters. Retrieved April 24, 2017.
+
+^ Tim Wu: Facebook's Purchase of Instagram was a Felony, at the 2019 Aspen Ideas Festival (The Aspen Institute YouTube channel, published on June 28, 2019)
+
+^ Facebook boasted of buying Instagram to kill the competition, by Josh Kosman, February 26, 2019
+
+^ Levin, Sam (September 21, 2017). "Instagram uses 'I will rape you' post as Facebook ad in latest algorithm mishap". The Guardian. Retrieved November 8, 2017.
+
+^ Liao, Shannon (September 21, 2017). "Instagram accidentally advertises itself on Facebook with rape threat photo". The Verge. Retrieved November 8, 2017.
+
+^ McQue, Katie (May 5, 2021). "Instagram fuels rise in black-market sales of maids into Persian Gulf servitude". The Washington Post. Retrieved May 26, 2021.
+
+^ "Instagram blocks some drugs advert tags after BBC probe". BBC News. BBC. November 7, 2013. Retrieved May 31, 2017.
+
+^ Batty, David (November 7, 2013). "Instagram acts after BBC finds site users are advertising illegal drugs". The Guardian. Retrieved May 31, 2017.
+
+^ Babb, Fletcher (September 19, 2014). "How Instagram's drug deals go undetected". VentureBeat. Retrieved May 31, 2017.
+
+^ Kaya Yurieff (December 18, 2019). "Instagram influencers can no longer promote vaping and guns". CNN. Retrieved December 19, 2019.
+
+^ Collins, Petra (January 23, 2014). "Why Instagram Censored My Body". HuffPost. AOL. Retrieved May 31, 2017.
+
+^ Schroeder, Audra (October 17, 2013). "Was this tame photo too racy for Instagram?". The Daily Dot. Retrieved May 31, 2017.
+
+^ Drewe, Nick (October 30, 2013). "Instagram's Sex Censorship is Inconsistent and Hilarious". The Daily Beast. IAC. Retrieved May 31, 2017.
+
+^ Hinde, Natasha (January 23, 2015). "Did Instagram Ban This Account Because of a Photo Showing Women's Pubic Hair?". HuffPost. AOL. Retrieved May 31, 2017.
+
+^ Banks, Grace (April 10, 2017). "Pics Or It Didn't Happen: reclaiming Instagram's censored art". The Guardian. Retrieved May 31, 2017.
+
+^ Fuller, Gillian (December 7, 2016). "Free the Nipple: You Need to See This Badass Instagram Account". Allure. Retrieved May 31, 2017.
+
+^ Deczynski, Rebecca (October 5, 2015). "Instagram Explains Why It Won't #FreetheNipple". Nylon. Diversis Capital. Retrieved May 31, 2017.
+
+^ Bolton, Doug (October 6, 2015). "Free the Nipple: What types of nipples are allowed on Instagram?". The Independent. Retrieved May 31, 2017.
+
+^ O'Sullivan, Donie; Moshtaghian, Artemis. "Instagram says it's removing posts supporting Soleimani to comply with US sanctions". CNN. Retrieved January 11, 2020.
+
+^ Carman, Ashley (October 30, 2020). "Instagram nixes the "recent" tab from hashtag pages ahead of election". The Verge. Retrieved January 7, 2021.
+
+^ Tyko, Kelly. "President Trump blocked from posting to Facebook, Instagram 'indefinitely,' at least through end of term". USA Today. Retrieved January 7, 2021.
+
+^ Connaughton, Maddison (December 13, 2021). "Her Instagram Handle Was 'Metaverse.' Last Month, It Vanished". The New York Times. Archived from the original on December 28, 2021. Retrieved December 26, 2021.
+
+^ "Instagram appears blocked in China". BBC News. June 2018. Archived from the original on November 29, 2014.
+
+^ Osborne, Charlie (November 4, 2016). "Turkey blocks WhatsApp, Facebook, and Twitter across the country". Between the Lines. ZDNet. Retrieved May 14, 2019.
+
+^ "After photo leak, North Korea said to block Instagram". PC World. June 2018.
+
+^ Maziar Motamedi (February 23, 2022). "Iran's internet bill expected to progress despite overturned vote". Aljazeera.com.
+
+^ Kersten Knipp (June 23, 2020). "Why is the Iranian regime wary of Instagram?". Deutsche Welle.
+
+^ "The Instagrammers who worry Iran". BBC News. January 17, 2021. Retrieved October 7, 2021.
+
+^ "Iran releases messaging app to replace Telegram". www.aljazeera.com. Retrieved June 20, 2021.
+
+^ "Instagram restores anti-government Iran videos citing 'public interest'". Middle East Eye. Retrieved October 7, 2021.
+
+^ "Cuba's internet cutoff: A go-to tactic to suppress dissent". AP News. July 13, 2021. Retrieved July 14, 2021.
+
+^ "War in Ukraine: Instagram banned in Russia over 'calls to violence'". BBC News. March 11, 2022. Retrieved March 21, 2022.
+
+^ Vincent, James (March 14, 2022). "Russia bans Instagram as promised, blocking access for 80 million users". The Verge. Retrieved March 21, 2022.
+
+^ a b Miller, Chance (December 17, 2019). "These were the most-downloaded apps and games of the decade". 9to5Mac. Retrieved December 17, 2019.
+
+^ "An Egg, Just a Regular Egg, Is Instagram's Most-Liked Post Ever". The New York Times. Archived from the original on January 14, 2019. Retrieved January 14, 2019.
+
+^ "The 20 Most Liked Pictures on Instagram". Brandwatch. Retrieved June 10, 2021.
+
+^ Tung, Liam. "Programming languages: How Instagram's taming a multimillion-line Python monster". ZDNet. Retrieved October 11, 2021.
+
+^ "Instagram Can Now Describe Photos to Visually Impaired Users". MUO. November 29, 2018. Retrieved October 11, 2021.
+
+
+Further reading
+Frier, Sarah (2020). No Filter: The Inside Story of Instagram. Simon & Schuster. ISBN 978-1-982126-80-3.
+External links
+ Media related to Instagram at Wikimedia Commons
+ The dictionary definition of instagram at Wiktionary
+Official website 
+Instagram on Facebook
+Instagram on Instagram
+Instagram on Twitter
+Rose, Kevin (May 30, 2013). "A #Nofilter Conversation with the founders of Instagram" (podcast). Commonwealth Club.
+"Instagram: Kevin Systrom and Mike Krieger" (podcast). How I Built This. NPR. September 19, 2016.
+vteMeta PlatformsServicesFacebook
+Service
+Features
+Beacon
+Bluetooth Beacon
+Credits
+Dating
+EdgeRank
+Gaming
+Graph Search
+Instant Articles
+Like button
+Live
+Onion address
+Platform
+Connect
+Safety Check
+Stories
+Watch
+List of original programs
+Zero
+Otherapplications
+Atlas Solutions
+Express Wi-Fi
+Giphy
+Free Basics
+Instagram
+Hyperlapse
+IGTV
+List of most followed accounts
+List of most liked pictures
+Messenger
+Kids
+Rooms
+Mapillary
+Oculus
+Quest
+Quest 2
+Rift
+CV1
+S
+Go
+Touch
+Portal
+WhatsApp
+Workplace
+Zuck Bucks
+Former
+FriendFeed
+Home
+HTC First
+M
+Onavo
+Paper
+Slingshot
+tbh
+Wirehog
+PeopleFounders
+Mark Zuckerberg (28% equity)
+Dustin Moskovitz (7%)
+Eduardo Saverin (5%, formerly)
+Chris Hughes (1%, formerly)
+Andrew McCollum
+Board
+Mark Zuckerberg
+Sheryl Sandberg
+Peggy Alford
+Marc Andreessen
+Drew Houston
+Nancy Killefer
+Robert M. Kimmitt
+Peter Thiel
+Tracey Travis
+ExecutiveofficersCurrent
+Mark Zuckerberg (Chairman and CEO)
+Sheryl Sandberg (COO)
+David Wehner (CFO)
+Mike Schroepfer (CTO)
+Chris Cox (Chief Product Officer)
+Former
+Sean Parker (4%, formerly)
+Owen Van Natta
+Gideon Yu
+Adam D'Angelo
+Chris Kelly
+Bret Taylor
+David Ebersman
+Alex Stamos
+NotableemployeesCurrent
+Nick Clegg (VP of Global Affairs and Communications)
+Lars Rasmussen (Graph Search director)
+John Carmack (CTO of Oculus VR)
+Hugo Barra (VP of Oculus VR)
+Naomi Gleit (VP of social good)
+Former
+Blake Ross (Director of Product)
+Ted Ullyot (VP, General Counsel, and Secretary)
+Matt Cohler
+Charlie Cheever
+Randi Zuckerberg
+Yishan Wong
+George Hotz
+Joe Lockhart
+Andrei Alexandrescu (research scientist)
+Elliot Schrage (VP of Global Communications, Marketing and Public Policy)
+Open source
+Apache Cassandra
+Apache Hive
+Apache Thrift
+Buck
+FQL
+Hack
+HHVM
+HipHop for PHP
+Infer
+MyRocks
+Open Compute Project
+Phabricator
+React
+React Native
+RocksDB
+Scribe
+Telecom Infra Project
+Tornado
+Mass media
+The Facebook Effect
+The Accidental Billionaires
+The Social Network
+Concepts
+Activity stream
+Social graph
+Friending and following
+Reblogging
+Fan-gating
+Facebook diplomacy
+Facebook like button
+Business
+History
+Timeline
+Acquisitions
+f8 conference
+IPO
+Censorship
+Criticism
+Cambridge Analytica data scandal
+The Facebook Files
+Privacy
+Content management
+Litigation
+Lists
+Most-followed Facebook pages
+Most-viewed videos in the first 24 hours
+Related
+Priscilla Chan (wife of Mark Zuckerberg)
+Chan Zuckerberg Initiative
+Aquila Internet relay drone
+Oversight Board
+Willow Village
+WaveGroup Sound
+2021 Facebook outage
+
+vteSocial networking servicesPersonal
+23snaps
+Amikumu
+aNobii
+Ask.fm
+Badoo
+Bumble
+Clash
+Cloob
+Clubhouse
+Cyworld
+Diaspora
+display!
+Douban
+Draugiem.lv
+Ello
+Facebook
+Foursquare City Guide
+Foursquare Swarm
+Friendica
+Gab
+Gapo
+Gettr
+GNU social
+Hello
+Hi5
+Idka
+Instagram
+IGTV
+IRC-Galleria
+Kumu
+Letterboxd
+LiveJournal
+Likee
+Marco Polo
+Mastodon
+MeetMe
+Meetup
+MeWe
+Miaopai
+micro.blog
+Minds
+Mixi
+Myspace
+My World
+Nextdoor
+Odnoklassniki (OK.ru)
+Parler
+Peach
+Pinterest
+Pixnet
+Plurk
+Qzone
+Readgeek
+Renren
+ShareChat
+Sina Weibo
+Slidely
+Snapchat
+SNOW
+Spaces
+Spotify Greenroom
+StudiVZ
+Tagged
+Taringa!
+TikTok
+Tinder
+Triller
+Truth Social
+Tuenti
+TV Time
+Tumblr
+Twitter
+Untappd
+Vero
+VK
+Whisper
+Yik Yak
+Yo
+Professional
+Academia.edu
+Brainly
+BranchOut
+Edmodo
+Google Currents
+HCL Connections
+LinkedIn
+Moodle
+ResearchGate
+Sciencescape (Metaα)
+Solaborate
+Viadeo
+XING
+Yammer
+Defunct
+App.net
+AsianAve
+Avatars United
+Bebo
+Bolt
+Capazoo
+eConozco
+Emojli
+eWorld
+Eyegroove
+FitFinder
+Formspring
+FriendFeed
+Friends Reunited
+Friendster
+Grono.net
+Google+
+Google Buzz
+Heello
+Highlight
+Houseparty
+Hyves
+IdeaPlane
+iTunes Ping
+iWiW
+Jaiku
+Keek
+Lifeknot
+LunarStorm
+Me2day
+Meerkat
+MixBit
+Mobli
+Mugshot
+Multiply
+Musical.ly
+Natter Social Network
+Netlog
+NK.pl
+Orkut
+Path
+Periscope
+Pheed
+Piczo
+PlanetAll
+Posterous
+Pownce
+Qaiku
+SixDegrees.com
+So.cl
+Spring.me
+Streetlife
+Surfbook
+tbh
+Tea Party Community
+Third Voice
+tribe.net
+Tout
+Tsū
+tvtag
+Vine
+Windows Live Spaces
+Wretch
+Xanga
+Yahoo! 360°
+Yahoo! Kickstart
+Yahoo! Mash
+Yahoo! Meme
+Services
+Software comparison
+White-label
+Ning
+Wall.fm
+Tools
+Social network analysis software
+Diaspora (software)
+Web 2.0 Suicide Machine
+Concepts
+Attention inequality
+Cybersectarianism
+Fediverse
+1+ million users
+Online identity
+Small-world experiment
+Small-world network
+Social network
+Thirst trap
+User profile
+Virtual community
+Applications
+Hospitality exchange service
+Mobile
+Online dating service (comparison)
+Social network advertising
+Social network hosting service
+User interface
+Activity stream
+Brand page
+Groups
+Hashtag
+Like button
+Online petitions
+Polling
+Reblogging
+Stories
+Implications
+Issues relating to social networking services
+Privacy issues
+Use in investigations
+User gender difference
+Protocols
+ActivityPub
+Distributed Social Networking Protocol (defunct)
+Micropub
+OpenSocial (defunct)
+OStatus
+Pump.io
+XMPP
+
+vteMost popular social media accounts and postsAccounts
+Most-followed Facebook pages
+Most-followed Instagram accounts
+Most-followed TikTok accounts
+Most-followed Twitch channels
+Most-followed Twitter accounts
+YouTube channels
+most-subscribed
+most-viewed
+Posts and videos
+Most-liked Instagram posts
+Most-liked TikTok videos
+Tweets
+most-liked
+most-retweeted
+Most-viewed online videos in the first 24 hours
+music videos
+YouTube videos
+most-liked
+most-viewed
+most-disliked
+
+Authority control General
+VIAF
+1
+WorldCat
+National libraries
+Germany
+Israel
+United States
+
+
+
+
+
+<img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" />
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Instagram&oldid=1082051208"
+		Categories: Instagram2010 establishments in the United States2010 software2012 mergers and acquisitionsAndroid (operating system) softwareBlackBerry softwareCompanies based in San FranciscoMeta Platforms acquisitionsMeta Platforms applicationsImage sharing websitesInternet properties established in 2010IOS softwareMobile softwarePhoto softwareProprietary cross-platform softwareShorty Award winnersSymbian softwareVideo softwareWatchOS softwareWindows Phone softwareHidden categories: CS1 errors: generic nameCS1 maint: url-statusWikipedia indefinitely semi-protected pagesUse mdy dates from March 2022Articles containing potentially dated statements from October 2015All articles containing potentially dated statementsAll articles lacking reliable referencesArticles lacking reliable references from February 2020Citation overkillArticles tagged with the inline citation overkill template from November 2021Articles containing potentially dated statements from 2014Articles to be expanded from December 2021All articles to be expandedArticles using small message boxesCommons category link from WikidataTwitter username different from WikidataArticles with VIAF identifiersArticles with WORLDCATID identifiersArticles with GND identifiersArticles with J9U identifiersArticles with LCCN identifiers
+	
+
+
+	
+
+
+
+	Navigation menu
+	
+		
+
+	
+		Personal tools
+	
+	
+		
+		Not logged inTalkContributionsCreate accountLog in
+		
+	
+
+
+		
+			
+
+	
+		Namespaces
+	
+	
+		
+		ArticleTalk
+		
+	
+
+
+			
+
+	
+	
+		English
+	
+	
+		
+		
+		
+	
+
+
+		
+		
+			
+
+	
+		Views
+	
+	
+		
+		ReadView sourceView history
+		
+	
+
+
+			
+
+	
+	
+		More
+	
+	
+		
+		
+		
+	
+
+
+			
+
+	
+			
+				Search
+			
+		
+			
+				
+				
+				
+				
+			
+		
+	
+
+
+		
+	
+	
+
+
+	
+		
+	
+	
+
+	
+		Navigation
+	
+	
+		
+		Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+	
+
+
+	
+
+	
+		Contribute
+	
+	
+		
+		HelpLearn to editCommunity portalRecent changesUpload file
+		
+	
+
+
+
+	
+		Tools
+	
+	
+		
+		What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+		
+	
+
+
+
+	
+		Print/export
+	
+	
+		
+		Download as PDFPrintable version
+		
+	
+
+
+
+	
+		In other projects
+	
+	
+		
+		Wikimedia Commons
+		
+	
+
+
+	
+
+	
+		Languages
+	
+	
+		
+		AfrikaansالعربيةAragonésԱրեւմտահայերէնঅসমীয়াAsturianuAvañe'ẽAzərbaycancaتۆرکجهBasa BaliবাংলাBân-lâm-gúБеларускаяБеларуская (тарашкевіца)भोजपुरीБългарскиBosanskiBrezhonegCatalàCebuanoČeštinaChi-ChewaCymraegDanskDeutschEestiΕλληνικάЭрзяньEspañolEsperantoEuskaraفارسیFøroysktFrançaisGalegoગુજરાતી客家語/Hak-kâ-ngî한국어HausaՀայերենहिन्दीHrvatskiIdoBahasa IndonesiaItalianoעבריתJawaქართულიҚазақшаKiswahiliKurdîКыргызчаLatinaLatviešuLietuviųLi NihaMagyarमैथिलीМакедонскиMalagasyമലയാളംMaltiमराठीმარგალურიمصرىمازِرونیBahasa MelayuMinangkabauMìng-dĕ̤ng-ngṳ̄မြန်မာဘာသာNederlandsNedersaksiesनेपाली日本語Norsk bokmålNorsk nynorskOʻzbekcha/ўзбекчаਪੰਜਾਬੀپنجابیPolskiPortuguêsRomânăРусскийСаха тылаGagana SamoaᱥᱟᱱᱛᱟᱲᱤScotsShqipSimple EnglishسنڌيSlovenčinaSlovenščinaSoomaaligaکوردیСрпски / srpskiSrpskohrvatski / српскохрватскиSuomiSvenskaTagalogதமிழ்Татарча/tatarçaၽႃႇသႃႇတႆး తెలుగుTetunไทยТоҷикӣTürkçeTürkmençeТыва дылУкраїнськаاردوVènetoTiếng Việt吴语ייִדישYorùbá粵語Zazaki中文
+		Edit links
+	
+
+
+
+
+
+
+
+	
+	 This page was last edited on 11 April 2022, at 03:29 (UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License 3.0;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Mobile view
+	Developers
+	Statistics
+	Cookie statement
+
+
+	
+	
+	
+
+
+
+
+
+
+
+
